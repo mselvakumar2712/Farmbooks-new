@@ -1,0 +1,226 @@
+Return-Path: <aj.rajesh@outlook.com>
+Delivered-To: sales@farmbooks.live
+Received: from linux1.aspaart.com
+	by linux1.aspaart.com with LMTP
+	id kCzZLE5P5F2uaAAABJdJKw
+	(envelope-from <aj.rajesh@outlook.com>)
+	for <sales@farmbooks.live>; Mon, 02 Dec 2019 05:09:58 +0530
+Return-path: <aj.rajesh@outlook.com>
+Envelope-to: sales@farmbooks.live
+Delivery-date: Mon, 02 Dec 2019 05:09:59 +0530
+Received: from mail-oln040092255041.outbound.protection.outlook.com ([40.92.255.41]:30586 helo=APC01-HK2-obe.outbound.protection.outlook.com)
+	by linux1.aspaart.com with esmtps (TLSv1.2:ECDHE-RSA-AES256-GCM-SHA384:256)
+	(Exim 4.92)
+	(envelope-from <aj.rajesh@outlook.com>)
+	id 1ibYog-0006y7-Iv
+	for sales@farmbooks.live; Mon, 02 Dec 2019 05:09:57 +0530
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Fs4rWRKdFpyMdULKJOelT+CaZu55qg5wQrIJCbpk2Mnfmbfs6scctCPxKhryP8YZnm9pJBlrA3FCrycDaMgZTOkr2FgA4+Gdyw0BnmQOIlAJF77JxmSevWi5du1krr6HErLhTiqqArk2NSbp1V33VDlccToIUWfFtSOBXeLDPmhmfThm/FIN0iLcYe1EI1unCrDCaQy+ndkqRos4SVbvyEbZTtS+6jIE1fBCJdhu6gcR07tEdWh/Nk/bZ9cGOosSqd//K1mH24qZblH70fB5cLhZG+Oh3qm19sl8NCArg61c8hKB1gLDpwbg3dBbpHeeo0RoJyO5oZ++ncUODSvS9Q==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=nZSpQFIPYVj5NwU45SKZPX4IYBUZmHitVhZNdDXKMt8=;
+ b=m3SLVks/Iv2ZkvgMk34AMJV+m0N3sSytw2oiojcWUerjgGsldVfqC5+lsXjhfTtKuI/NQcXgLVedvntneReHnt4q9b1w2HhXm4NjtPDkurdoqbR2MwsXQ5Y1mCDE++P4kDO2KbECkLP5aO2VavwrXyyo8QaOR4qn+fnFgPs1jcvSND3bW/3w6BP/Y9i2ZdX9CPHrPPfHTN8Ct0Igbhp+g9s5SRZVS2qRD9xAMIk5TUeuYOsRWSJFqnDrSLb5GefDYIVbjWzXiP6L/Uvk4+7wV9GNgc49/yacSBfAYZIuVu29+jIldEf+Fl/uOYMerhAanzMeyhQJn4N9Okx4rASuuw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=none; dmarc=none;
+ dkim=none; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=outlook.com;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=nZSpQFIPYVj5NwU45SKZPX4IYBUZmHitVhZNdDXKMt8=;
+ b=DxK7veQZERfqXW1MGS/TTDgg4FsswN4MaXPo4ZmwNSWI9SypbiJRLrKB8g3mf7bo39gfkxbIZZsZFIvEjRfEAyt673didRF/9tMJbvE47pVUdg3ZA7uAq3axf90Jhkc0+hemsUM9ZhydoHQwC9usIMdOVK48/WQGZ7WEsxuCitulTEdTEgTZHxikISIisHz6ce/a0ArmWNWvpJbbdPSnIYPPTFH/HMspeo+s/SX6CWLy8gKvzRQ3LPiJw7Mwk4rb1hWG6dhdjurt6EwegJM4GkavPxYIioaZmEuYW5xG7Ne4cPmVAiw2OdK17dfqSkDd7/9ecvJ98KMZ/9qLbB2ZMA==
+Received: from PU1APC01FT018.eop-APC01.prod.protection.outlook.com
+ (10.152.252.59) by PU1APC01HT034.eop-APC01.prod.protection.outlook.com
+ (10.152.253.93) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.2495.25; Sun, 1 Dec
+ 2019 23:38:20 +0000
+Received: from PS1PR04MB3479.apcprd04.prod.outlook.com (10.152.252.53) by
+ PU1APC01FT018.mail.protection.outlook.com (10.152.253.189) with Microsoft
+ SMTP Server (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.20.2495.25 via Frontend Transport; Sun, 1 Dec 2019 23:38:19 +0000
+Received: from PS1PR04MB3479.apcprd04.prod.outlook.com
+ ([fe80::fd8b:1349:998e:c5ac]) by PS1PR04MB3479.apcprd04.prod.outlook.com
+ ([fe80::fd8b:1349:998e:c5ac%6]) with mapi id 15.20.2495.014; Sun, 1 Dec 2019
+ 23:38:20 +0000
+From: Jude RAJESH <aj.rajesh@outlook.com>
+To: "sales@farmbooks.live" <sales@farmbooks.live>
+Subject: RE: EOI-Farmbooks
+Thread-Topic: RE: EOI-Farmbooks
+Thread-Index: AdWooErAtI43WIb2RBiGvWMnbyuHog==
+Importance: high
+X-Priority: 1
+Date: Sun, 1 Dec 2019 23:38:19 +0000
+Message-ID:
+ <PS1PR04MB347962047D07CD4B29891253FE400@PS1PR04MB3479.apcprd04.prod.outlook.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-incomingtopheadermarker:
+ OriginalChecksum:AF2B5AAAA1743CBE8C78F57A361A0F283264DF915042CDA58EC69887F2D3B217;UpperCasedChecksum:31BB646154E0865B035E224F2EF5F95C5537D967BAE9FBDF095DDA857DCFAD8B;SizeAsReceived:6843;Count:44
+x-tmn: [B0iVXnUlcmDMuaPbuReU4PA2G4+DXldBJIVrebO70EU94RgIEA64DhNAK/fnK9tb]
+x-ms-publictraffictype: Email
+x-incomingheadercount: 44
+x-eopattributedmessage: 0
+x-ms-office365-filtering-correlation-id: a0cd67eb-9295-4e7e-3fd7-08d776b78c40
+x-ms-traffictypediagnostic: PU1APC01HT034:
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ yXboLJLrsrUtColKAftoOE1sweu7PSqEwbtqmB14bqtNDsyN3wepAbkokXOSz9caJW1uTITOX2M3QCL2/+GojjwTfaTBr9GjHM+Z1VCEHEZu5opAWueNueuxuRtsKSxnAShhWQ50/VNbn96y2G9VQ8gC9vYZk3Q84hLLVMzF58ZxT0x8Az+rbb/JkPkPcJow4Xnt1Ikj2ZPsBU/3PIFUBZCgxB07h657ziqqo/j231U=
+x-ms-exchange-transport-forked: True
+Content-Type: multipart/alternative;
+	boundary="_000_PS1PR04MB347962047D07CD4B29891253FE400PS1PR04MB3479apcp_"
+MIME-Version: 1.0
+X-OriginatorOrg: outlook.com
+X-MS-Exchange-CrossTenant-RMS-PersistedConsumerOrg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-Network-Message-Id: a0cd67eb-9295-4e7e-3fd7-08d776b78c40
+X-MS-Exchange-CrossTenant-rms-persistedconsumerorg: 00000000-0000-0000-0000-000000000000
+X-MS-Exchange-CrossTenant-originalarrivaltime: 01 Dec 2019 23:38:19.9628
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Internet
+X-MS-Exchange-CrossTenant-id: 84df9e7f-e9f6-40af-b435-aaaaaaaaaaaa
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: PU1APC01HT034
+X-Spam-Status: No, score=-0.2
+X-Spam-Score: -1
+X-Spam-Bar: /
+X-Ham-Report: Spam detection software, running on the system "linux1.aspaart.com",
+ has NOT identified this incoming email as spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  Good Morning Farm Books Team, I am interested in your product
+    for our Sathyamangalam Location. Please contact me. Thanks & Regards, Jude
+    RAJESH, Integrated Coconut & Banana Farm Producer Company Limited Mobile#
+    +919004521080 ; Email: ICB.FPO@gmail.com<mailto:ICB. ; ICB.FPO@outlook.com<mailto:ICB.
+    ; aj.rajesh@outl [...] 
+ Content analysis details:   (-0.2 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: outlook.com]
+ -0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at https://www.dnswl.org/,
+                              no trust
+                             [40.92.255.41 listed in list.dnswl.org]
+ -0.0 SPF_HELO_PASS          SPF: HELO matches SPF record
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (aj.rajesh[at]outlook.com)
+ -0.0 SPF_PASS               SPF: sender matches SPF record
+  0.0 HTML_MESSAGE           BODY: HTML included in message
+  0.1 DKIM_SIGNED            Message has a DKIM or DK signature, not necessarily
+                             valid
+ -0.1 DKIM_VALID_AU          Message has a valid DKIM or DK signature from
+                             author's domain
+ -0.1 DKIM_VALID             Message has at least one valid DKIM or DK signature
+ -0.1 DKIM_VALID_EF          Message has a valid DKIM or DK signature from
+                             envelope-from domain
+X-Spam-Flag: NO
+
+--_000_PS1PR04MB347962047D07CD4B29891253FE400PS1PR04MB3479apcp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Good Morning Farm Books Team,
+I am interested in your product for our Sathyamangalam Location. Please con=
+tact me.
+
+Thanks & Regards,
+Jude RAJESH, Integrated Coconut & Banana Farm Producer Company Limited
+Mobile# +919004521080 ; Email: ICB.FPO@gmail.com<mailto:ICB.FPO@gmail.com>;=
+ ICB.FPO@outlook.com<mailto:ICB.FPO@outlook.com>; aj.rajesh@outlook.com<mai=
+lto:aj.rajesh@outlook.com>
+LinkedIn Profile : https://www.linkedin.com/in/jude-fernando-99184a12/
+
+
+
+--_000_PS1PR04MB347962047D07CD4B29891253FE400PS1PR04MB3479apcp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:x=3D"urn:schemas-microsoft-com:office:excel" xmlns:m=3D"http://schema=
+s.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org/TR/REC-html=
+40">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)">
+<style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.EmailStyle17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]-->
+</head>
+<body lang=3D"EN-IN" link=3D"#0563C1" vlink=3D"#954F72">
+<div class=3D"WordSection1">
+<p class=3D"MsoNormal">Good Morning Farm Books Team,<o:p></o:p></p>
+<p class=3D"MsoNormal">I am interested in your product for our Sathyamangal=
+am Location. Please contact me.
+<o:p></o:p></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-IN">Thanks &a=
+mp; Regards, <o:p>
+</o:p></span></p>
+<p class=3D"MsoNormal" style=3D"background:white;vertical-align:baseline"><=
+span style=3D"font-size:12.0pt;color:black;mso-fareast-language:EN-IN">Jude=
+ RAJESH,&nbsp;Integrated Coconut &amp; Banana Farm Producer Company Limited=
+<o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span lang=3D"FR" style=3D"font-size:12.0pt;color:bl=
+ack;mso-fareast-language:EN-IN">Mobile# &#43;919004521080&nbsp;; Email:
+<a href=3D"mailto:ICB.FPO@gmail.com"><span style=3D"color:#0563C1">ICB.FPO@=
+gmail.com</span></a>;
+<a href=3D"mailto:ICB.FPO@outlook.com"><span style=3D"color:#0563C1">ICB.FP=
+O@outlook.com</span></a>;
+<a href=3D"mailto:aj.rajesh@outlook.com"><span style=3D"color:#0563C1">aj.r=
+ajesh@outlook.com</span></a><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-IN">LinkedIn =
+Profile : <a href=3D"https://www.linkedin.com/in/jude-fernando-99184a12/">
+<span style=3D"color:#0563C1">https://www.linkedin.com/in/jude-fernando-991=
+84a12/</span></a><o:p></o:p></span></p>
+<p class=3D"MsoNormal"><span style=3D"mso-fareast-language:EN-IN"><o:p>&nbs=
+p;</o:p></span></p>
+<p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p>
+</div>
+</body>
+</html>
+
+--_000_PS1PR04MB347962047D07CD4B29891253FE400PS1PR04MB3479apcp_--

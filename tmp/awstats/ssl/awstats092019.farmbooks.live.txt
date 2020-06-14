@@ -1,0 +1,1927 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201909 will be lost/reset.
+# Last config file used to build this data file was /home/farmbooks/tmp/awstats/ssl/awstats.farmbooks.live.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2690                
+POS_VISITOR 11661               
+POS_DAY 18664               
+POS_DOMAIN 3565                
+POS_LOGIN 4079                
+POS_ROBOT 4234                
+POS_WORMS 4900                
+POS_EMAILSENDER 5031                
+POS_EMAILRECEIVER 5174                
+POS_SESSION 19516               
+POS_SIDER 19727               
+POS_FILETYPES 5309                
+POS_DOWNLOADS 5629                
+POS_OS 5677                
+POS_BROWSER 5940                
+POS_SCREENSIZE 7217                
+POS_UNKNOWNREFERER 7291                
+POS_UNKNOWNREFERERBROWSER 8000                
+POS_ORIGIN 8154                
+POS_SEREFERRALS 8299                
+POS_PAGEREFS 8525                
+POS_SEARCHWORDS 8805                
+POS_KEYWORDS 8983                
+POS_MISC 2354                
+POS_ERRORS 9070                
+POS_CLUSTER 3935                
+POS_SIDER_404 9230                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191001003326 5 714 11388822118981
+FirstTime 20190901002816
+LastTime 20190930203417
+LastUpdate 20191001173106 5 0 4 0 0
+TotalVisits 263                 
+TotalUnique 164                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 177                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+DirectorSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 10 61 1896938 6 66 270707
+1 9 36 1141030 7 18 695226
+2 3 3 124307 69 71 184361
+3 14 31 1049236 6 23 599720
+4 7 7 289651 5 21 463202
+5 11 11 404560 5 10 127801
+6 10 35 1149867 7 28 1209671
+7 9 85 1093022 9 38 1534413
+8 6 6 218902 2 7 56901
+9 128 227 6763733 14 23 330752
+10 1766 2060 40901499 114 125 349783
+11 1917 2321 65770517 182 214 1548475
+12 2656 3258 79421579 194 243 2672666
+13 2564 2966 98517483 155 187 1609066
+14 2045 2141 58978874 112 115 255290
+15 2386 2722 72657663 147 169 743513
+16 1181 1291 27731570 67 83 771271
+17 226 357 8017297 20 28 315709
+18 136 191 6301565 8 34 1379777
+19 226 427 10157090 29 62 2190455
+20 176 204 4696673 17 32 454995
+21 58 94 2685096 9 40 1412944
+22 14 46 1526618 32 58 2495468
+23 2 2 78037 7 50 826848
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 20
+in 13773 15757 410973396
+us 1673 2549 71405717
+cn 32 126 4515191
+de 30 30 622731
+ca 13 24 869973
+ru 11 11 350611
+gb 6 31 988936
+fr 5 5 206745
+tr 3 3 124047
+it 2 2 53087
+za 2 28 825096
+br 2 2 53097
+cz 1 1 11736
+vg 1 1 41349
+pl 1 1 41349
+bz 1 1 41349
+es 1 7 349402
+hn 1 1 16297
+ec 1 1 41349
+dk 1 1 41349
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 13
+bingpreview 142 9851275 20190927221749 0
+Googlebot/ 78 3631090 20190928060038 0
+YandexMobileBot/ 63 2857582 20190927000044 0
+bingbot/ 28 974896 20190927231319 0
+bot[\s_+:,\.\;\/\\-] 23 934255 20190928104321 0
+spider 18 836764 20190906071015 0
+AhrefsBot/ 17 629883 20190929201152 0
+Googlebot\-Image/ 12 2775 20190919232945 0
+(firefox/)([0-9]\.|[0-1][0]\.) 8 41349 20190928071559 0
+YandexBot/ 4 90240 20190919213458 0
+DuckDuckGo\-Favicons\-Bot/ 4 85810 20190929212429 0
+no_user_agent 2 82698 20190923015239 0
+link 1 0 20190930024727 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 13
+woff2 143 8714404 0 0
+eot 4 552384 0 0
+js 796 63241211 0 0
+css 570 18180242 0 0
+png 1581 2771248 0 0
+env 1 11740 0 0
+jpeg 3 82504 0 0
+Unknown 14773 361647841 0 0
+woff 2 196048 0 0
+php 5 58704 0 0
+html 630 21158027 0 0
+map 2 856553 0 0
+jpg 72 14101901 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 14
+win7 9841 8807
+ios_iphone 30 4
+macosx10 1 1
+macosx12 24 7
+macosx 57 7
+macosx8 3 3
+linux 227 55
+linuxandroid 435 78
+winxp 26 15
+Unknown 114 39
+macosx11 16 16
+win8.1 197 73
+win10 7581 6451
+unix 30 4
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 57
+chrome74.0.3729.157 1 1
+firefox42.0 1 1
+chrome69.0.3494.0 22 2
+mozilla 109 34
+firefox62.0 6 6
+safari10.0 1 1
+firefox69.0 723 259
+safari12.1.2 29 3
+chrome45.0.2454.94 1 1
+chrome77.0.3865.90 230 89
+chrome67.0.3396.87 32 6
+chrome77.0.3844.0 54 4
+chrome71.0.3578.80 2 2
+chrome66.0.3359.181 23 23
+firefox60.0 101 34
+msie11.0 85 7
+firefox63.0 53 3
+safari11.0 1 1
+chrome33.0.1750.154 1 1
+chrome77.0.3865.73 56 4
+chrome38.0.1025.166 26 1
+firefox65.0 1 1
+firefox54.0 1 1
+chrome75.0.3770.143 93 15
+chrome26.0.1410.65 3 3
+chrome63.0.3239.132 62 10
+chrome76.0.3809.132 14893 13546
+firefox66.0 2 2
+chrome34.0.1847.131 1 1
+chrome76.0.3809.100 3 3
+safari11.1.2 27 2
+firefox47.0 16 16
+chrome72.0.3626.119 96 13
+chrome77.0.3865.92 4 2
+chrome67.0.3396.99 2 2
+chrome51.0.2704.103 1 1
+chrome74.0.3729.169 3 3
+edge18 28 2
+chrome64.0.3282.186 24 7
+chrome42.0.2311.90 1 1
+chrome74.0.3729.131 6 6
+msie6.0 21 10
+firefox68.0 1 1
+chrome5.0.375.99 3 3
+firefox67.0 1 1
+chrome40.0.2214.85 63 19
+chrome69.0.3497.100 46 3
+chrome74.0.3694.0 28 3
+chrome70.0.3538.102 27 2
+chrome57.0.2987.108 28 2
+chrome39.0.2171.95 1 1
+Unknown 7 7
+chrome71.0.3578.98 36 5
+chrome76.0.3809.136 30 4
+chrome77.0.3865.75 1364 1354
+chrome58.8.3029.81 90 24
+chrome75.0.3770.142 12 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190925064137
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190925083212
+Mozilla/4.0_(compatible;_ms-office;_MSOffice_16) 20190907072250
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190907075559
+python-requests/2.22.0 20190927093831
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190927014619
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190910195201
+Go-http-client/1.1 20190920092507
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go-http-client/1.1 20190920092507
+python-requests/2.22.0 20190927093831
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 299 466
+From1 9 20
+From2 28 28
+From3 6 6
+From4 15218 18062
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 4
+www_google_com 25 25
+www_google_com_hk 1 1
+www_google_de 1 1
+www_google_co_in 1 1
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://webmail.farmbooks.live/wp-login.php 3 3
+http://cpanel.farmbooks.live/wp-login.php 2 2
+http://www.xpzb.net/blog/10359712/ 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 1
+https+//farmbooks.live/ 1
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 2
+//farmbooks.live/ 1
+https 1
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+307 490 0
+401 10 348
+303 449 0
+421 26 8372
+500 5 8006
+206 36 2173261
+404 263 290410
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 71
+/shop/rss/catalog/review 1 -
+/dev/errors/503.php 1 -
+/old/index.php/admin/ 1 -
+/demo/rss/catalog/notifystock 1 -
+/vb5/ 1 -
+/demo/index.php/admin/ 1 -
+/test/errors/503.php 1 -
+/old/rss/order/new 1 -
+/store/rss/catalog/notifystock 1 -
+/staging/rss/order/new 1 -
+/forum/ 1 -
+/staging/rss/catalog/notifystock 1 -
+/test/rss/catalog/review 1 -
+/index.php/admin/ 1 -
+/forums/ 1 -
+/store/errors/503.php 1 -
+/shop/rss/catalog/notifystock 1 -
+/ads.txt 39 -
+/shop/errors/503.php 1 -
+/dev/downloader/index.php 1 -
+/assets/js/bootstrap.min.js 1 https://farmbooks.live/home/contactus
+/demo/downloader/index.php 1 -
+/store/downloader/index.php 1 -
+/magento/rss/catalog/review 1 -
+/sitemap.xml 1 -
+/old/rss/catalog/review 1 -
+/test/rss/order/new 1 -
+/magento/errors/503.php 1 -
+/shop/rss/order/new 1 -
+/xmlrpc.php 1 -
+/dev/rss/catalog/notifystock 1 -
+/robots.txt 78 -
+/rss/order/new 1 -
+/staging/errors/503.php 1 -
+/dev/rss/order/new 1 -
+/administrator/finance/gl_accounts 4 https://farmbooks.live/fpo/finance/glaccounts/cash
+/old/errors/503.php 1 -
+/demo/rss/order/new 1 -
+/store/rss/catalog/review 1 -
+/dev/index.php/admin/ 1 -
+/vbulletin5/ 1 -
+/%20fpo/inventory/getquantityunit 4 https://farmbooks.live/fpo/inventory/purchaseentry
+/magento/downloader/index.php 1 -
+/magento/index.php/admin/ 1 -
+/app-ads.txt 45 -
+/test/downloader/index.php 1 -
+/errors/503.php 1 -
+/test/rss/catalog/notifystock 1 -
+/test/index.php/admin/ 1 -
+/fpo/farmer/getProductList 27 https://farmbooks.live/fpo/farmer/addfarmer
+/magento/rss/order/new 1 -
+/assets/vendor/fontawesome-free/css/all.min.css 2 https://farmbooks.live/fpo/fpo/changepassword/32900015
+/dev/rss/catalog/review 1 -
+/store/index.php/admin/ 1 -
+/vbulletin/ 1 -
+/old/rss/catalog/notifystock 1 -
+/.env 1 -
+/vb/ 1 -
+/downloader/index.php 1 -
+/store/rss/order/new 1 -
+/demo/errors/503.php 1 -
+/staging/index.php/admin/ 1 -
+/magento/rss/catalog/notifystock 1 -
+/demo/rss/catalog/review 1 -
+/rss/catalog/notifystock 1 -
+/staging/rss/catalog/review 1 -
+/shop/downloader/index.php 1 -
+/shop/index.php/admin/ 1 -
+/old/downloader/index.php 1 -
+/rss/catalog/review 1 -
+/staging/downloader/index.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 177
+59.90.30.50 4656 5036 115240010 20190928154316
+163.53.204.74 3318 3928 112687658 20190930130002
+106.198.52.235 2187 2197 32372877 20190910204501
+157.51.237.179 1442 1450 36505052 20190906161907
+106.198.53.253 1260 1266 34974825 20190907163725
+106.198.30.116 731 790 18339531 20190911153455
+106.198.6.214 638 838 44463347 20190913143633
+223.181.231.226 552 554 18771782 20190912155810
+117.215.212.81 112 263 6555085 20190907154916
+210.18.181.70 102 375 11437466 20190924183015
+223.181.235.67 64 71 3367459 20190923133826
+157.46.84.53 45 103 3858192 20190915093636
+59.93.20.243 44 129 2570186 20190910192842
+59.96.55.189 27 59 1668740 20190913120833
+157.46.20.121 23 64 2743563 20190902195552
+157.46.18.251 23 76 1862774 20190905175258
+117.98.176.99 19 20 528187 20190909160327
+60.191.38.77 16 16 642904 20190925190453
+106.198.30.25 16 17 1031681 20190913160458
+138.246.253.5 15 15 0 20190930035733
+106.198.67.51 14 16 688164 20190919124132
+117.206.123.143 7 36 1190559 20190916105550
+167.114.157.79 6 6 223042 20190909212119
+157.50.96.253 6 32 990516 20190920190611
+157.46.26.40 6 32 990492 20190920150351
+167.71.93.228 1 1 36676 20190905135750
+34.212.249.255 1 1 41349 20190906052153
+111.7.100.22 0 7 418094 
+204.101.161.159 3 14 511143 20190902094721
+89.35.29.38 1 1 41349 20190923212841
+107.178.200.237 1 11 528711 20190920105846
+173.212.192.165 5 22 789406 20190920031802
+27.115.124.4 0 2 0 
+18.237.226.74 1 1 41349 20190908094827
+106.198.74.12 3 29 866445 20190922165428
+27.115.124.3 0 3 88781 
+137.226.113.27 4 4 166228 20190927014619
+54.202.184.223 3 28 865097 20190909000915
+194.27.186.118 3 3 124047 20190909033921
+52.32.170.155 1 1 41349 20190907093434
+36.99.136.134 1 1 41349 20190901123402
+52.37.117.39 1 1 41349 20190901065504
+54.186.157.134 1 1 41349 20190926213953
+69.171.251.28 1 7 160466 20190914165938
+180.167.238.138 1 1 41349 20190901104609
+157.51.226.88 4 30 907794 20190924194047
+185.234.217.41 1 1 11740 20190913112427
+78.46.85.86 1 1 41349 20190901173513
+111.7.100.23 0 6 194010 
+111.7.100.24 2 21 426294 20190901125001
+177.36.8.226 1 1 11748 20190906113305
+167.71.108.109 1 1 36688 20190905013228
+101.4.60.123 0 2 2532 
+181.112.217.78 1 1 41349 20190908044759
+27.115.124.2 0 1 37173 
+157.51.80.60 2 28 825096 20190922211556
+74.208.40.161 1 1 41349 20190910105842
+104.133.10.72 4 30 1681649 20190926201742
+223.181.242.84 2 28 845960 20190922153605
+185.137.234.26 2 2 82698 20190916110122
+107.178.232.255 1 11 528711 20190915214835
+157.51.164.91 3 28 692811 20190922092315
+69.171.251.48 1 8 299495 20190925143429
+34.221.141.80 1 1 41349 20190906054439
+144.168.162.250 1 1 41349 20190912204954
+167.71.97.209 1 1 36676 20190907015807
+34.217.174.241 1 1 41349 20190926032459
+49.204.232.11 4 33 1066512 20190925131854
+108.62.5.91 2 2 57646 20190902122417
+157.46.48.104 4 30 907818 20190920120227
+69.171.251.54 1 8 194706 20190925143445
+52.27.39.183 1 1 41349 20190908020017
+173.252.95.24 0 6 346211 
+167.71.93.194 1 1 41349 20190905044336
+42.111.145.143 5 8 365463 20190918223545
+3.86.139.39 2 27 823540 20190928134850
+192.24.154.73 1 1 41349 20190908044840
+85.10.207.246 1 1 41349 20190903115317
+18.234.75.42 1 26 746380 20190925121513
+188.165.192.220 1 1 41349 20190904055911
+213.159.213.236 1 1 41349 20190930180602
+69.171.251.14 0 6 322772 
+101.4.60.63 0 3 70966 
+52.40.211.176 1 1 41349 20190908100124
+34.222.213.191 1 1 41349 20190920092507
+34.216.229.60 2 2 82698 20190902120441
+134.209.157.149 1 1 11742 20190911181315
+54.202.85.157 1 1 41349 20190910055642
+170.244.92.183 1 1 41349 20190930203417
+111.7.100.27 0 5 231125 
+54.189.115.18 2 2 82698 20190909112730
+54.203.32.169 2 2 82698 20190908115004
+109.71.181.170 2 2 57646 20190907165903
+52.36.9.39 2 2 82698 20190901101058
+106.211.236.201 2 28 825096 20190920151829
+34.246.176.62 1 1 41349 20190910071459
+167.71.240.68 1 1 41557 20190905053822
+106.198.5.100 3 3 84522 20190907123139
+54.93.98.249 1 1 11737 20190915223242
+54.185.126.146 1 1 41349 20190909012249
+80.211.63.162 1 1 41349 20190927101305
+170.244.93.181 1 1 41349 20190928045548
+157.51.250.71 2 28 825096 20190922124929
+167.71.93.201 1 1 41609 20190905125448
+167.71.85.63 1 1 41349 20190905125053
+51.77.129.167 2 27 823540 20190910195200
+54.185.50.6 1 1 41349 20190901002816
+92.63.194.45 1 1 41349 20190904183432
+54.152.33.197 2 27 823540 20190925064428
+173.252.95.32 1 11 277671 20190909135343
+79.191.125.26 1 1 41349 20190928160423
+167.71.251.233 1 1 36676 20190905052328
+93.171.202.120 1 1 11736 20190916034823
+62.210.9.65 1 1 41349 20190925145549
+69.171.251.51 0 7 348179 
+34.220.220.171 2 2 82698 20190907062341
+3.219.167.70 2 27 823540 20190925155013
+191.102.182.98 1 1 16297 20190918134017
+18.207.249.160 2 27 823540 20190919171431
+52.42.143.184 1 1 41349 20190907000406
+111.7.100.21 5 24 839097 20190901123407
+62.210.36.170 1 1 41349 20190909065514
+173.252.95.9 1 9 197509 20190909135351
+181.177.99.115 1 1 41349 20190914234857
+192.99.15.139 2 2 82698 20190927093831
+54.184.153.49 2 2 82698 20190906085614
+163.172.70.215 1 1 41349 20190930155030
+83.34.29.77 1 7 349402 20190907155011
+52.42.99.115 1 1 41349 20190902004259
+111.7.100.25 2 8 517361 20190901124952
+157.51.169.186 1 1 41349 20190922173656
+111.7.100.20 2 16 685147 20190901123355
+104.132.20.87 4 33 1066512 20190925223004
+158.69.241.225 1 1 41349 20190923061350
+167.71.90.107 1 1 41557 20190905135148
+18.206.214.220 2 27 823540 20190919185014
+82.202.161.133 1 1 41349 20190922050233
+49.205.157.231 3 29 866445 20190922131420
+137.97.159.157 4 31 909350 20190901121846
+49.205.141.104 3 3 124047 20190923112234
+66.102.7.8 0 10 349575 
+46.172.99.111 3 3 74480 20190913170502
+3.209.82.90 2 27 823540 20190925121851
+66.102.7.4 0 7 44505 
+34.67.64.119 1 1 41349 20190926051540
+54.193.23.130 1 1 41349 20190913113435
+137.226.113.28 5 5 207785 20190925064137
+167.71.252.39 1 1 41609 20190905021549
+34.217.56.201 1 1 41349 20190910011946
+62.210.83.78 2 2 82698 20190930092018
+66.102.7.6 1 9 352300 20190925173633
+107.23.185.146 1 19 436178 20190925121210
+159.89.2.220 1 1 11741 20190906084105
+54.169.25.204 2 2 82698 20190914112713
+34.222.86.223 1 1 41349 20190926194815
+193.70.34.209 2 2 53087 20190922095204
+167.71.191.126 1 1 36688 20190907075559
+3.0.99.98 2 2 82698 20190906161247
+34.67.12.61 1 1 41349 20190915024457
+51.15.124.33 1 1 41349 20190927205614
+174.80.236.209 4 80 961690 20190907072335
+51.159.30.34 1 1 41349 20190906142604
+148.251.52.53 1 1 41349 20190903125951
+163.172.71.49 1 1 41349 20190906170711
+137.226.113.26 3 3 124671 20190918072335
+157.245.14.163 1 1 36688 20190905133825
+69.171.251.2 1 14 316451 20190914165932
+103.221.68.106 1 1 41349 20190909174510
+41.114.153.68 2 28 825096 20190912002317
+54.144.81.46 2 27 823540 20190929011050
+111.7.100.26 1 8 196311 20190901123351
+157.50.3.66 1 1 33 20190930121833
+120.33.229.6 2 2 82698 20190912000114
+34.221.245.167 1 1 41349 20190909094809
+189.26.213.172 1 1 41349 20190908044913
+157.51.194.22 2 4 397224 20190926185438
+167.71.109.2 1 1 41349 20190906183142
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 30
+20190901 24 134 4747581 13
+20190902 31 83 3436399 5
+20190903 2 2 82698 2
+20190904 4 4 165812 4
+20190905 1694 2151 69616386 16
+20190906 1697 1755 47449630 18
+20190907 2514 2760 76457289 20
+20190908 10 10 330792 9
+20190909 1100 1246 18667934 14
+20190910 3758 3911 54613948 13
+20190911 1599 1685 37275764 11
+20190912 786 814 30251108 12
+20190913 1008 1324 67598384 9
+20190914 7 33 990492 6
+20190915 49 117 4439989 5
+20190916 43 139 4178351 6
+20190917 108 164 3978106 9
+20190918 22 67 2263020 9
+20190919 7 85 1941822 4
+20190920 107 355 13030016 10
+20190921 2 4 169833 2
+20190922 18 173 5045900 9
+20190923 247 298 9117591 7
+20190924 67 160 5407530 4
+20190925 30 281 9428343 16
+20190926 12 47 2327177 8
+20190927 7 7 289651 5
+20190928 566 686 15017167 7
+20190929 3 29 823540 2
+20190930 38 58 2430554 8
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 186
+30mn-1h 9
+15mn-30mn 11
+30s-2mn 14
+5mn-15mn 7
+1h+ 23
+2mn-5mn 13
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 1281
+/fpo/dashboard/supportEnquiry 3436 755920 0 22
+/fpo/farmer/getDistrictByState/29 573 862365 0 0
+/ 504 20070532 219 175
+/administrator/Login/getvillages/2930001001 491 1289366 0 0
+/fpo/masterdata/getproduct 483 284981 1 4
+/administrator/Login/getPanchayat/2930001 386 940682 0 0
+/fpo/farmer/getBlocksByDistrict/2930 362 169778 0 0
+/fpo/farmer/profilelist 326 17990734 1 0
+/fpo/farmer 320 2819009 0 0
+/fpo/fpg 229 9462012 0 0
+/administrator/Login/getvillages/2911003004 195 196950 0 0
+/fpo/dashboard 189 8440529 3 0
+/administrator/Login/getPanchayat/2911003 173 128539 0 0
+/fpo/masterdata/productfpolist 170 6478953 3 0
+/fpo/farmer/getBlocksByDistrict/2911 168 93912 0 0
+/administrator/login/signout 152 0 9 0
+/fpo/farmer/farmersByLocation 136 59187 0 0
+/fpo/fig 130 5296153 0 0
+/fpo/finance/getChildNodeByCode 126 30489 0 0
+/fpo/farmer/landlist 118 7136326 1 1
+/fpo/masterdata/getcategory 117 10447 1 0
+/fpo/farmer/land_list 114 128304 0 0
+/fpo/finance/salesentry 110 12671226 0 0
+/fpo/masterdata/getsubcategory 110 156330 0 1
+/administrator/Login/getPanchayat/2909004 107 290398 0 0
+/administrator/Login/getlocation/653001 3 114 0 0
+/fpo/farmer/getFarmImplementsMakeAndModel/1 33 410751 0 0
+/fpo/User/checkusername/9788592128 1 51 0 0
+/fpo/updatecrop/addharvest 7 1350691 0 0
+/fpo/updatecrop/inputmaster/728 1 123 0 0
+/popi/Login/checkusername/9952511522 2 120 0 0
+/administrator/Login/getPanchayat/2907018 1 882 0 0
+/fpo/updatecrop/varietybycategory/33 3 840 0 1
+/administrator/Login/getvillageById/2907001022/77913 1 119 0 0
+/fpo/farmer/getFarmImplementsMakeAndModel/2 7 99358 0 0
+/popi/fpo 31 857819 0 2
+/fpo/inventory/getmrp/63 1 2 0 0
+/fpo/fpg/viewfpg/15 11 574292 0 0
+/administrator/masterdata/productlist 11 674687 0 0
+/fpo/finance/purchaseregisterlist 19 760487 0 0
+/home/contactus 14 228158 2 5
+/fpo/updatecrop/varietybycategory/231 1 187 0 0
+/fpo/updatecrop/varietybycategory/145 1 913 0 0
+/administrator/fpg/viewfpg 1 46555 0 0
+/fpo/updatecrop/variety/1038 1 30 0 0
+/fpo/updatecrop/varietybycategory/162 1 79 0 0
+/fpo/farmer/getFarmImplementsModel/1/Kubota 2 946 0 0
+/fpo/updatecrop/cropnamebycategory/19 4 292 0 0
+/fpo/updatecrop/addpostharvest 8 1764416 0 0
+/fpo/operation 5 235373 0 0
+/fpo/inventory/getmrp/54 4 8 0 0
+/fpo/farmer/existedFarmerName/2090 2 138 0 0
+/fpo/finance/suppliers 3 757085 0 0
+/administrator/Login/getPanchayat/2907005 1 1639 0 0
+/fpo/masterdata/bankname/2 8 846360 0 0
+/administrator/Login/getvillages/2909001006 3 1806 0 0
+/fpo/farmer/edit_Farmer/2089 1 2236 0 0
+/fpo/finance/getProductCountByID/59 12 823 0 0
+/administrator/Login/getlocation/635001 61 99430 0 0
+/fpo/updatecrop/varietybycategory/116 1 289 0 0
+/fpo/masterdata/bankname/4 10 103830 0 0
+/fpo/updatecrop/harvestvarietymaster/2077 3 332 0 0
+/popi/Login/getvillages/2930001011 4 5968 0 0
+/administrator/Login/getvillages/2910019002 3 2940 0 0
+/fpo/farmer/getFarmImplementsModel/2/Dhevakane 1 37 0 0
+/fpo/farmer/getFarmImplementsModel/9/VST 1 37 0 0
+/fpo/farmer/editlivestock/497 4 1448 0 0
+/fpo/farmer/getFarmImplementsModel/2/Gayathri 1 37 0 0
+/fpo/updatecrop/pesticide/13 1 76 0 0
+/administrator/Login/getlocation/641301 3 6600 0 0
+/fpo/updatecrop/cropnamebycategory/23 1 845 0 0
+/administrator/Login/getlocation/636903 54 79650 0 0
+/popi/popi/popi_list 17 18071 0 0
+/fpo/farmer/getFarmImplementsMakeAndModel/17 1 3011 0 0
+/fpo/crop/cropbyname/2019-09-10/118 2 196 0 0
+/fpo/finance/getglinfo 48 896068 0 0
+/administrator/Login/getPanchayat/2911008 7 18949 0 0
+/fpo/updatecrop/varietybycategory/105 1 232 0 0
+/administrator/masterdata/addstockgroup 2 74262 0 0
+/fpo/updatecrop/varietybycategory/54 1 990 0 0
+/fpo/crop/cropbyname/2019-09-15/30 1 97 0 0
+/fpo/inventory/getbanklist/29 8 27024 0 0
+/administrator/masterdata/getdistrict 1 1476 0 0
+/fpo/updatecrop/varietybycategory/85 1 132 0 0
+/fpo/updatecrop/pesticide/19 1 77 0 0
+/fpo/farmer/getBlocksByDistrict/2928 1 438 0 0
+/popi/Login/getvillages/2909004014 2 2392 0 0
+/fpo/operation/incorporatelist 2 72916 0 0
+/fpo/farmer/viewland/531 1 273795 0 0
+/fpo/updatecrop/varietybycategory/192 1 571 0 0
+/fpo/farmer/updatelivestock/495 5 325 0 0
+/administrator/Login/getPanchayat/2911004 1 659 0 0
+/fpo/farmer/getFarmImplementsMake/7 1 100 0 0
+/fpo/share/sharesvalue 33 1692421 0 0
+/administrator/finance/profitandloss 1 35167 0 0
+/administrator/masterdata/viewsubcategory/5 2 86158 0 0
+/fpo/updatecrop/pesticide/9 1 298 0 0
+/fpo/crop/cropbyname/2019-09-01/49 1 97 0 0
+/fpo/farmer/getFarmImplementsModel/2/Jayem 1 37 0 0
+/fpo/farmer/editfarmer/2083 9 611046 0 0
+/administrator/Login/getvillages/2909004027 3 8553 0 0
+/fpo/updatecrop/varietybycategory/159 1 77 0 0
+/fpo/farmer/getAreaUOM 38 6764 0 0
+/fpo/fpo/profile_update 1 50 0 0
+/fpo/farmer/getFarmImplementsModel/2/SRM 1 37 0 0
+/administrator/fig/figrepresentlist 1 15432 0 0
+/fpo/updatecrop/pesticide/15 2 356 0 0
+/fpo/updatecrop/varietybycategory/129 1 139 0 0
+/fpo/farmer/existedFarmerName/2079 6 378 0 0
+/fpo/market/getCustomerByMobileNumber/9698105157 1 59 0 0
+/fpo/updatecrop/variety/10 1 30 0 0
+/popi/Login/getPanchayat/2930002 12 34272 0 0
+/fpo/masterdata/addbank 35 4801164 0 0
+/fpo/fig/viewfig/92 12 662352 0 0
+/fpo/farmer/getFarmImplementsMakeAndModel/6 4 10748 0 0
+/fpo/updatecrop/varietybycategory/163 1 138 0 0
+/fpo/updatecrop/varietybycategory/36 1 225 0 0
+/administrator/farmer 2 24224 0 0
+/fpo/updatecrop/pesticide/32 1 78 0 0
+/administrator/Login/getvillages/2912003002 4 17972 0 0
+/fpo/updatecrop/varietybycategory/168 1 310 0 0
+/fpo/farmer/edit_Farmer/2079 5 14095 0 0
+/administrator/masterdata/colourlist 1 41677 0 0
+/administrator/Login/checkusername/6374489526 1 51 0 0
+/fpo/farmer/getFarmImplementsModel/1/New 8 296 0 0
+/fpo/inventory/getmrp/62 1 2 0 0
+/fpo/updatecrop/pesticide/38 1 411 0 0
+/popi/Login/getvillages/2930001015 4 1656 0 0
+/fpo/farmer/editfarmer/2080 3 203406 0 0
+/administrator/Login/getvillages/2912002001 11 8679 0 0
+/fpo/inventory/getplacesupply/ 18 102798 0 0
+/fpo/finance/journalinquiry 6 285181 0 0
+/fpo/updatecrop/pesticide/4 1 1547 0 0
+/fpo/updatecrop/varietybycategory/58 2 342 0 0
+/administrator/masterdata/sizelist 1 42714 0 0
+/fpo/farmer/getFarmImplementsModel/2/John 2 74 0 0
+/fpo/updatecrop/variety/2077 3 442 0 0
+/fpo/updatecrop/varietybycategory/229 1 160 0 0
+/administrator/masterdata/viewfertilizer/2 1 275801 0 0
+/fpo/farmer/getFarmImplementsModel/2/Saeco 1 37 0 0
+/fpo/masterdata/viewproductfpo/66 1 258397 0 0
+/administrator/Login/getvillages/2909001002 2 2156 0 0
+/administrator/Login/getlocation/636909 1 38 0 0
+/fpo/updatecrop/cropnamebycategory/30 2 252 0 0
+/fpo/farmer/getFarmImplementsModel/2/Bharat 1 37 0 0
+/administrator/Login/checkusername/9943051152 3 180 0 1
+/fpo/crop/viewcrop/1 1 223812 0 0
+/administrator/user 3 81645 0 0
+/fpo/updatecrop/cropnamebycategory/22 1 204 0 0
+/fpo/updatecrop/outputmaster/49 1 29 0 0
+/fpo/updatecrop/outputmaster/113 1 29 0 0
+/fpo/finance/getProductCountByID/68 2 135 0 0
+/fpo/updatecrop/pesticide/10 1 1198 0 0
+/fpo/inventory/getmrp/68 1 75 0 0
+/fpo/updatecrop/varietybycategory/180 1 303 0 0
+/administrator/cropmaster/croplist 16 5801856 0 0
+/fpo/updatecrop/varietybycategory/137 1 344 0 0
+/fpo/updatecrop/varietybycategory/101 1 225 0 0
+/fpo/finance/postGLcustomerreports 9 6943 0 0
+/fpo/farmer/getFarmImplementsMakeAndModel/9 2 6312 0 0
+/fpo/fpo/profile/32900011 1 48581 0 0
+/fpo/approver/godownlist 7 307398 0 0
+/fpo/updatecrop/pesticide/93 2 2036 0 0
+/fpo/updatecrop/varietybycategory/169 1 82 0 0
+/fpo/updatecrop/pesticide/39 1 825 0 0
+/fpo/approver/purchaselist 1 43108 0 0
+/administrator/category/viewcategory 1 45407 0 0
+/fpo/updatecrop/cropvarietymastersDropdown/2080 1 296 0 0
+/fpo/updatecrop/harvestvarietymaster/2080 4 1256 0 0
+/fpo/updatecrop/cropnamebycategory/14 2 854 0 0
+/fpo/masterdata/viewgodown/14 4 225468 0 0
+/fpo/market/locationdetail/4020502 1 1666 0 0
+/fpo/updatecrop/pesticide/47 1 818 0 0
+/administrator/Login/getvillages/2909001027 2 3320 0 0
+/administrator/Masterdata/getImplementByName/1 1 11735 0 0
+/fpo/farmer/getFarmImplementsModel/4/Kovai 1 37 0 0
+/administrator/Login/checkusername/7708575459 1 60 0 0
+/administrator/Login/getvillages/2911001007 2 3280 0 0
+/fpo/finance/bankaccounts 6 312749 0 0
+/fpo/Updatecrop/add_updatecrop 13 4551527 0 0
+/fpo/updatecrop/varietybycategory/196 1 176 0 0
+/administrator/subcategory 4 151092 0 0
+/administrator/Login/getPanchayatByCode/2911003/undefined 2 66 0 0
+/fpo/updatecrop/varietybycategory/150 1 180 0 0
+/fpo/updatecrop/fertilizerdosage/300 1 29 0 0
+/administrator/Login/getvillages/2909001003 7 9968 0 0
+/fpo/farmer/existedFarmerName/2097 5 325 0 0
+/fpo/updatecrop/varietybycategory/117 1 239 0 0
+/assets/vendor/fontawesome/webfonts/fa-regular-400.eot 1 34388 0 0
+/fpo/updatecrop/edit_updatecrop/14 1 251082 0 0
+/fpo/farmer/getFarmImplementsModel/1/TAFE 3 2283 0 0
+/fpo/farmer/getFarmImplementsModel/4/Precision 1 37 0 0
+/fpo/updatecrop/pesticide/8 1 118 0 0
+/fpo/updatecrop/varietybycategory/154 1 144 0 0
+/popi/fpo/fpolist 14 19806 0 0
+/fpo/market/customerbranches 4 341368 0 0
+/fpo/updatecrop/variety/82 1 389 0 0
+/fpo/updatecrop/pesticide/27 1 531 0 0
+/fpo/updatecrop/output/305 1 585 0 0
+/fpo/farmer/viewfarmer/2081 1 51943 0 0
+/fpo/farmer/getLiveStockVariety/7 1 147 0 0
+/fpo/approver/receiptlist 10 435092 0 0
+/fpo/updatecrop/varietybycategory/80 1 175 0 0
+/fpo/updatecrop/cropnamebycategory/38 2 242 0 0
+/fpo/inventory/getmrp/59 7 233 0 0
+/fpo/share/getLocationByFpo/10 1 267 0 0
+/popi/fpo/viewfpo/10 2 125302 0 0
+/fpo/farmer/existedFarmerName/2086 1 69 0 0
+/fpo/farmer/getFarmImplementsModel/2/New 2 74 0 0
+/fpo/farmer/getFarmImplementsModel/1/HMT 1 37 0 0
+/fpo/crop/cropbyname/2019-08-25/29 1 98 0 0
+/fpo/finance/balancesheetdrilldown 51 2991525 0 0
+/fpo/farmer/getFarmImplementsModel/7/Makita 1 37 0 0
+/fpo/market/locationdetail/4020501 9 14994 0 0
+/fpo/farmer/getBlocksByDistrict/2901 1 632 0 0
+/fpo/finance/customeredit/61 1 152718 0 0
+/fpo/Market/customerbranchlist/63 1 1156 0 0
+/administrator/Login/getvillages/2910014007 2 2536 0 0
+/fpo/updatecrop/postharvestvariety/2080 4 1472 0 0
+/fpo/fig/figrepresentlist 69 9803 0 0
+/administrator/Login/getvillages/2909001005 2 5056 0 0
+/fpo/market/getCustomerByMobileNumber/7708575459 1 714 0 0
+/fpo/farmer/getLiveStocks/3 16 3984 0 0
+/administrator/Login/checkusername/9876543210 1 51 0 0
+/fpo/farmer/viewfarmer/2078 1 51930 0 0
+/fpo/updatecrop/cropnamebycategory/12 5 810 0 0
+/fpo/farmer/existedFarmerName/2092 8 528 0 0
+/.env 1 11740 1 1
+/fpo/masterdata/viewgodown/7 2 112218 0 0
+/fpo/farmer/editfarmer/2090 9 610929 0 0
+/administrator/Login/getvillages/2928007005 1 968 0 0
+/fpo/updatecrop/varietybycategory/230 1 178 0 0
+/administrator/fpo 2 80254 0 0
+/fpo/fig/viewfig/103 1 54448 0 0
+/fpo/updatecrop/varietybycategory/87 1 277 0 0
+/popi/fig/figrepresentlist 2 30704 0 0
+/fpo/farmer/getFarmImplementsModel/2/Bull 1 37 0 0
+/fpo/updatecrop/pesticide/111 1 74 0 0
+/assets/uploads/farmer/ 9 59443 0 0
+/fpo/finance/SalesInvoiceView/SL0001/002/4020501 1 47269 0 0
+/fpo/farmer/updateland/531 1 66 0 0
+/fpo/updatecrop/varietybycategory/197 1 85 0 0
+/fpo/farmer/getFarmImplementsMake/2 2 3002 0 0
+/fpo/inventory/getmrp/66 2 158 0 0
+/fpo/updatecrop/fertilizer/2 10 6180 0 0
+/fpo/finance/getBankAddressByBankName/844 2 3560884 0 0
+/fpo/share/shareallotment 1 42551 0 0
+/administrator/Login/getvillages/2911013008 1 727 0 0
+/fpo/fig/viewfig/101 2 110862 0 0
+/administrator/Login/getPanchayat/2928007 1 660 0 0
+/fpo/crop/cropbyname/2019-08-01/112 1 98 0 0
+/fpo/farmer/getFarmImplementsModel/2/Dharanee 1 37 0 0
+/popi/fpg 4 115878 0 0
+/fpo/share/fpo_shareapplication_list 23 884396 0 0
+/fpo/updatecrop/pesticide/91 2 160 0 0
+/fpo/updatecrop/pesticide/208 1 78 0 0
+/fpo/masterdata/addgodown 29 1470697 0 0
+/administrator/Login/getvillages/2911003003 1 221 0 0
+/fpo/share/shareshistory 2 77281 0 0
+/administrator/Login/getPanchayat/2930004 5 14575 0 0
+/fpo/updatecrop/nutrient/2 2 62 0 0
+/fpo/operation/addceo 1 56490 0 0
+/fpo/updatecrop/pesticide/26 1 448 0 0
+/administrator/masterdata/addfarmimplementsmodel 1 42467 0 0
+/fpo/updatecrop/varietybycategory/234 1 83 0 0
+/administrator/masterdata/brandlist 7 6366990 0 0
+/fpo/updatecrop/subcategorybycategory/5 12 15384 0 0
+/fpo/updatecrop/output/718 2 1182 0 0
+/popi/fpg/viewfpg/13 1 42616 0 0
+/fpo/production/dimensionEntry 1 39283 0 0
+/fpo/farmer/editlivestock/495 5 1900 0 0
+/fpo/fpo/profile/32900005 1 51001 0 0
+/fpo/updatecrop/varietybycategory/228 1 78 0 0
+/fpo/updatecrop/viewpostharvest/6 1 237550 0 0
+/fpo/farmer/editfarmer/2081 3 202863 0 0
+/fpo/updatecrop/varietybycategory/39 1 123 0 0
+/fpo/finance/getProductCountByID/new_item 5 325 0 0
+/fpo/updatecrop/varietybycategory/184 1 853 0 0
+/fpo/updatecrop/viewpostharvest/7 1 237563 0 0
+/fpo/share/bonussharecertificate 1 44555 0 0
+/fpo/farmer/getFarmImplementsModel/1/VST 3 111 0 0
+/fpo/farmer/getFarmImplementsModel/2/Andrew 3 111 0 0
+/fpo/updatecrop/landarea/532 2 518 0 0
+/fpo/masterdata/viewproductfpo/58 1 258394 0 0
+/administrator/Login/checkusername/7979797979 1 60 0 0
+/fpo/masterdata/addproductfpo 82 31107231 2 0
+/administrator/Login/getPanchayat/2911002 5 3705 0 0
+/fpo/updatecrop/nutrient/5 1 31 0 0
+/fpo/updatecrop/editexpenses_update/141 1 176574 0 0
+/fpo/updatecrop/viewpostharvest/3 1 237339 0 0
+/fpo/farmer/getFarmImplementsMake/6 1 340 0 0
+/fpo/fig/viewfig/98 3 168903 0 0
+/fpo/updatecrop/editexpenses_update/145 1 176768 0 0
+/fpo/updatecrop/land/3 1 27 0 0
+/fpo/farmer/editfarmer/67 1 67619 0 0
+/fpo/farmer/getFarmImplementsModel/2/Tirth 1 37 0 0
+/administrator/Login/getvillages/2928007001 1 591 0 0
+/popi/fpo/viewfpo/12 2 127288 1 0
+/fpo/farmer/editland/531 2 5358 0 0
+/fpo/farmer/editlivestock/494 2 728 0 0
+/fpo/updatecrop/varietybycategory/35 1 167 0 0
+/fpo/role/addrole 2 354983 0 0
+/fpo/updatecrop/view_updatecrop/1 1 235732 0 0
+/fpo/production/outstandingWorkOrderEntry 2 0 0 0
+/fpo/farmer/livestock_list 58 39453 0 0
+/fpo/finance/profitandloss 30 1863692 0 0
+/fpo/farmer/updatefarmimplement/164 2 138 0 0
+/fpo/approver/paymentlist 4 171949 0 0
+/administrator/Login/getPanchayat/2931004 1 2879 0 0
+/fpo/share/originalsharecertificate 3 134368 0 0
+/fpo/updatecrop/varietybycategory/79 1 614 0 0
+/fpo/farmer/getFarmImplementsMake/4 2 340 0 0
+/fpo/updatecrop/varietydosage/1045 2 58 0 0
+/administrator/masterdata/viewcategory/10 1 43444 0 0
+/fpo/production/inventoryItemWhereUsedInquiry 1 0 0 0
+/administrator/masterdata/manufacturerlist 7 956457 0 0
+/fpo/finance/postGLreports 1 78 0 0
+/fpo/farmer/getFarmImplements 68 80716 0 0
+/administrator/masterdata/farmimplementsmodellist 2 886650 0 0
+/fpo/updatecrop/varietybycategory/77 1 80 0 0
+/fpo/updatecrop/varietybycategory/220 1 76 0 0
+/fpo/updatecrop/varietybycategory/217 1 83 0 0
+/administrator/Login/getPanchayat/2910014 2 2388 0 0
+/fpo/updatecrop/varietybycategory/121 1 487 0 0
+/fpo/updatecrop/pesticide/23 1 251 0 0
+/administrator/masterdata/addproductfpo 2 91810 0 0
+/fpo/updatecrop/varietybycategory/97 1 432 0 0
+/fpo/updatecrop/varietybycategory/182 1 1529 0 0
+/assets/fonts/fontawesome-webfont.woff2 66 4938240 5 22
+/administrator/masterdata/viewfertilizer/20 6 1654986 0 0
+/fpo/updatecrop/varietybycategory/203 1 87 0 0
+/fpo/farmer/editfarmimplement/160 1 368 0 0
+/assets/vendor/fontawesome/webfonts/fa-solid-900.eot 1 186512 0 0
+/fpo/crop/cropbyname/2019-07-01/113 1 98 0 0
+/fpo/updatecrop/pesticide/48 1 243 0 0
+/fpo/updatecrop/postharvest 11 470294 0 0
+/fpo/updatecrop/fertilizerdosage/755 1 29 0 0
+/fpo/farmer/getFarmImplementsModel/16/Kisan 1 37 0 0
+/fpo/farmer/getFarmImplementsModel/2/Amman 1 37 0 0
+/administrator/Login/getvillages/2909006013 1 403 0 0
+/fpo/fpg/viewfpg/4 1 49214 0 0
+/fpo/farmer/editfarmer/2092 7 475349 0 0
+/fpo/crop/edit_crop/91 1 195125 0 0
+/fpo/user 28 1029443 0 0
+/fpo/updatecrop/edit_updatecrop/99 1 251062 0 0
+/fpo/inventory/getquantityunit 7 9198 0 0
+/administrator/Login/getvillages/2908013007 4 3100 0 0
+/administrator/Login/getPanchayat/2912002 6 2898 0 0
+/fpo/fpo/profile/32900008 2 102102 0 0
+/fpo/finance/getProductCountByID/67 1 65 0 0
+/fpo/farmer/existedFarmerName/2083 3 198 0 0
+/fpo/updatecrop/pesticide/97 1 32 0 0
+/fpo/farmer/getFarmImplementsModel/4/Moba 1 37 0 0
+/administrator/Login/getvillages/2930002002 2 2716 0 0
+/fpo/updatecrop/varietybycategory/205 1 342 0 0
+/fpo/farmer/getBlocksByDistrict/2903 1 620 0 0
+/administrator/Login/getPanchayat/2911010 1 3121 0 0
+/fpo/updatecrop/varietybycategory/188 1 511 0 0
+/fpo/fpg/viewfpg/9 1 50893 0 0
+/fpo/updatecrop/varietybycategory/95 1 135 0 0
+/fpo/updatecrop/varietybycategory/91 2 160 0 0
+/fpo/updatecrop/fertilizer/1 2 1008 0 0
+/fpo/farmer/editlivestock/498 2 720 0 0
+/fpo/market/branchdetail/61 2 2438 0 0
+/fpo/masterdata/editgodown/13 2 114398 0 0
+/fpo/masterdata/viewgodown/15 12 684077 0 0
+/fpo/farmer/getFarmImplementsMakeAndModel/4 3 1674 0 0
+/administrator/Login/getvillages/2909001007 3 2112 0 0
+/fpo/updatecrop/varietybycategory/40 1 718 0 0
+/fpo/updatecrop/fertilizer/84 1 471 0 0
+/administrator/Login/getvillages/2909006011 1 778 0 0
+/administrator/Login/getvillageById/2911003004/36992 1 128 0 0
+/fpo/farmer/editlivestock/483 1 358 0 0
+/fpo/updatecrop/varietybycategory/76 1 169 0 0
+/administrator/Login/getPanchayat/2930005 2 3838 0 0
+/fpo/updatecrop/varietybycategory/30 1 129 0 0
+/fpo/updatecrop/varietybycategory/32 2 986 0 0
+/fpo/crop/viewcrop/105 2 450030 0 0
+/administrator/Login/getvillages/ 15 19905 0 0
+/fpo/updatecrop/varietybycategory/75 1 528 0 0
+/fpo/farmer/editland/539 8 21381 0 0
+/fpo/Market/customerbranchlist/59 1 1152 0 0
+/administrator/category/editcategory/5 1 168 0 0
+/administrator/Login/getvillages/2910019007 2 1942 0 0
+/administrator/Login/getPanchayat/ 7 9296 0 0
+/fpo/finance/viewPurchaseRegister/PS0006/001/4020501 2 96742 0 0
+/administrator/Login/getPanchayat/2930009 15 34290 0 0
+/administrator/Login/getvillages/2930001003 1 795 0 0
+/fpo/farmer/getFarmImplementsModel/2/Khedut 1 37 0 0
+/fpo/crop/cropbyname/2019-08-05/29 1 98 0 0
+/fpo/updatecrop/pesticide/14 1 147 0 0
+/fpo/fpo/profile/32900001 1 51095 0 0
+/fpo/updatecrop/varietybycategory/89 1 238 0 0
+/fpo/setting/pricing 2 85702 0 0
+/fpo/updatecrop/varietymaster/2080 1 431 0 0
+/administrator/Login/getPanchayat/2907008 1 1612 0 0
+/fpo/farmer/editfarmimplement/167 9 3225 0 0
+/administrator/Fig/figlist 3 146139 0 0
+/fpo/share/addshareapplication 7 2184126 0 0
+/administrator/Login/getvillages/2911011021 1 412 0 0
+/fpo/updatecrop/varietybycategory/219 1 77 0 0
+/fpo/updatecrop/varietybycategory/140 2 694 0 0
+/fpo/farmer/addlivestock 13 682629 0 0
+/fpo/updatecrop/varietybycategory/107 1 184 0 0
+/fpo/crop/cropbyname/2019-09-05/118 1 98 0 0
+/fpo/updatecrop/varietybycategory/123 1 168 0 0
+/fpo/updatecrop/pesticide/22 1 78 0 0
+/fpo/updatecrop/varietybycategory/47 1 215 0 0
+/fpo/updatecrop/inputmaster/718 2 242 0 0
+/fpo/updatecrop/varietybycategory/124 1 137 0 0
+/fpo/inventory/purchaseentry 31 3370978 0 0
+/fpo/updatecrop/varietybycategory/166 1 77 0 0
+/popi/Login/getvillages/ 4 5236 0 0
+/popi/Login/getlocation/641017 2 76 0 0
+/fpo/updatecrop/varietybycategory/66 1 79 0 0
+/administrator/Login/getvillages/2912002003 2 5682 0 0
+/fpo/farmer/edit_Farmer/2092 7 15932 0 0
+/fpo/User/checkusername/9176497970 1 51 0 0
+/popi/Fig 1 28854 0 0
+/fpo/updatecrop/varietybycategory/160 1 82 0 0
+/fpo/updatecrop/landarea/536 2 516 0 0
+/fpo/updatecrop/varietybycategory/115 1 368 0 0
+/fpo/farmer/getLiveStockVariety/8 1 156 0 0
+/fpo/farmer/landByLocation 55 413899 0 0
+/fpo/farmer/viewland/503 1 273784 0 0
+/fpo/updatecrop/varietybycategory/138 1 240 0 0
+/fpo/farmer/getLiveStockVariety/3 3 402 0 0
+/fpo/inventory/editsupplier/43 1 145056 0 0
+/fpo/updatecrop/varietybycategory/151 1 723 0 0
+/fpo/farmer/getFarmImplementsModel/2/Atlantis 1 37 0 0
+/fpo/updatecrop/fertilizer/51 1 33 1 1
+/administrator/Login/getvillages/2910019004 1 3037 0 0
+/fpo/farmer/getFarmImplementsModel/1/Eicher 2 74 0 0
+/administrator/Login/getvillages/2911018018 1 417 0 0
+/fpo/farmer/editlivestock/496 2 726 0 0
+/administrator/Login/getvillages/2928007004 1 894 0 0
+/popi/Login/getPanchayat/2909004 4 10856 0 0
+/fpo/crop/cropbyname/2019-07-01/32 1 98 0 0
+/fpo/updatecrop/cropnamebycategory/41 2 748 0 0
+/fpo/masterdata/viewgodown/9 1 54218 0 0
+/fpo/approver/journallist 3 128635 0 0
+/administrator/masterdata/banknamelist 3 1271652 0 0
+/assets/vendor/fontawesome/webfonts/fa-brands-400.woff2 17 1225904 0 0
+/fpo/updatecrop/pesticide/28 1 166 0 0
+/fpo/updatecrop/varietybycategory/57 1 123 0 0
+/administrator/Login/getvillages/2909001021 2 2556 0 0
+/popi/fig/figname/13 1 87 0 0
+/administrator/Login/getvillages/2912002006 1 5661 0 0
+/fpo/inventory/getBankAddressByBankName 4 1187231 0 0
+/administrator/cropstandard/cropstandardmasterlist 3 105 0 0
+/fpo/updatecrop/inputmaster/305 1 118 0 0
+/administrator/Login/getvillages/2930008035 1 407 0 0
+/fpo/fpg/addfpg 29 1347393 0 0
+/fpo/farmer/editland/541 3 8582 0 0
+/fpo/market/getAllMobileCustomersSuppliers 1 0 0 0
+/fpo/updatecrop/pesticide/11 1 1190 0 0
+/administrator/Login/getvillages/2928007002 2 1948 0 0
+/fpo/updatecrop/varietybycategory/224 1 188 0 0
+/fpo/finance/getProductCountByID/65 3 209 0 1
+/popi/fig/addfigrepresent 1 36043 0 0
+/fpo/finance/payments 12 753203 0 0
+/fpo/farmer/getLiveStockVariety/2 5 2230 0 0
+/fpo/inventory/getSupplierByMobileNumber/9952511522 1 721 0 0
+/fpo/fig/viewfig/96 6 327409 0 0
+/administrator/finance/balancesheetdrilldown 1 34155 0 0
+/administrator/Login/getlocation/637502 1 2933 0 0
+/administrator/variety/varietylist 2 133410 0 0
+/administrator/masterdata/viewcategory/14 1 43440 0 0
+/fpo/updatecrop/varietybycategory/106 1 246 0 0
+/fpo/farmer/editlivestock/485 1 365 0 0
+/fpo/updatecrop/varietybycategory/212 1 79 0 0
+/fpo/crop/cropbyname/2019-09-01/118 10 980 0 0
+/fpo/updatecrop/varietybycategory/177 1 741 0 0
+/fpo/updatecrop/pesticide/20 1 747 0 0
+/fpo/inventory/checkSupplierInvoiceNo 17 1037 1 0
+/administrator/Login/getPanchayat/2901004 1 4446 0 0
+/fpo/masterdata/editgodown/11 1 55779 0 0
+/fpo/updatecrop/varietybycategory/84 1 269 0 0
+/fpo/farmer/getFarmImplementsModel/1/Swaraj 2 1182 0 0
+/fpo/inventory/getmrp/67 1 2 0 0
+/administrator/Login/getPanchayat/2930008 3 10113 0 0
+/fpo/approver/debitlist 2 86008 0 0
+/administrator/masterdata/viewcategory/13 2 86814 0 0
+/fpo/updatecrop/output/387 1 595 0 0
+/fpo/share/searchFPO 3 158 0 0
+/fpo/updatecrop/land/2078 1 254 0 0
+/administrator/Masterdata/getImplementByName/6 1 2599 0 0
+/fpo/updatecrop/varietybycategory/189 1 625 0 0
+/fpo/masterdata/viewproductfpo/60 1 261110 0 0
+/administrator/masterdata/editmanufacturer/110 1 38042 0 0
+/fpo/fig/viewfigrepresent/92 1 56316 0 0
+/fpo/updatecrop/pesticide/46 2 3260 0 0
+/administrator/Login/getvillages/2911008020 3 672 0 0
+/fpo/updatecrop/pesticide/21 1 1255 0 0
+/fpo/finance/balanceSheetReports 46 2425442 0 0
+/fpo/updatecrop/pesticide/5 1 293 0 0
+/administrator/masterdata/nutrientlist 21 1570338 0 0
+/fpo/market/branchdetail/63 1 1203 0 0
+/fpo/share/viewshareapplication_fpo/1965 1 49075 0 0
+/fpo/finance/postGLcashreports 26 19621 0 0
+/fpo/farmer/updateland/541 1 66 0 0
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map 1 294126 0 0
+/fpo/updatecrop/varietybycategory/71 1 612 0 0
+/fpo/finance/getAllChildNodeByCode 3 1747 0 0
+/administrator/Login/getvillages/2908002009 2 1014 0 0
+/fpo/farmer/getFarmImplementsModel/2/ACE 4 844 0 0
+/fpo/setting 6 344212 0 0
+/administrator/fig 1 99435 0 0
+/administrator/Login/getvillages/2909001026 2 3372 0 0
+/administrator/Login/getvillages/2931004001 1 617 0 1
+/fpo/farmer/getFarmImplementsMakeAndModel/5 2 2158 0 0
+/administrator/masterdata/getproduct 1 992 0 0
+/fpo/farmer/getFarmImplementsModel/1/Mahindra 10 6150 0 0
+/fpo/updatecrop/pesticide/89 2 152 0 0
+/administrator/masterdata/livestocksvarietylist 1 42026 0 0
+/fpo/masterdata/bankname/1 21 400533 0 0
+/administrator/Login/getPanchayat/2908002 2 3866 0 0
+/fpo/updatecrop/varietybycategory/193 1 813 0 0
+/fpo/updatecrop/varietybycategory/44 1 172 0 0
+/popi/Login/getvillages/2930001013 4 6300 0 0
+/fpo/farmer/getFarmImplementsModel/2/DMWCNC 1 37 0 0
+/fpo/updatecrop/varietybycategory/31 1 151 0 0
+/fpo/market/branchdetail/new_customer 5 145 0 0
+/assets/vendor/fontawesome/webfonts/fa-regular-400.woff2 30 394168 0 1
+/fpo/farmer/editland/503 1 2469 0 0
+/fpo/updatecrop/varietybycategory/147 1 506 0 0
+/fpo/updatecrop/varietybycategory/202 1 654 0 0
+/administrator/masterdata/farmimplementslist 6 296232 0 0
+/administrator/masterdata/viewfertilizer/45 2 551644 0 0
+/fpo/farmer/postfarmer 36 2277 0 0
+/administrator/Login/getvillages/2909004013 1 1773 0 0
+/fpo/updatecrop/varietybycategory/111 1 80 0 0
+/fpo/finance/getAllTransactionByVoucherNumber/PT00001 7 5719 0 0
+/fpo/production/viewDimension/ 2 79904 0 0
+/fpo/farmer/updatefarmimplement/162 1 69 0 0
+/fpo/updatecrop/varietybycategory/62 2 524 0 0
+/fpo/finance/getAllBankByFPO 20 4935 0 0
+/fpo/finance/glaccounts 40 1784219 0 0
+/administrator/masterdata/editmanufacturer/2 1 38031 0 0
+/fpo/farmer/editfarmer/4 1 67634 0 0
+/popi/fig/fponame/129002 1 835 0 0
+/fpo/farmer/existedFarmerName/2081 1 66 0 0
+/fpo/updatecrop/fertilizerdosage/718 1 29 0 0
+/administrator/Login/getvillages/2909001020 2 1786 0 0
+/fpo/updatecrop/pesticide/42 1 119 0 0
+/assets/fonts/fontawesome-webfont.woff 2 196048 0 2
+/fpo/finance/getBankAddressByBankName/918 3 282 0 0
+/fpo/farmer/add_farmimplement 21 1342219 0 0
+/fpo/inventory/stockreports 17 687434 0 0
+/fpo/finance/SalesInvoiceView/SL0003/004/4020201 3 144465 0 0
+/fpo/finance/SalesInvoiceView/SL0006/007/4020201 1 48141 0 0
+/fpo/farmer/getFarmImplementsModel/2/Kumar 1 37 0 0
+/fpo/updatecrop/index 2 215238 0 0
+/administrator/Login/getvillages/2909001016 4 3612 0 0
+/fpo/crop/post_crop 8 12280 0 0
+/fpo/farmer/viewland/541 3 822501 0 0
+/fpo/User/checkusername/9488390909 1 51 0 0
+/administrator/Login/getvillages/2928007006 1 1249 0 0
+/fpo/updatecrop/pesticide/94 1 32 0 0
+/fpo/updatecrop/varietybycategory/51 1 78 0 0
+/fpo/Fig/verifyMember/ 43 2193 0 1
+/fpo/updatecrop/pesticide/36 1 259 0 0
+/fpo/farmer/editfarmer/2086 1 67888 0 0
+/popi/farmer/profilelist 2 83914 0 0
+/administrator/Login/getvillages/2909001022 1 690 0 0
+/administrator/Login/getPanchayat/2930002 51 145656 0 0
+/fpo/farmer/getBlocksByDistrict/2907 1 923 0 0
+/administrator/popi/popiDropDownList 1 475 0 0
+/fpo/farmer/getFarmImplementsModel/1/Captain 2 74 0 0
+/fpo/fpo/profile/32900002 1 50992 0 0
+/fpo/updatecrop/varietybycategory/176 1 273 0 0
+/fpo/finance/salesinvoicelist 25 1035365 0 0
+/popi/fpo/getbusiness_type 33 61027 0 1
+/fpo/market/getproducts 3 4064 0 0
+/fpo/updatecrop/varietybycategory/118 4 924 0 0
+/administrator/cropmaster/addcrop 1 48037 0 0
+/fpo/farmer/existedFarmerName/2088 4 268 0 0
+/fpo/farmer/getLiveStockVariety/10 2 3156 0 0
+/fpo/farmer/getFarmImplementsMake/9 1 502 0 0
+/fpo/farmer/editfarmer/2091 4 277879 0 0
+/administrator/masterdata/banklist 10 4840770 0 0
+/fpo/updatecrop/cropnamebycategory/31 2 252 0 0
+/administrator/Login/getvillages/2909004001 2 1810 0 0
+/fpo/updatecrop/varietybycategory/73 1 407 0 0
+/administrator/fpo/viewfpo/11 1 67956 0 0
+/popi/fig/addfig 1 35220 0 0
+/fpo/updatecrop/varietybycategory/131 1 274 0 0
+/fpo/updatecrop/varietybycategory/178 1 356 0 0
+/fpo/updatecrop/pesticide/18 1 75 0 0
+/fpo/masterdata/viewproductfpo/63 1 258410 0 0
+/fpo/share/getLocationByFpo/1 1 307 0 0
+/fpo/User/checkusername/6374951655 2 102 0 0
+/administrator/masterdata/godownlist 2 89816 0 0
+/administrator/Login/getlocation/636400 1 38 0 0
+/administrator/Login/getModuleByCode/capital%20 1 30 0 0
+/fpo/crop/cropbyname/2019-09-11/118 1 98 0 0
+/fpo/updatecrop/cropnamebycategory/29 1 177 0 0
+/fpo/updatecrop/cropnamebycategory/27 5 135 0 0
+/fpo/updatecrop/landarea/535 3 774 0 0
+/administrator/masterdata/viewnutrient/13 1 276307 0 0
+/fpo/market/branchdetail/59 3 3597 0 0
+/fpo/updatecrop/varietybycategory/50 1 453 0 0
+/administrator/Login/getvillages/2909001001 2 2962 0 0
+/fpo/updatecrop/varietybycategory/94 1 219 0 0
+/fpo/updatecrop/cropnamebycategory/40 1 77 0 0
+/administrator/masterdata/viewcategory/15 2 86868 0 0
+/fpo/crop/cropbyname/49 1 1988 0 0
+/administrator/Login/getvillages/2930007021 13 2847 0 0
+/fpo/farmer/editfarmer/2079 12 830809 0 0
+/fpo/farmer/getFarmImplementsModel/2/GAS 1 37 0 0
+/fpo/updatecrop/output/300 1 592 0 0
+/fpo/crop/cropbyname/2019-07-01/33 1 97 0 0
+/fpo/updatecrop/pesticide/49 1 938 0 0
+/fpo/farmer/editfarmer/481 1 67611 0 0
+/fpo/fig/addfig 22 1030310 0 0
+/fpo/updatecrop/varietybycategory/227 1 395 0 0
+/fpo/updatecrop/varietybycategory/143 1 575 0 0
+/fpo/updatecrop/fertilizer/71 1 33 0 0
+/administrator/masterdata/categorylist 30 1231606 0 0
+/fpo/farmer/getFarmImplementsModel/2/Raina 1 37 0 0
+/fpo/Updatecrop/postharvest 7 293154 0 0
+/home/ 16 661584 2 6
+/fpo/updatecrop/cropnamebycategory/32 1 468 0 0
+/fpo/finance/viewPurchaseRegister/PS0001/K001/3030201 2 97566 0 0
+/fpo/updatecrop/varietybycategory/216 1 89 0 0
+/fpo/updatecrop/cropharvest 16 1223662 1 1
+/administrator/Login/getvillages/2911003008 1 532 0 0
+/administrator/masterdata/getsubcategory 5 82 0 0
+/administrator/Login/getPanchayatByCode/2911003/2911003004 1 109 0 0
+/fpo/farmer/viewland/539 4 1095196 0 0
+/fpo/updatecrop/outputmaster/33 1 29 0 0
+/popi/farmer 2 24330 0 0
+/fpo/farmer/getFarmImplementsModel/2/Maschio 1 37 0 0
+/fpo/updatecrop/pesticide/3 1 72 0 0
+/fpo/Market/customerbranchlist/58 1 1291 0 0
+/fpo/updatecrop/expenseslist 10 1365503 0 0
+/assets/fonts/fontawesome-webfont.eot 2 331484 0 1
+/fpo/updatecrop/varietybycategory/218 1 79 0 0
+/fpo/farmer/updateland/503 1 66 0 0
+/fpo/updatecrop/cropnamebycategory/13 2 686 0 0
+/fpo/updatecrop/cropnamebycategory/35 1 224 0 0
+/administrator/popi/popi_list 1 1063 0 0
+/administrator/finance/journalentry 1 35203 0 0
+/administrator/finance/bankaccounts 1 36599 0 0
+/fpo/updatecrop/varietybycategory/214 1 80 0 0
+/fpo/updatecrop/varietymaster/2077 1 120 0 0
+/fpo/crop/cropbyname/2019-07-20/114 1 98 0 0
+/fpo/updatecrop/varietybycategory/194 1 301 0 0
+/fpo/inventory/suppliers 19 4739551 0 0
+/fpo/finance/purchaseentry 27 3004781 0 0
+/fpo/updatecrop/varietybycategory/100 1 85 0 0
+/fpo/approver/contralist 4 172113 0 0
+/fpo/updatecrop/landarea/543 3 771 0 0
+/fpo/fpo/profile/32900015 2 102500 0 0
+/administrator/dashboard 10 429121 0 0
+/assets/vendor/fontawesome/webfonts/fa-solid-900.woff2 30 2156092 0 0
+/fpo/finance/getAllTransactionByVoucherNumber/trv_OB_11 1 474 0 0
+/fpo/market/getbanklist/29 1 3378 0 0
+/administrator/Login/checkusername/9488390909 2 120 0 0
+/fpo/updatecrop/varietybycategory/171 1 307 0 0
+/administrator/subcategory/subcategorylist 4 17088 0 0
+/administrator/Login/getvillages/2930004009 1 2036 0 0
+/fpo/updatecrop/varietybycategory/96 1 166 0 0
+/fpo/updatecrop/varietybycategory/157 1 76 0 0
+/administrator/Login/getvillages/2911008003 1 227 0 0
+/fpo/farmer/getFarmImplementsModel/6/Kisan 1 37 0 0
+/fpo/updatecrop/varietybycategory/144 1 127 0 0
+/fpo/farmer/getFarmImplementsModel/2/N.M.Industry 1 244 0 0
+/administrator/finance/payments 2 74238 0 0
+/fpo/inventory/getmrp/65 1 75 0 0
+/popi/Login/checkusername/9943051152 1 51 0 0
+/fpo/updatecrop/pesticide/44 1 73 0 0
+/administrator/Login/getvillages/2930002001 33 42306 0 0
+/fpo/updatecrop/varietybycategory/158 1 84 0 0
+/fpo/updatecrop/variety/2080 5 1840 0 0
+/fpo/updatecrop/varietybycategory/126 1 303 0 0
+/fpo/updatecrop/varietybycategory/113 2 706 0 0
+/fpo/farmer/postFarmImplement 7 455 0 0
+/fpo/farmer/editfarmer/2076 6 412842 0 0
+/fpo/finance/postTrialBalance 37 2284203 0 0
+/popi/Login/checkusername/9488390909 3 180 0 0
+/administrator/Login/getlocation/635002 4 6520 0 0
+/administrator/Login/getvillages/2909004015 1 1741 0 0
+/fpo/updatecrop/varietybycategory/225 1 290 0 0
+/administrator/variety 2 75998 0 0
+/popi/fig/figrepresentativelist 2 52440 0 0
+/fpo/updatecrop/fertilizerdosage/728 1 29 0 0
+/fpo/updatecrop/varietybycategory/63 2 336 0 0
+/fpo/updatecrop/varietybycategory/56 1 2112 0 0
+/administrator/masterdata/addsubcategory 1 39874 0 0
+/fpo/fpg/viewfpg/13 3 160791 0 0
+/fpo/updatecrop/pesticide/2 1 1570 0 0
+/administrator/Login/getlocation/643002 4 4176 0 0
+/fpo/finance/getAllGL 20 447772 0 0
+/fpo/updatecrop/fertilizer/89 1 257 0 0
+/fpo/updatecrop/varietybycategory/153 1 633 0 0
+/administrator/Masterdata/getTypeByImplement/2 1 865 0 0
+/administrator/name/namelist 2 78112 0 0
+/administrator/Login/getlocation/638402 5 10925 0 0
+/fpo/User/checkusername/9487038688 1 51 0 0
+/fpo/farmer/viewland/529 6 1655820 0 0
+/fpo/updatecrop/pesticide/30 1 576 0 0
+/fpo/updatecrop/outputmaster/112 2 58 0 0
+/fpo/updatecrop/varietybycategory/67 2 338 0 0
+/fpo/farmer/farmImplementsByLocation 33 18732 0 0
+/fpo/finance/getBankAddressByBankName/915 1 301 0 0
+/fpo/farmer/editfarmimplement/154 1 362 0 0
+/fpo/farmer/existedFarmerName/2098 2 130 0 0
+/popi/Login/getPanchayat/2930001 6 14622 0 0
+/fpo/farmer/edit_Farmer/2090 3 6765 0 0
+/fpo/farmer/editfarmimplement/164 2 767 0 0
+/fpo/updatecrop/cropnamebycategory/28 1 530 0 0
+/fpo/updatecrop/inputmaster/300 1 122 0 0
+/fpo/finance/profitAndLossReports 24 1465510 0 0
+/fpo/farmer/getLiveStockVariety/4 13 16861 0 0
+/fpo/farmer/getFarmImplementsModel/2/Preet 2 74 0 0
+/fpo/farmer/getLiveStockVariety/9 1 91 0 0
+/administrator/Login/getvillages/2911005001 1 627 0 0
+/fpo/updatecrop/varietybycategory/149 1 255 0 0
+/fpo/inventory/getmrp/new_item 3 6 0 0
+/administrator/Login/getPanchayat/2909008 1 2609 0 0
+/fpo/finance/getAccountBalance 21 836 0 0
+/fpo/updatecrop/varietybycategory/125 1 79 0 0
+/fpo/updatecrop/viewexpenses_update/145 2 86832 0 0
+/administrator/Login/getlocation/636810 1 1475 0 0
+/fpo/updatecrop/land/2064 1 27 0 0
+/administrator/Login/getlocation/641017 33 72600 0 0
+/fpo/farmer/getFarmImplementsMake/1 13 5967 0 0
+/fpo/updatecrop/pesticide/25 1 875 0 0
+/fpo/farmer/editfarmimplement/166 2 764 0 0
+/fpo/finance/customers 1 255299 0 0
+/administrator/Login/getvillages/2911013022 1 699 0 0
+/fpo/fpg/viewfpg/11 1 52332 0 0
+/fpo/updatecrop/varietybycategory/102 1 538 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css.map 1 562427 0 1
+/fpo/approver/creditlist 2 86028 0 0
+/popi/Login/getvillages/2909004012 4 4352 0 0
+/fpo/crop/cropbyname/2019-09-20/29 1 98 0 0
+/popi/Login/getvillages/2930007001 2 1364 0 0
+/fpo/updatecrop/varietybycategory/239 1 572 0 0
+/fpo/updatecrop/varietybycategory/240 1 182 0 0
+/fpo/farmer/getFarmImplementsModel/2/TAFE 1 37 0 0
+/fpo/updatecrop/cropnamebycategory/15 4 1252 0 0
+/fpo/updatecrop/pesticide/1 2 350 0 0
+/fpo/updatecrop/varietybycategory/133 1 705 0 0
+/fpo/updatecrop/varietybycategory/175 1 349 0 0
+/fpo/inventory/getproducts 4 7596 0 0
+/popi/Login/getvillages/2930001012 4 5676 0 0
+/fpo/role/editrole/4 1 179096 0 0
+/fpo/farmer/getFarmImplementsModel/2/Sietz 1 37 0 0
+/fpo/farmer/editland/538 14 40111 0 0
+/fpo/updatecrop/pesticide/90 2 152 0 0
+/fpo/farmer/viewfarmer/2089 2 103853 0 0
+/fpo/finance/glaccounts/cash 12 542431 0 0
+/fpo/updatecrop/cropnamebycategory/37 1 221 0 0
+/fpo/masterdata/gstdetail 1 326584 0 0
+/fpo/crop/viewcrop/86 1 220141 0 0
+/fpo/updatecrop/varietybycategory/98 1 76 0 0
+/fpo/farmer/editfarmimplement/163 7 2562 0 0
+/fpo/finance/getProductCountByID/66 3 201 0 0
+/fpo/updatecrop/varietybycategory/204 1 208 0 0
+/fpo/updatecrop/varietybycategory/130 1 194 0 0
+/administrator/Login/getPanchayatByCode/2907001/2907001022 1 33 0 0
+/fpo/updatecrop/varietybycategory/236 1 473 0 0
+/fpo/updatecrop/varietybycategory/90 1 333 0 0
+/administrator/masterdata/statelist 2 136242 0 0
+/administrator/Login/getvillages/2930001011 1 1492 0 0
+/fpo/updatecrop/cropnamebycategory/21 1 731 0 0
+/administrator/fpo/getbusiness_type 1 2636 0 0
+/fpo/crop/viewcrop/92 1 220707 0 0
+/fpo/updatecrop/varietybycategory/200 1 779 0 0
+/administrator/Login/checkusername/6374951655 2 111 0 0
+/fpo/fig/figrepresentativelist 71 2858289 0 0
+/fpo/production/billofMaterials 1 38666 0 0
+/fpo/updatecrop/variety/2085 8 1480 0 0
+/fpo/farmer/editland/530 1 2867 0 0
+/fpo/fpg/viewfpg/5 5 256545 0 0
+/fpo/updatecrop/fertilizer/38 1 33 0 0
+/fpo/farmer/editland/532 1 3053 0 0
+/fpo/updatecrop/varietybycategory/55 1 319 0 0
+/fpo/updatecrop/varietybycategory/233 1 82 0 0
+/popi/Login/checkusername/9698105157 3 153 0 0
+/fpo/updatecrop/varietybycategory/49 3 1026 0 0
+/fpo/share/searchFarmer 5 531 0 0
+/fpo/updatecrop/land/4 1 27 0 0
+/popi/Login/getvillages/2930002001 6 7692 0 0
+/fpo/updatecrop/varietybycategory/78 1 135 0 0
+/fpo/farmer/getLiveStockVariety/5 1 149 0 0
+/fpo/farmer/getFarmImplementsModel/2/Sakthi 1 37 0 0
+/fpo/inventory/getstockmovement 1 40779 0 0
+/fpo/updatecrop/outputmaster/114 1 29 0 0
+/fpo/farmer/updatelivestock/496 1 65 0 0
+/fpo/updatecrop/varietybycategory/226 1 225 0 0
+/fpo/finance/getProductCountByID/62 1 70 0 0
+/fpo/updatecrop/varietybycategory/41 1 602 0 0
+/fpo/updatecrop/nutrient/1 3 93 0 0
+/popi/Login/checkusername/9788592128 2 102 0 0
+/administrator/login 1 14161 0 0
+/administrator/name 2 75740 0 0
+/fpo/farmer/getFarmImplementsModel/4/SPL 3 111 0 0
+/administrator/Login/getvillages/2928007003 1 1343 0 0
+/fpo/masterdata/banklist 76 22358374 1 0
+/fpo/finance/SalesInvoiceView/SL0002/003/4020201 3 144561 0 0
+/fpo/updatecrop/varietybycategory/132 1 845 0 0
+/fpo/masterdata/bankname/3 8 16696 0 0
+/fpo/updatecrop/varietybycategory/221 1 77 0 0
+/fpo/updatecrop/varietybycategory/191 1 2470 0 0
+/administrator/Login/getvillages/2928007008 1 1078 0 0
+/fpo/updatecrop/pesticide/37 1 134 0 0
+/administrator/Login/getPanchayat/2907001 1 3832 0 0
+/fpo/updatecrop/varietybycategory/156 1 81 0 0
+/fpo/updatecrop/varietybycategory/48 1 452 0 0
+/popi/Login/getvillages/2930001014 4 10872 0 0
+/fpo/updatecrop/pesticide/95 1 74 0 0
+/fpo/farmer/postLandDetail 5 305 0 0
+/fpo/updatecrop/cropnamebycategory/33 2 1078 0 0
+/fpo/fig/viewfig/97 7 392024 0 0
+/fpo/farmer/viewland/538 5 1368980 0 0
+/fpo/farmer/viewfarmer/2077 1 51940 0 0
+/administrator/farmer/editfarmer/2100 1 60481 0 0
+/administrator/finance/journalinquiry 1 33790 0 0
+/fpo/farmer/existedFarmerName/2077 1 68 0 0
+/fpo/updatecrop/varietybycategory/103 1 80 0 0
+/fpo/updatecrop/fertilizer/15 2 66 0 1
+/fpo/inventory/getbanklist/ 1 1296 0 0
+/fpo/farmer/editfarmer/2094 6 418286 0 0
+/fpo/updatecrop/pesticide/34 1 76 0 0
+/home/postcontact 2 33668 0 1
+/fpo/farmer/addland 12 2303871 0 0
+/fpo/updatecrop/varietybycategory/92 1 274 0 0
+/fpo/fpo/changepassword/32900015 1 22120 0 0
+/fpo/updatecrop/fertilizerdosage/727 1 29 0 0
+/fpo/updatecrop/varietybycategory/213 2 664 0 0
+/fpo/market/branchdetail/58 5 6690 0 0
+/fpo/updatecrop/fertilizerdosage/387 2 124 0 0
+/administrator/masterdata/addcategory 1 38378 0 0
+/popi/fpo/addfpo 12 686172 0 0
+/fpo/updatecrop/varietybycategory/86 1 397 0 0
+/administrator/Login/getvillages/2911006001 20 8040 0 0
+/administrator/Login/getPanchayat/2909001 7 15638 0 0
+/fpo/farmer/getLiveStockVariety/11 1 443 0 0
+/fpo/updatecrop/varietybycategory/134 1 234 0 0
+/fpo/updatecrop/varietybycategory/186 1 1035 0 0
+/fpo/updatecrop/landarea/531 1 258 0 0
+/fpo/finance/viewPurchaseRegister/PS0001/AC-001/3030201 2 97580 0 0
+/fpo/updatecrop/varietybycategory/112 2 886 0 0
+/fpo/updatecrop/varietybycategory/181 1 3420 0 0
+/administrator/masterdata/addbank 4 534160 0 0
+/fpo/updatecrop/cropnamebycategory/18 3 1821 0 0
+/administrator/Login/getlocation/636701 4 5900 0 0
+/fpo/updatecrop/varietybycategory/170 1 191 0 0
+/fpo/farmer/editfarmer/2088 4 271468 0 0
+/fpo/updatecrop/pesticide/40 1 81 0 0
+/popi/Login/getvillages/2911003004 4 4040 0 0
+/administrator/Login/getvillages/2911008001 1 407 0 0
+/fpo/updatecrop/fertilizerdosage/1045 4 116 0 0
+/fpo/farmer/getLiveStockVariety/6 1 238 0 0
+/fpo/farmer/editlivestock/492 1 362 0 0
+/fpo/farmer/getLiveStocks/4 2 64 0 0
+/fpo/approver/userlist 5 220755 0 0
+/fpo/updatecrop/varietybycategory/136 1 123 0 0
+/fpo/farmer/getFarmImplementsModel/2/Deluxe 2 74 0 0
+/fpo/updatecrop/edit_updatecrop/114 4 1007208 0 0
+/administrator/Login/getlocation/654564 3 114 0 0
+/fpo/farmer/updateland/542 1 66 0 0
+/administrator/Login/getvillages/2909001017 4 5544 0 0
+/fpo/updatecrop/varietybycategory/173 1 178 0 0
+/administrator/Login/getvillages/2911006003 1 412 0 0
+/fpo/updatecrop/varietybycategory/34 1 315 0 0
+/fpo/updatecrop/varietybycategory/207 1 81 0 0
+/fpo/updatecrop/varietybycategory/70 1 525 0 0
+/administrator/Login/getvillages/2909001025 2 1378 0 0
+/fpo/fig/addfigrepresent 35 1736924 0 0
+/fpo/farmer/getFarmImplementsModel/2/Vaiasumani 1 37 0 0
+/fpo/farmer/editfarmer/2089 9 610812 0 0
+/fpo/farmer/updatefarmimplement/167 1 69 0 0
+/wp-login.php 5 58704 5 5
+/fpo/updatecrop/varietybycategory/64 1 73 0 0
+/fpo/updatecrop/pesticide/12 1 77 0 0
+/fpo/updatecrop/pesticide/228 1 87 0 0
+/fpo/updatecrop/inputmaster/727 1 121 0 0
+/fpo/farmer/editlivestock/484 1 364 0 0
+/fpo/finance/glaccounts/bank 2 86589 0 0
+/fpo/farmer/viewlivestock 22 1351241 0 0
+/fpo/updatecrop/varietybycategory/88 1 445 0 0
+/fpo/updatecrop/output/727 1 591 0 0
+/administrator/masterdata/subcategorylist 20 784308 0 0
+/fpo/updatecrop/varietybycategory/45 1 119 0 0
+/fpo/farmer/getFarmImplementsModel/6/Rathnagiri 1 37 0 0
+/fpo/updatecrop/outputmaster/32 1 29 0 0
+/fpo/farmer/getFarmImplementsModel/2/Trident 1 37 0 0
+/fpo/role 10 401094 0 0
+/fpo/farmer/livestocklist 63 3438437 0 0
+/fpo/farmer/viewland/530 1 273795 0 0
+/fpo/updatecrop/varietybycategory/185 1 1123 0 0
+/popi/fpg/addfpg 1 35253 0 0
+/fpo/farmer/viewland/532 1 274191 0 0
+/fpo/market/getbanklist/ 5 6405 0 0
+/fpo/farmer/existedFarmerName/2080 1 69 0 0
+/fpo/updatecrop/varietybycategory/201 1 785 0 0
+/fpo/updatecrop/varietybycategory/165 1 579 0 0
+/fpo/updatecrop/viewexpenses_update/141 2 86834 0 0
+/administrator/Login/getvillages/2909001028 3 5046 0 0
+/administrator/Login/checkusername/9988776655 3 171 0 0
+/fpo/farmer/getFarmImplementsModel/2/Uzhavan 2 74 0 0
+/fpo/updatecrop/varietybycategory/206 1 380 0 0
+/fpo/crop/cropbyname/2019-09-01/213 1 98 0 0
+/fpo/updatecrop/varietybycategory/209 1 463 0 0
+/fpo/production/viewWorkOrder/ 2 91954 0 0
+/administrator/Login/getvillages/2911006018 1 417 0 0
+/fpo/farmer/editfarmer/352 1 67607 0 0
+/fpo/updatecrop/nutrient/7 1 31 0 0
+/fpo/updatecrop/varietybycategory/122 1 317 0 0
+/fpo/farmer/getBlocksByDistrict/2908 2 1420 0 0
+/fpo/finance/salesinvoicepdf/SL0006/007/4020201 1 30263 0 0
+/fpo/share 63 3070616 0 0
+/fpo/share/addshareapplication_fpo 5 301805 0 0
+/administrator/Login/getvillages/2909001009 4 7444 0 0
+/fpo/masterdata/editgodown/15 1 57222 0 0
+/fpo/farmer/viewfarmer/2075 1 54488 0 0
+/fpo/farmer/getFarmImplementsModel/2/Kovai 4 148 0 0
+/fpo/finance/SalesInvoiceView/SL0001/001/4020201 4 193169 0 0
+/fpo/updatecrop/viewpostharvest/4 1 238454 0 0
+/fpo/User/checkusername/6379643440 5 291 0 0
+/fpo/fig/viewfigrepresent/89 2 112306 0 0
+/fpo/updatecrop/inputmaster/387 1 128 0 0
+/fpo/updatecrop/cropnamebycategory/17 3 534 0 0
+/fpo/crop/cropbyname/2019-08-15/112 1 98 0 0
+/fpo/farmer/getFarmImplementsModel/2/Karumalaian 1 37 0 0
+/fpo/fpo/profile/32900010 1 51233 0 0
+/popi/Login/getvillages/2930007027 6 3594 0 0
+/fpo/updatecrop/varietybycategory/141 2 674 0 0
+/popi/Login/getvillages/2930002015 2 3874 0 0
+/fpo/updatecrop/pesticide/29 1 838 0 0
+/fpo/updatecrop/varietybycategory/104 1 77 0 0
+/fpo/fpg/viewfpg/6 18 936151 0 0
+/administrator/Login/getPanchayat/2911013 6 10464 0 0
+/popi/Login/getvillages/2930001001 6 15756 0 0
+/fpo/market/getAllCustomersSuppliers 100 3546 0 0
+/fpo/approver/saleslist 2 86052 0 0
+/fpo/farmer/viewfarmer/2080 2 103907 0 0
+/fpo/updatecrop/subcategorybycategory/4 12 6936 0 0
+/fpo/finance/getAllTransactionByVoucherNumber/ 1 2016 0 0
+/fpo/farmer/getFarmImplementsModel/1/Same 1 37 0 0
+/fpo/User/checkusername/6379653440 2 111 0 0
+/administrator/masterdata/addproduct 1 41321 0 0
+/fpo/updatecrop/varietybycategory/135 1 222 0 0
+/administrator/Login/getPanchayat/2930007 88 184272 0 0
+/fpo/farmer/getFarmImplementsModel/5/VST 1 37 0 0
+/administrator/fig/figrepresentativelist 1 31384 0 0
+/fpo/updatecrop/land/2080 7 3374 0 0
+/fpo/role/viewrole/3 2 306470 0 0
+/popi/Login/getPanchayat/2930007 2 4188 0 0
+/fpo/farmer/editland/529 6 20494 0 0
+/fpo/farmer/getFarmImplementsModel/2/Beri 1 37 0 0
+/fpo/updatecrop/varietybycategory/46 1 171 0 0
+/fpo/farmer/liveStocksByLocation 14 7432 0 0
+/fpo/User/checkusername/6374489526 1 51 0 0
+/administrator/Login/getPanchayat/2911001 12 16524 0 0
+/fpo/market/getBankAddressByBankName 3 1701207 0 0
+/fpo/updatecrop/pesticide/217 1 178 0 0
+/administrator/masterdata/addmanufacturer 1 37145 0 0
+/fpo/updatecrop/pesticide/43 1 165 0 0
+/fpo/farmer/getFarmImplementsModel/2/Sri 2 74 0 0
+/administrator/masterdata/uomlist 7 302155 0 0
+/administrator/category/categorylist 3 606 0 0
+/fpo/crop/edit_crop/86 1 194641 0 0
+/fpo/share/sharesurrender 1 51701 0 0
+/fpo/updatecrop/pesticide/41 1 1088 0 0
+/fpo/share/shareholders 3 114328 0 0
+/fpo/updatecrop/cropnamebycategory/11 5 800 0 0
+/fpo/updatecrop/land/2085 8 2024 0 0
+/administrator/Login/getPanchayat/2911011 1 2092 0 0
+/fpo/updatecrop/pesticide/194 1 77 0 0
+/fpo/updatecrop/varietybycategory/53 1 260 0 0
+/fpo/crop/cropbyname/2019-09-05/49 1 97 0 0
+/fpo/updatecrop/varietybycategory/167 1 324 0 0
+/administrator/Login/checkusername/9952511522 4 213 0 0
+/fpo/updatecrop/pesticide/50 1 743 0 0
+/fpo/updatecrop/cropnamebycategory/20 5 135 0 0
+/popi/fig/figname/32900005 1 30 0 0
+/fpo/updatecrop/varietybycategory/59 2 614 0 0
+/fpo/farmer/editfarmer/2097 2 137588 0 0
+/fpo/farmer/getFarmImplementsModel/2/Ponni 2 74 0 0
+/fpo/masterdata/viewgodown/16 1 56107 0 0
+/fpo/finance/getProductCountByID/64 11 737 0 0
+/popi/Login/getvillages/2909004011 6 5778 0 0
+/administrator/Login/getPanchayat/2911006 34 52462 0 0
+/fpo/fpg/viewfpg/17 1 53207 0 0
+/administrator/Login/getvillages/2909001011 2 2362 0 0
+/fpo/farmer/updatefarmimplement/165 1 69 0 0
+/fpo/updatecrop/varietybycategory/190 1 596 0 0
+/fpo/farmer/updatefarmimplement/163 1 69 0 0
+/fpo/finance/getAllTransactionByVoucherNumber/SL0001 8 9424 0 0
+/fpo/updatecrop/land/5 1 27 0 0
+/fpo/updatecrop/varietybycategory/195 1 835 0 0
+/administrator/Login/getPanchayat/2910019 5 6025 0 0
+/fpo/approver/banklist 5 219570 0 0
+/fpo/updatecrop/varietybycategory/119 3 537 0 0
+/fpo/updatecrop/varietybycategory/69 2 398 0 0
+/fpo/updatecrop/varietybycategory/161 1 138 0 0
+/administrator/fpg 2 82932 0 0
+/fpo/updatecrop/varietybycategory/211 1 566 0 0
+/fpo/updatecrop/addexpenses_update 1 199375 0 0
+/fpo/updatecrop/varietybycategory/74 1 490 0 0
+/fpo/masterdata/editgodown/9 1 55074 0 0
+/fpo/farmer/getFarmImplementsModel/1/Massey 6 222 0 0
+/fpo/updatecrop/pesticide/222 1 259 0 0
+/fpo/market/customers 7 1785496 0 0
+/fpo/masterdata/godownlist 91 3549612 0 0
+/fpo/updatecrop/varietybycategory/109 1 172 0 0
+/fpo/finance/postDeposit 2 0 0 0
+/administrator/Login/getlocation/654321 1 38 0 0
+/fpo/farmer/getFarmImplementsModel/2/Rajat 3 111 0 0
+/fpo/farmer/viewfarmer/2079 2 103880 0 0
+/fpo/farmer/getFarmImplementsMake/16 1 147 0 0
+/popi/fpo/viewfpo/11 2 127278 0 0
+/fpo/updatecrop/varietybycategory/208 1 366 0 0
+/administrator/masterdata/productfpolist 8 714243 0 0
+/fpo/share/sharedfarmers 6 257132 0 0
+/fpo/finance/taxinquiry 4 184626 0 0
+/fpo/farmer/addfarmer 79 17914668 0 0
+/administrator/Login/getPanchayat/2901010 1 4534 0 0
+/fpo/updatecrop/costharvest/90 1 82 0 0
+/fpo/operation/ceolist 2 95060 0 0
+/administrator/cropmaster 16 611056 0 0
+/fpo/finance/bank_accounts 13 3090023 0 0
+/fpo/updatecrop/pesticide/96 1 81 0 0
+/administrator/Login/getvillages/2909004012 19 20672 0 0
+/administrator/masterdata/fertilizerlist 30 8865930 0 0
+/administrator/Login/getvillages/2909006014 1 1934 0 0
+/administrator/masterdata/getcategory 6 168 0 0
+/fpo/updatecrop/nutrient/3 2 62 0 0
+/administrator/Login/getlocation/643217 2 2088 0 0
+/administrator/Login/getlocation/641034 5 11000 0 0
+/administrator/masterdata/addfertilizer 1 57687 0 0
+/fpo/updatecrop 28 3034776 0 0
+/fpo/share/viewshareapplication/1964 2 91974 0 0
+/fpo/updatecrop/varietybycategory/174 1 248 0 0
+/fpo/finance/deposits 8 505546 0 0
+/fpo/farmer/viewland/540 1 274195 0 0
+/popi/Login/getPanchayat/2930009 6 13716 0 0
+/administrator/Login/getPanchayat/2910018 1 1209 0 0
+/fpo/crop/cropbyname/32 1 1988 0 0
+/administrator/Login/getvillages/2909004011 106 102078 0 0
+/administrator/Login/getvillages/2930007002 1 974 0 0
+/fpo/farmer/editfarmimplement/162 3 1104 0 0
+/fpo/updatecrop/output/728 1 592 0 0
+/fpo/farmer/viewland/542 8 2205176 0 0
+/fpo/ticket/ticketlist 21 952447 0 0
+/fpo/updatecrop/varietybycategory/37 1 74 0 0
+/fpo/updatecrop/updatecost/90 1 33 0 0
+/administrator/Login/getvillageById/2911003004/undefined 2 62 0 0
+/fpo/fig/viewfig/100 3 166368 0 0
+/fpo/updatecrop/pesticide/24 2 740 0 0
+/fpo/farmer/postLiveStock 7 420 0 0
+/fpo/updatecrop/varietybycategory/223 1 180 0 0
+/fpo/updatecrop/pesticide/16 1 1737 0 0
+/fpo/fig/viewfig/102 4 226828 0 0
+/fpo/user/adduser 11 433948 0 0
+/administrator/Login/getlocation/213456 1 38 0 0
+/fpo/updatecrop/varietybycategory/198 1 663 0 0
+/administrator/Login/checkusername/7878787878 1 51 0 0
+/fpo/masterdata/bankname/5 10 310 0 0
+/fpo/updatecrop/varietybycategory/29 5 25565 0 0
+/administrator/finance/tax 1 33933 0 0
+/administrator/Login/getvillages/2911013004 1 987 0 0
+/fpo/farmer/getBlocksByDistrict/2922 1 656 0 0
+/fpo/updatecrop/varietybycategory/65 2 238 0 0
+/fpo/updatecrop/varietybycategory/148 1 81 0 0
+/administrator/masterdata/seedlist 2 76584 0 0
+/fpo/updatecrop/varietybycategory/99 1 84 0 0
+/fpo/farmer/editland/537 1 2816 0 0
+/fpo/updatecrop/varietybycategory/235 1 179 0 0
+/administrator/masterdata/livestockslist 4 163596 0 1
+/administrator/Masterdata/getTypeByImplement/1 2 1860 0 0
+/fpo/updatecrop/varietybycategory/199 1 604 0 0
+/administrator/Login/getvillages/2930007004 1 400 0 0
+/fpo/inventory/getstockreport 9 368526 0 0
+/fpo/updatecrop/varietybycategory/187 1 482 0 0
+/fpo/updatecrop/landarea/533 1 258 0 0
+/fpo/updatecrop/varietybycategory/179 2 668 0 0
+/fpo/updatecrop/varietybycategory/172 1 176 0 0
+/fpo/updatecrop/varietybycategory/128 1 149 0 0
+/administrator/Login/getvillages/2928007007 1 500 0 0
+/administrator/category 3 112914 0 0
+/fpo/updatecrop/varietybycategory/232 1 81 0 0
+/fpo/updatecrop/land/2056 1 27 0 0
+/fpo/finance/glreports 24 1762605 0 0
+/administrator/masterdata/addbank_name 1 37776 0 0
+/administrator/popi 3 103293 0 0
+/fpo/updatecrop/cropnamebycategory/34 1 505 0 0
+/fpo/fig/viewfig/99 7 396248 0 0
+/administrator/Login/getvillages/2930007022 44 17600 0 0
+/fpo/updatecrop/varietybycategory/237 1 449 0 0
+/fpo/updatecrop/nutrient/4 1 31 0 0
+/fpo/updatecrop/land/1027 1 27 0 0
+/fpo/farmer/getLiveStocks/2 11 352 0 0
+/administrator/Login/getvillages/2930004001 2 2498 0 0
+/fpo/farmer/updatelivestock/497 2 130 0 0
+/fpo/updatecrop/pesticide/88 1 76 0 0
+/fpo/updatecrop/pesticide/31 1 86 0 0
+/administrator/Login/getvillages/2910019003 6 5994 0 0
+/fpo/crop/cropbyname/2019-08-05/49 1 97 0 0
+/administrator/Login/getvillages/2911010001 1 405 0 0
+/fpo/farmer/editlivestock/493 2 724 0 0
+/fpo/farmer/updatelivestock/481 3 195 0 0
+/fpo/inventory/stockmovements 7 283835 0 0
+/administrator/Login/getvillages/2909004030 19 18791 0 0
+/fpo/crop 37 5903357 0 0
+/fpo/Fig/getmember/0 3 87 0 0
+/fpo/farmer/getFarmImplementsModel/1/Indo 2 74 0 0
+/fpo/updatecrop/varietybycategory/83 1 271 0 0
+/fpo/Market/customers 7 1787372 0 0
+/fpo/farmer/existedFarmerName/2089 11 748 0 0
+/fpo/updatecrop/varietybycategory/155 1 143 0 0
+/fpo/updatecrop/varietybycategory/93 2 154 0 0
+/fpo/updatecrop/varietybycategory/43 1 321 0 0
+/fpo/inventory/getSupplierByMobileNumber/7708575459 1 714 0 0
+/fpo/updatecrop/cropnamebycategory/36 1 268 0 0
+/fpo/farmer/getLiveStockVariety/1 44 51348 0 0
+/administrator/Login/getvillages/2910019013 1 1560 0 0
+/administrator/Login/getvillages/2910014001 3 1524 0 0
+/fpo/farmer/getFarmImplementsMake/5 1 262 0 0
+/fpo/updatecrop/cropnamebycategory/39 1 991 0 0
+/administrator/masterdata/viewcategory/4 1 43381 0 0
+/fpo/updatecrop/varietybycategory/127 1 298 0 0
+/fpo/finance/postPayment 2 0 0 0
+/fpo/updatecrop/cropnamebycategory/26 1 889 0 0
+/fpo/updatecrop/fertilizerdosage/305 1 29 0 0
+/popi/dashboard 20 764630 0 0
+/fpo/updatecrop/varietybycategory/222 1 83 0 0
+/fpo/masterdata/viewgodown/10 1 54402 0 0
+/fpo/farmer/getLiveStocks/1 47 5076 0 0
+/fpo/masterdata/viewgodown/13 5 281773 0 0
+/fpo/market/branchdetail/57 5 6335 0 0
+/fpo/updatecrop/varietybycategory/52 1 116 0 0
+/fpo/crop/edit_crop/105 3 597242 0 0
+/fpo/farmer/farmimplementlist 86 4794150 0 0
+/fpo/updatecrop/variety/1027 2 1154 0 0
+/fpo/farmer/getBlocksByDistrict/2931 2 580 0 0
+/fpo/finance/postGLsupplierreports 5 3671 0 0
+/fpo/finance/getProductCountByID/54 6 409 0 0
+/fpo/share/generateshareapplication 9 344127 0 0
+/fpo/updatecrop/varietybycategory/68 2 296 0 0
+/fpo/farmer/view_farmimplement 32 2337338 0 0
+/fpo/finance/glaccount_groups 8 837433 0 0
+/fpo/updatecrop/varietybycategory/215 1 78 0 0
+/fpo/updatecrop/varietybycategory/152 1 309 0 0
+/administrator/farmer/profilelist 2 90290 0 0
+/fpo/farmer/updateland/529 1 66 0 0
+/fpo/farmer/getFarmImplementsMake/17 1 326 0 0
+/fpo/farmer/getFarmImplementsModel/2/Mahindra 3 1293 0 0
+/fpo/updatecrop/varietybycategory/61 1 289 0 0
+/fpo/farmer/getFarmImplementsModel/17/Kirloskar 1 37 0 0
+/fpo/updatecrop/varietybycategory/164 1 135 0 0
+/fpo/finance/postJournalInquiry 2 64 0 0
+/administrator/Login/getvillages/2909001023 2 2610 0 0
+/fpo/updatecrop/fertilizer/81 1 118 0 1
+/fpo/farmer/viewland/537 1 274166 0 0
+/fpo/finance/salesinvoicepdf/SL0002/003/4020201 1 30320 0 0
+/fpo/inventory/getmrp/64 4 8 0 0
+/fpo/updatecrop/fertilizer/34 1 33 1 0
+/administrator/Login/getPanchayat/2912003 4 3464 0 0
+/fpo/updatecrop/varietybycategory/114 2 1038 0 0
+/administrator/finance/deposits 1 37033 0 0
+/fpo/updatecrop/pesticide/7 3 3105 0 0
+/fpo/updatecrop/varietybycategory/238 1 285 0 0
+/fpo/updatecrop/cropnamebycategory/25 8 9968 0 0
+/fpo/updatecrop/varietybycategory/139 1 515 0 0
+/fpo/updatecrop/varietybycategory/183 1 238 0 0
+/fpo/updatecrop/varietybycategory/120 1 329 0 0
+/fpo/updatecrop/varietybycategory/108 1 316 0 0
+/administrator/Login/getvillages/2930002003 1 992 0 0
+/fpo/updatecrop/varietybycategory/42 1 418 0 0
+/fpo/crop/cropbyname/2019-07-01/114 1 98 0 0
+/administrator/Login/getvillages/2930008001 2 1334 0 0
+/administrator/Login/getvillages/2909004014 1 1196 0 0
+/fpo/production/viewBillsofMaterial/ 1 42861 0 0
+/administrator/Login/getPanchayat/2911017 3 4578 0 0
+/administrator/masterdata/viewfarmimplements/1 1 43188 0 0
+/administrator/masterdata/viewcategory/3 2 86828 0 0
+/administrator/Login/getvillages/2911003007 1 509 0 0
+/fpo/approver 35 1553968 0 0
+/fpo/updatecrop/varietybycategory/60 2 148 0 0
+/fpo/updatecrop/fertilizer/55 1 195 0 0
+/fpo/finance/getAllTransactionByVoucherNumber/PS0001 20 32100 0 0
+/fpo/updatecrop/pesticide/92 3 96 0 0
+/popi/Login/getPanchayat/2911003 4 2972 0 0
+/popi/fig/viewfigrepresent/1 1 41294 0 0
+/administrator/Login/getvillages/2930007001 9 6138 0 0
+/administrator/Login/getPanchayat/2909006 1 1507 0 0
+/fpo/market/salesentry 22 2566445 1 0
+/fpo/updatecrop/pesticide/98 1 207 0 0
+/fpo/updatecrop/varietybycategory/210 1 231 0 0
+/popi/popi/profile/129002 1 30893 0 0
+/fpo/setting/invoiceprefix 3 119687 0 0
+/administrator/Login/getPanchayat/2930003 1 2220 0 0
+/fpo/finance/getProductCountByID/63 4 260 0 0
+/fpo/updatecrop/cropnamebycategory/16 2 232 0 0
+/fpo/finance/glaccounts/gl 17 1963237 0 0
+/fpo/updatecrop/varietybycategory/110 1 190 0 0
+/fpo/farmer/getFarmImplementsModel/2/Chakra 2 74 0 0
+/popi/Login/getlocation/636903 3 114 0 0
+/administrator/Login/getvillages/2909004007 11 13376 0 0
+/fpo/updatecrop/nutrient/10 2 62 0 0
+/fpo/fig/viewfig/91 3 163299 0 0
+/fpo/farmer/updateland/539 1 66 0 0
+/fpo/farmer/updatefarmimplement/166 1 69 0 0
+/fpo/finance/getLedgerAccountBalance 12 453 0 0
+/fpo/farmer/farmimplement_list 83 59294 0 0
+/fpo/updatecrop/varietybycategory/82 1 485 0 0
+/popi/Login/checkusername/9487038688 2 111 0 0
+/administrator/Login/getvillages/2909004016 1 1667 0 0
+/fpo/updatecrop/pesticide/6 2 1282 0 0
+/fpo/updatecrop/viewexpenses_update/143 2 86800 0 0
+/administrator/cropstandard 3 113526 0 0
+/fpo/fpg/viewfpg/10 7 355520 0 0
+/administrator/fig/viewfig 1 47360 0 0
+/fpo/crop/addcrop 21 4269987 0 0
+/fpo/inventory/getSupplierByMobileNumber/1234567890 1 59 0 0
+/fpo/farmer/getFarmImplementsModel/1/Sonalika 3 2697 0 0
+/fpo/farmer/getFarmImplementsModel/2/Sonalika 1 37 0 0
+/fpo/finance/trialbalance 40 2334584 0 0
+/fpo/updatecrop/variety/6 1 30 0 0
+/administrator/Login/getPanchayat/2908013 2 2274 0 0
+/fpo/updatecrop/land/2077 5 2415 0 0
+/fpo/masterdata/viewproductfpo/59 1 258401 0 0
+/fpo/farmer/getFarmImplementsModel/2/Farm 2 74 0 0
+/administrator/Login/getlocation/600116 1 2326 0 0
+/administrator/masterdata/stockgrouplist 15 563475 0 0
+/fpo/farmer/getFarmImplementsModel/2/VST 1 37 0 0
+/administrator/Login/getvillages/2909001012 2 2408 0 0
+/administrator/Login/getvillages/2901004001 1 214 0 0
+/fpo/updatecrop/varietybycategory/38 1 124 0 0
+/administrator/Login/getvillages/2910019001 1 1579 0 0
+/fpo/farmer/editland/540 1 2820 0 0
+/fpo/farmer/editlivestock/481 1 362 0 0
+/fpo/finance/getProductCountByID/58 1 70 0 0
+/administrator/Login/getvillages/2910018009 1 498 0 0
+/fpo/farmer/editland/542 10 34000 0 0
+/popi/Login/getvillages/2909004030 4 3956 0 0
+/administrator/Login/getPanchayat/2911005 2 1678 0 0
+/fpo/inventory/getsellingPrice/ 2 2604 0 0
+/administrator/masterdata/viewproduct/26 1 46385 0 0
+/administrator/user/adduser 1 33346 0 0
+/fpo/updatecrop/pesticide/17 1 784 0 0
+/administrator/masterdata/farmimplementsmakelist 1 412199 0 0
+/administrator/Login/getvillages/2930001020 1 1581 0 0
+/fpo/inventory/getmrp/58 1 2 0 0
+/fpo/updatecrop/cropnamebycategory/24 3 822 0 0
+/fpo/updatecrop/pesticide/45 1 172 0 0
+/fpo/updatecrop/varietybycategory/81 1 404 0 0
+/home 6 248094 1 1
+/popi/Login/checkusername/6379643440 1 51 0 0
+/fpo/updatecrop/varietybycategory/142 1 461 0 0
+/administrator/Login/getvillages/2911017017 2 1838 0 0
+/fpo/share/rightsharecertificate 1 44584 0 0
+/fpo/finance/customerbranches 1 85323 0 0
+/fpo/finance/getAllTransactionByVoucherNumber/RT00001 7 5652 0 0
+/administrator/Login/getPanchayat/2911018 1 1616 0 0
+/fpo/farmer/getFarmImplementsModel/2/Shri 1 37 0 0
+/popi/fig 3 88303 0 0
+/fpo/updatecrop/costseed/90 1 71 0 0
+/fpo/farmer/getFarmImplementsModel/2/Gomadhi 1 37 0 0
+/fpo/updatecrop/edit_updatecrop/1 2 502978 0 0
+/fpo/updatecrop/varietybycategory/146 1 131 0 0
+/administrator/Login/getvillages/2909001008 2 1376 0 0
+/fpo/production 5 205566 0 0
+/fpo/farmer/getFarmImplementsModel/1/Escort 1 776 0 0
+/fpo/farmer/getBlocksByDistrict/2909 66 25476 0 0
+/fpo/farmer/updateland/538 1 66 0 0
+/fpo/farmer/editfarmimplement/165 7 2716 0 0
+/fpo/farmer/edit_Farmer/2088 2 4486 0 0
+/fpo/share/sharetransfer 1 54754 0 0
+/fpo/fpg/viewfpg/14 4 209154 0 1
+/fpo/updatecrop/pesticide/33 1 299 0 0
+/fpo/updatecrop/varietybycategory/72 1 471 0 0
+/fpo/updatecrop/postharvestvariety/2077 3 670 0 0
+/administrator/Login/checkusername/9698105157 1 51 0 0
+/fpo/farmer/editfarmer/2077 1 67623 0 0
+END_SIDER

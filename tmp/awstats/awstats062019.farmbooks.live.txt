@@ -1,0 +1,324 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201906 will be lost/reset.
+# Last config file used to build this data file was /home/farmbooks/tmp/awstats/awstats.farmbooks.live.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2673                
+POS_VISITOR 6988                
+POS_DAY 7491                
+POS_DOMAIN 3388                
+POS_LOGIN 3629                
+POS_ROBOT 3784                
+POS_WORMS 4074                
+POS_EMAILSENDER 4205                
+POS_EMAILRECEIVER 4348                
+POS_SESSION 7794                
+POS_SIDER 8000                
+POS_FILETYPES 4483                
+POS_DOWNLOADS 4586                
+POS_OS 4634                
+POS_BROWSER 4736                
+POS_SCREENSIZE 4926                
+POS_UNKNOWNREFERER 5000                
+POS_UNKNOWNREFERERBROWSER 5245                
+POS_ORIGIN 5400                
+POS_SEREFERRALS 5534                
+POS_PAGEREFS 5678                
+POS_SEARCHWORDS 5826                
+POS_KEYWORDS 5978                
+POS_MISC 2337                
+POS_ERRORS 6037                
+POS_CLUSTER 3485                
+POS_SIDER_404 6166                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190701053842 4 458 10021486053229
+FirstTime 0
+LastTime 20190629095817
+LastUpdate 20190701174132 4 0 3 0 0
+TotalVisits 34                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+TotalMisc 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+RealPlayerSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 15 17 12018
+1 0 0 0 9 11 5906
+2 0 0 0 10 12 10863
+3 0 0 0 11 15 6805
+4 0 0 0 3 4 1823
+5 0 0 0 33 35 39679
+6 0 0 0 24 24 12322
+7 0 0 0 48 50 18610
+8 0 0 0 18 21 9346
+9 1 1 44 37 44 26566
+10 2 2 88 701 703 770547
+11 8 8 1640 1550 1552 1644815
+12 21 21 49796 1700 1706 1806553
+13 1 1 62 455 459 424655
+14 10 10 7656 1209 1216 1244141
+15 23 23 20108 1895 1906 2488304
+16 11 11 2485 1393 1401 1309007
+17 8 8 44809 1072 1074 1308510
+18 1 1 62 317 320 377662
+19 14 14 13560 310 314 382445
+20 13 13 11214 139 143 104866
+21 0 0 0 100 108 90831
+22 0 0 0 23 24 19098
+23 0 0 0 240 240 171075
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+in 57 57 72979
+us 56 56 78545
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Dalvik/ 10947 11961354 20190629154757 0
+TelegramBot 7 2036 20190628114420 0
+AhrefsBot/ 1 41609 20190603104653 0
+bot[\s_+:,\.\;\/\\-] 1 41609 20190629124020 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 2
+html 51 64254 0 0
+Unknown 62 87270 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 3
+Unknown 35 35
+win7 65 65
+win10 13 13
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome75.0.3770.100 51 51
+chrome74.0.3729.169 4 4
+chrome58.8.3029.81 4 4
+chrome75.0.3770.80 3 3
+mozilla 1 1
+netscape5.0 16 16
+Unknown 34 34
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+PostmanRuntime/7.15.0 20190622121056
+PostmanRuntime/7.6.0 20190627151320
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190603174616
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+PostmanRuntime/7.6.0 20190627151320
+PostmanRuntime/7.15.0 20190622121056
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 113 113
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+400 5 5670
+500 27 44022
+404 119 134470
+301 264 55677
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 24
+/xmlrpc.php 2 -
+/joomla/administrator/index.php 1 -
+/joomla/robots.txt 1 -
+//wordpress// 1 -
+/rss/order/new/ 2 -
+/wordpress/ 1 -
+/downloader/ 2 -
+/admin/ 1 -
+/wp/ 1 -
+/api/DataCollection/ 1 -
+/fpo/api/crop/crop_list 1 -
+/wp/wp-login.php 1 -
+/blog/robots.txt 2 -
+/api/crop/v 1 -
+/rss/catalog/notifystock/ 2 -
+/ss/index.php 2 -
+/sunshop/index.php 3 -
+/blog/ 1 -
+/administrator/index.php 2 -
+/http:/www.THEFARMBOOKS.com/ 1 -
+/shop/index.php 2 -
+/blog/administrator/index.php 1 -
+/robots.txt 56 -
+/wp-login.php 31 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 11
+157.51.106.223 27 27 7003 20190628114000
+42.111.146.78 23 23 22837 20190625202458
+42.111.138.0 17 17 17573 20190627161851
+163.53.204.74 12 12 7044 20190625194744
+157.51.109.93 11 11 25383 20190622122945
+52.114.14.102 10 10 3791 20190628104658
+52.114.6.38 6 6 715 20190628125213
+42.106.76.51 4 4 24947 20190622121618
+42.111.137.144 1 1 578 20190626155053
+159.203.85.32 1 1 41609 20190603174616
+157.51.100.104 1 1 44 20190629095817
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 12
+20190603 1 1 41609 1
+20190604 1 1 1448 1
+20190612 2 2 218 1
+20190613 2 2 1332 1
+20190621 3 3 2460 1
+20190622 18 18 50938 4
+20190624 2 2 891 2
+20190625 25 25 24654 3
+20190626 9 9 2705 5
+20190627 40 40 24811 10
+20190628 9 9 414 4
+20190629 1 1 44 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+1h+ 3
+30s-2mn 1
+30mn-1h 2
+2mn-5mn 2
+5mn-15mn 2
+15mn-30mn 2
+0s-30s 22
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 26
+/api/crop/expected_harvest_date/ 23 18339 2 2
+/api/updatefarmer 15 15885 0 0
+/api/fpo/login 14 3796 4 1
+/api/getfarmerprofile/9898989898 8 6952 1 1
+/api/crop/view_crop/ 5 1570 1 2
+/api/crop/brand_by_nutrient/ 5 220 1 2
+/api/crop/post_harvest_list/ 4 176 3 2
+/api/fpo/farmers 4 47142 0 3
+/api/crop/crop_list 4 3177 1 0
+/api/getfarmeraddress/1200 3 2460 1 1
+/api/updatelandholdings/ 3 204 0 2
+/api/crop/crop_harvest_add/ 3 182 2 2
+/api/crop/crop_class/ 3 111 2 2
+/api/get_blocks/2909 3 2390 3 1
+/api/farmimplementsmakelist/1 3 1419 2 2
+/api/farmerimplementslist/39 2 1332 1 1
+/api/crop/post_crop/ 2 124 2 2
+/api/updateFarmer/ 1 1657 1 1
+/api/getlocation/636810 1 160 1 1
+/ 1 41609 1 1
+/api/crop/updatecrop_add/ 1 62 1 1
+/api/getfarmerprofile/2909002804 1 830 1 1
+/api 1 58 1 0
+/api/livestockvarietylist/1 1 1448 1 1
+/api/Login 1 61 1 1
+/api/getlocation/636701 1 160 0 1
+END_SIDER

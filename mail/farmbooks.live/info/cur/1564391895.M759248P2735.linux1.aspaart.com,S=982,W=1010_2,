@@ -1,0 +1,28 @@
+Return-Path: <sales@farmbooks.live>
+Delivered-To: info@farmbooks.live
+Received: from linux1.aspaart.com
+	by linux1.aspaart.com with LMTP
+	id wyTtKte5Pl2vCgAABJdJKw
+	(envelope-from <sales@farmbooks.live>)
+	for <info@farmbooks.live>; Mon, 29 Jul 2019 14:48:15 +0530
+Return-path: <sales@farmbooks.live>
+Envelope-to: info@farmbooks.live
+Delivery-date: Mon, 29 Jul 2019 14:48:15 +0530
+Received: from [127.0.0.1] (port=53522 helo=linux1.aspaart.com)
+	by linux1.aspaart.com with esmtpa (Exim 4.92)
+	(envelope-from <sales@farmbooks.live>)
+	id 1hs1nL-0000i0-FJ
+	for info@farmbooks.live; Mon, 29 Jul 2019 14:48:15 +0530
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII;
+ format=flowed
+Content-Transfer-Encoding: 7bit
+Date: Mon, 29 Jul 2019 14:48:15 +0530
+From: sales@farmbooks.live
+To: info@farmbooks.live
+Subject: Test Email
+Message-ID: <d7994de43cbbecf22862236769b2b4ab@farmbooks.live>
+X-Sender: sales@farmbooks.live
+User-Agent: Roundcube Webmail/1.3.8
+
+This is a testing email

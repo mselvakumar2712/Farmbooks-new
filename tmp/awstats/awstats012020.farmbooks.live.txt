@@ -1,0 +1,338 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202001 will be lost/reset.
+# Last config file used to build this data file was /home/farmbooks/tmp/awstats/awstats.farmbooks.live.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2689                
+POS_VISITOR 8340                
+POS_DAY 8764                
+POS_DOMAIN 3325                
+POS_LOGIN 3623                
+POS_ROBOT 3778                
+POS_WORMS 4120                
+POS_EMAILSENDER 4251                
+POS_EMAILRECEIVER 4394                
+POS_SESSION 8946                
+POS_SIDER 9098                
+POS_FILETYPES 4529                
+POS_DOWNLOADS 4645                
+POS_OS 4839                
+POS_BROWSER 4959                
+POS_SCREENSIZE 5129                
+POS_UNKNOWNREFERER 5203                
+POS_UNKNOWNREFERERBROWSER 5439                
+POS_ORIGIN 5585                
+POS_SEREFERRALS 5717                
+POS_PAGEREFS 5861                
+POS_SEARCHWORDS 6009                
+POS_KEYWORDS 6161                
+POS_MISC 2353                
+POS_ERRORS 6220                
+POS_CLUSTER 3479                
+POS_SIDER_404 6333                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200201000507 12 1832 9926778537558
+FirstTime 20200101022156
+LastTime 20200130015836
+LastUpdate 20200201173338 12 0 11 0 0
+TotalVisits 8                   
+TotalUnique 8                   
+MonthHostsKnown 0                   
+MonthHostsUnknown 10                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 2 30 33001
+1 1 1 41609 4 24 64902
+2 1 1 41609 11 23 16776
+3 0 0 0 11 23 18798
+4 0 0 0 7 7 2516
+5 0 13 988 14 16 94998
+6 1 1 0 13 36 29430
+7 0 0 0 16 39 72777
+8 0 0 0 6 27 68032
+9 0 0 0 48 64 68590
+10 0 0 0 13 22 16905
+11 1 1 41 90 124 3862958
+12 0 0 0 25 54 90098
+13 2 2 83218 17 19 9796
+14 0 0 0 18 20 15831
+15 2 2 82 12 21 16076
+16 1 1 891 10 21 18336
+17 0 0 0 18 28 17502
+18 0 0 0 11 45 85036
+19 0 0 0 14 26 21289
+20 0 0 0 8 20 15177
+21 1 1 41609 7 50 95181
+22 0 0 0 5 32 73043
+23 0 0 0 8 56 58785
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 7
+in 3 13 1730
+us 2 2 41650
+ua 1 1 41609
+gb 1 4 41840
+cn 1 1 41609
+fr 1 1 41609
+is 1 1 0
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 5
+Dalvik/ 116 3843513 20200127141953 0
+DotBot/ 3 98995 20200106071919 0
+AhrefsBot/ 3 124827 20200125214225 0
+bot[\s_+:,\.\;\/\\-] 3 124827 20200123014749 0
+(firefox/)([0-9]\.|[0-1][0]\.) 1 41349 20200106055957 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 3
+Unknown 4 1014 0 0
+txt 13 988 0 0
+html 6 208045 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/1E816D5D2B10E418694772DA63609AC2.txt 12 0 924
+/.well-known/pki-validation/7A0CDCF99EF03CAEE20A14382CFBBE8B.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+Unknown 16 3
+linux 1 1
+macosx11 1 1
+win7 2 2
+win10 3 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+netscape5.0 1 1
+chrome79.0.3945.88 3 3
+chrome48.0.2564.109 1 1
+mozilla 2 2
+firefox58.0 1 1
+firefox47.0 1 1
+Unknown 14 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 3
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200130015836
+COMODO_DCV 20200101055017
+python-requests/2.21.0 20200103062500
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+COMODO_DCV 20200101055017
+python-requests/2.21.0 20200103062500
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 23
+From1 0 0
+From2 0 0
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+404 525 593250
+307 1 0
+301 172 39072
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 64
+/news/ 1 -
+/myadmin/print.css 1 -
+/.svn/all-wcprops 1 -
+/ads.txt 1 -
+//admin/images/cal_date_over.gif 1 http://www.google.com.hk
+/web/ 1 -
+/.bitcoin/ 1 -
+/backup//wp-admin/install.php 1 -
+/old//wp-admin/install.php 1 -
+/.git/HEAD 15 -
+/administrator/index.php 1 -
+//templates/system/css/system.css 1 http://www.google.com.hk
+/admin/login.php 1 -
+/wp-login.php 27 -
+/assets/img/zofarming/of/green_manure_crops.jpg 2 -
+/home//wp-admin/install.php 1 -
+//vendor/phpunit/phpunit/phpunit.xsd 3 -
+/phpMyAdmin/print.css 1 -
+/new//wp-admin/install.php 1 -
+/.git/config 5 -
+/admin/ 2 -
+//admin/login.php 1 -
+/main//wp-admin/install.php 1 -
+/assets//wp-admin/install.php 1 -
+/assets/img/zofarming/of/neem_seed_kernal_extract.jpg 2 -
+/cms//wp-admin/install.php 1 -
+/v2//wp-admin/install.php 1 -
+/wp1//wp-admin/install.php 1 -
+/wp//wp-admin/install.php 1 -
+/demo//wp-admin/install.php 1 -
+/blog/ 1 -
+/phpmyadmin/print.css 1 -
+//admin/index.php 1 -
+/xmlrpc.php 1 -
+/new/ 1 -
+/mysql/print.css 1 -
+/bk//wp-admin/install.php 1 -
+/site/ 1 -
+/wp2//wp-admin/install.php 1 -
+/wordpress/ 1 -
+/test//wp-admin/install.php 1 -
+/wordpress//wp-admin/install.php 1 -
+/web//wp-admin/install.php 1 -
+/2018//wp-admin/install.php 1 -
+/cms/ 1 -
+/dev//wp-admin/install.php 1 -
+/v1//wp-admin/install.php 1 -
+/temp//wp-admin/install.php 1 -
+/app-ads.txt 187 -
+/2019//wp-admin/install.php 1 -
+/wp/ 1 -
+//administrator/index.php 1 -
+//admin/ 1 -
+/.env 1 -
+/portal//wp-admin/install.php 1 -
+/robots.txt 227 -
+/database/print.css 1 -
+/tmp//wp-admin/install.php 1 -
+/blog//wp-admin/install.php 1 -
+//wp-admin/install.php 1 -
+/user/register/ 1 -
+/site//wp-admin/install.php 1 -
+/pma/print.css 1 -
+//wp-login.php 1 http://www.google.com.hk
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 10
+42.111.145.7 3 3 973 20200103161805
+167.172.19.137 1 1 41609 20200130015836
+195.154.63.222 1 1 41609 20200102131420
+64.225.11.138 1 1 41609 20200101022156
+5.255.174.141 1 1 41609 20200122213438
+82.221.128.191 1 1 0 20200103062500
+52.114.6.38 1 1 41 20200103110322
+60.191.38.77 1 1 41609 20200116135116
+103.14.121.245 0 10 757 
+91.199.212.132 0 3 231 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 6
+20200101 1 14 42597 1
+20200102 1 1 41609 1
+20200103 5 5 1014 3
+20200116 1 1 41609 1
+20200122 1 1 41609 1
+20200130 1 1 41609 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+1h+ 1
+0s-30s 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 6 208045 6 6
+/api/getfarmeraddress/36 4 1014 2 2
+END_SIDER

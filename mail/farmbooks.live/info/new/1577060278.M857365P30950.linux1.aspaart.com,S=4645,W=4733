@@ -1,0 +1,88 @@
+Return-Path: <shkrsugi29pupab@gmail.com>
+Delivered-To: info@farmbooks.live
+Received: from linux1.aspaart.com
+	by linux1.aspaart.com with LMTP
+	id EiAgK7YHAF7meAAABJdJKw
+	(envelope-from <shkrsugi29pupab@gmail.com>)
+	for <info@farmbooks.live>; Mon, 23 Dec 2019 05:47:58 +0530
+Return-path: <shkrsugi29pupab@gmail.com>
+Envelope-to: info@farmbooks.live
+Delivery-date: Mon, 23 Dec 2019 05:47:58 +0530
+Received: from [23.228.73.179] (port=3293 helo=gmail.com)
+	by linux1.aspaart.com with smtp (Exim 4.92)
+	(envelope-from <shkrsugi29pupab@gmail.com>)
+	id 1ijBPz-00082l-TN
+	for info@farmbooks.live; Mon, 23 Dec 2019 05:47:58 +0530
+Message-ID: <B6C5F657.65DB038E@gmail.com>
+Date: Sun, 22 Dec 2019 08:19:08 -0800
+Reply-To: "Str8 Creative" <shkrsugi29pupab@gmail.com>
+From: "Str8 Creative" <shkrsugi29pupab@gmail.com>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 6.0; en-US; rv:1.8.1.12) Gecko/20080213 Thunderbird/2.0.0.12
+X-Accept-Language: en-us
+MIME-Version: 1.0
+To: <info@farmbooks.live>
+Content-Type: text/plain;
+	charset="us-ascii"
+Content-Transfer-Encoding: 7bit
+X-Spam-Status: Yes, score=32.4
+X-Spam-Score: 324
+X-Spam-Bar: ++++++++++++++++++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "linux1.aspaart.com",
+ has identified this incoming email as possible spam.  The original
+ message has been attached to this so you can view it or label
+ similar future email.  If you have any questions, see
+ root\@localhost for details.
+ Content preview:  http://www.str8-creative.co/product/ranks-recovery-seo-plan/
+    
+ Content analysis details:   (32.4 points, 5.0 required)
+  pts rule name              description
+ ---- ---------------------- --------------------------------------------------
+  1.8 FSL_HELO_FAKE          No description available.
+  0.0 URIBL_BLOCKED          ADMINISTRATOR NOTICE: The query to URIBL was
+                             blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [URIs: str8-creative.co]
+  1.3 RCVD_IN_RP_RNBL        RBL: Relay in RNBL,
+                             https://senderscore.org/blacklistlookup/
+                             [23.228.73.179 listed in bl.score.senderscore.com]
+  6.2 RCVD_IN_MSPIKE_L5      RBL: Very bad reputation (-5)
+                             [23.228.73.179 listed in bl.mailspike.net]
+  1.2 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in
+                             bl.spamcop.net
+               [Blocked - see <https://www.spamcop.net/bl.shtml?23.228.73.179>]
+  2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+                             [23.228.73.179 listed in psbl.surriel.com]
+  0.0 RCVD_IN_DNSWL_BLOCKED  RBL: ADMINISTRATOR NOTICE: The query to
+                             DNSWL was blocked.  See
+                             http://wiki.apache.org/spamassassin/DnsBlocklists#dnsbl-block
+                              for more information.
+                             [23.228.73.179 listed in list.dnswl.org]
+  0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail
+                             provider (shkrsugi29pupab[at]gmail.com)
+  0.0 DKIM_ADSP_CUSTOM_MED   No valid author signature, adsp_override is
+                              CUSTOM_MED
+  1.5 SPF_HELO_SOFTFAIL      SPF: HELO does not match SPF record (softfail)
+  1.1 DATE_IN_PAST_06_12     Date: is 6 to 12 hours before Received: date
+  1.5 SPF_SOFTFAIL           SPF: sender does not match SPF record (softfail)
+  2.4 RAZOR2_CF_RANGE_51_100 Razor2 gives confidence level above 50%
+                             [cf: 100]
+  1.7 RAZOR2_CHECK           Listed in Razor2 (http://razor.sf.net/)
+  2.0 PYZOR_CHECK            Listed in Pyzor
+                             (https://pyzor.readthedocs.io/en/latest/)
+  0.0 RCVD_IN_MSPIKE_BL      Mailspike blacklisted
+  0.0 DIGEST_MULTIPLE        Message hits more than one network digest check
+  2.0 RDNS_NONE              Delivered to internal network by a host with no rDNS
+  0.0 PDS_HP_HELO_NORDNS     High profile HELO with no sender rDNS
+  1.2 NML_ADSP_CUSTOM_MED    ADSP custom_med hit, and not from a mailing
+                             list
+  0.0 SPOOFED_FREEMAIL_NO_RDNS From SPOOFED_FREEMAIL and no rDNS
+  1.2 BODY_SINGLE_WORD       Message body is only one word (no spaces)
+  2.5 BODY_SINGLE_URI        Message body is only a URI
+  2.0 SPOOFED_FREEMAIL       No description available.
+X-Spam-Flag: YES
+Subject:  ***SPAM***  Have you lost your ranks recently? Let us recover them for you
+
+http://www.str8-creative.co/product/ranks-recovery-seo-plan/
+
+

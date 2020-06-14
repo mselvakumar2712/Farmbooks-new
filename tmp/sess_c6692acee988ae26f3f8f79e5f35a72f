@@ -1,0 +1,141 @@
+ PMA_token |s:16:"gy#[!2%euqh]|_;/";auth_type|s:3:"env";browser_access_time|a:1:{s:7:"default";i:1578048472;}relation|a:1:{i:1;a:22:{s:11:"PMA_VERSION";s:7:"4.9.0.1";s:7:"relwork";b:0;s:11:"displaywork";b:0;s:12:"bookmarkwork";b:0;s:7:"pdfwork";b:0;s:8:"commwork";b:0;s:8:"mimework";b:0;s:11:"historywork";b:0;s:10:"recentwork";b:0;s:12:"favoritework";b:0;s:11:"uiprefswork";b:0;s:12:"trackingwork";b:0;s:14:"userconfigwork";b:0;s:9:"menuswork";b:0;s:7:"navwork";b:0;s:17:"savedsearcheswork";b:0;s:18:"centralcolumnswork";b:0;s:20:"designersettingswork";b:0;s:19:"exporttemplateswork";b:0;s:8:"allworks";b:0;s:4:"user";N;s:2:"db";N;}}cache|a:2:{s:18:"server_1_farmbooks";a:18:{s:14:"mysql_cur_user";s:19:"farmbooks@localhost";s:17:"is_create_db_priv";b:0;s:14:"is_reload_priv";b:0;s:12:"db_to_create";s:0:"";s:30:"dbs_where_create_table_allowed";a:1:{i:0;s:14:"farmbook\_prod";}s:11:"dbs_to_test";b:0;s:9:"proc_priv";b:0;s:10:"table_priv";b:0;s:8:"col_priv";b:0;s:7:"db_priv";b:0;s:12:"is_grantuser";b:0;s:13:"is_createuser";b:0;s:12:"is_superuser";b:0;s:11:"binary_logs";a:0:{}s:18:"menu-levels-server";a:13:{s:9:"databases";s:9:"Databases";s:3:"sql";s:3:"SQL";s:6:"status";s:6:"Status";s:6:"rights";s:5:"Users";s:6:"export";s:6:"Export";s:6:"import";s:6:"Import";s:8:"settings";s:8:"Settings";s:6:"binlog";s:10:"Binary log";s:11:"replication";s:11:"Replication";s:4:"vars";s:9:"Variables";s:7:"charset";s:8:"Charsets";s:7:"plugins";s:7:"Plugins";s:6:"engine";s:7:"Engines";}s:14:"menu-levels-db";a:14:{s:9:"structure";s:9:"Structure";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"Search";s:5:"query";s:5:"Query";s:6:"export";s:6:"Export";s:6:"import";s:6:"Import";s:9:"operation";s:10:"Operations";s:10:"privileges";s:10:"Privileges";s:8:"routines";s:8:"Routines";s:6:"events";s:6:"Events";s:8:"triggers";s:8:"Triggers";s:8:"tracking";s:8:"Tracking";s:8:"designer";s:8:"Designer";s:15:"central_columns";s:15:"Central columns";}s:19:"profiling_supported";b:1;s:17:"menu-levels-table";a:11:{s:6:"browse";s:6:"Browse";s:9:"structure";s:9:"Structure";s:3:"sql";s:3:"SQL";s:6:"search";s:6:"Search";s:6:"insert";s:6:"Insert";s:6:"export";s:6:"Export";s:6:"import";s:6:"Import";s:10:"privileges";s:10:"Privileges";s:9:"operation";s:10:"Operations";s:8:"tracking";s:8:"Tracking";s:8:"triggers";s:8:"Triggers";}}s:8:"server_1";a:4:{s:15:"userprefs_mtime";i:1578048187;s:14:"userprefs_type";s:7:"session";s:12:"config_mtime";i:1577292799;s:9:"userprefs";a:1:{s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}}}}encryption_key|s:32:":tOÙA’¾K èêÉ±Ln7W/N¨2/	oË£";userconfig|a:2:{s:2:"db";a:1:{s:12:"Console/Mode";s:8:"collapse";}s:2:"ts";i:1578048187;}two_factor_check|b:1;git_location|N;is_git_revision|b:0;tmpval|a:16:{s:15:"favorite_tables";a:1:{i:1;a:0:{}}s:13:"recent_tables";a:1:{i:1;a:2:{i:0;a:2:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:16:"trv_taluk_master";}i:1;a:2:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";}}}s:18:"table_limit_offset";i:0;s:21:"table_limit_offset_db";s:13:"farmbook_prod";s:5:"query";a:10:{s:32:"82fefc080d0d7d493e8ebf4af3ef1136";a:8:{s:3:"sql";s:549:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+
+WHERE `trv_farmer`.`id` = '36'";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"0d9118952f4eff75160d89ef26879e7c";a:8:{s:3:"sql";s:353:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+
+WHERE `trv_farmer`.`id` = '36'";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"ea3cea9dd20539bc6d42ce79cd2c3ff4";a:8:{s:3:"sql";s:457:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+WHERE `trv_farmer`.`id` = '36'";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"3e68b188c29f0411c05a8a2e57244159";a:8:{s:3:"sql";s:546:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat`
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+WHERE `trv_farmer`.`id` = '36'";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"87ac2ced321a9685c6193b26386925ed";a:8:{s:3:"sql";s:546:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat`
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` 
+WHERE `trv_farmer`.`id` = '36'";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"b582e7356ea76c980c18af66c2a3be8e";a:8:{s:3:"sql";s:32:"SELECT * FROM `trv_taluk_master`";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"5e0f539871d3905b424ee4edfedad8f9";a:8:{s:3:"sql";s:59:"SELECT * FROM `trv_taluk_master` WHERE taluk_code = 2909004";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";s:1:"0";s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"1f35857086301bddabf6a98e874bae01";a:8:{s:3:"sql";s:69:"SELECT *  FROM `trv_taluk_master` WHERE `taluk_code` LIKE '%2909004%'";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"ae5ddf28127c7d9afef3c85a6c9669b6";a:8:{s:3:"sql";s:66:"SELECT *  FROM `trv_taluk_master` WHERE `taluk_code` LIKE '%2909%'";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}s:32:"5a7543667bc7415b2798425763bde4f5";a:8:{s:3:"sql";s:113:"SELECT *  FROM `trv_taluk_master` WHERE `taluk_code` LIKE '%2909%'  
+ORDER BY `trv_taluk_master`.`taluk_code` ASC";s:12:"repeat_cells";i:100;s:8:"max_rows";i:25;s:3:"pos";i:0;s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;}}s:6:"pftext";s:1:"P";s:18:"relational_display";s:1:"K";s:9:"geoOption";s:4:"GEOM";s:14:"display_binary";b:1;s:12:"display_blob";b:0;s:19:"hide_transformation";b:0;s:3:"pos";i:0;s:8:"max_rows";i:25;s:12:"repeat_cells";i:100;s:13:"table_uiprefs";a:1:{i:1;a:1:{s:13:"farmbook_prod";a:2:{s:10:"trv_farmer";a:0:{}s:16:"trv_taluk_master";a:1:{s:10:"sorted_col";s:35:"`trv_taluk_master`.`taluk_code` ASC";}}}}s:20:"possible_as_geometry";b:1;}ConfigFile1|a:4:{s:28:"PmaNoRelation_DisableWarning";b:1;s:12:"ShowCreateDb";b:0;s:7:"Console";a:1:{s:4:"Mode";s:8:"collapse";}s:7:"Servers";a:1:{i:1;a:2:{s:7:"only_db";s:0:"";s:7:"hide_db";s:0:"";}}}debug|a:0:{}Import_message|a:2:{s:7:"message";N;s:11:"go_back_url";s:55:"tbl_sql.php?db=farmbook_prod&amp;table=trv_taluk_master";}is_multi_query|b:0;sql_history|a:24:{i:0;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:0:"";s:8:"sqlquery";s:965:"SELECT `trv_farmer`.*, `trv_farmer`.`status`, `trv_farmer`.`land_holdings`, `trv_village_master`.`name` As `village_name`, `trv_state_master`.`name` As `state_name`, `trv_district_master`.`name` As `district_name`, `trv_block_master`.`name` As `block_name`, `trv_taluk_master`.`name` As `taluk_name`, `trv_panchayat_master`.`name` As `panchayat_name` FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` WHERE `trv_farmer`.`id` = '36'";}i:1;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:0:"";s:8:"sqlquery";s:965:"SELECT `trv_farmer`.*, `trv_farmer`.`status`, `trv_farmer`.`land_holdings`, `trv_village_master`.`name` As `village_name`, `trv_state_master`.`name` As `state_name`, `trv_district_master`.`name` As `district_name`, `trv_block_master`.`name` As `block_name`, `trv_taluk_master`.`name` As `taluk_name`, `trv_panchayat_master`.`name` As `panchayat_name` FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` WHERE `trv_farmer`.`id` = '36'";}i:2;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:689:"SELECT `trv_farmer`.*, `trv_farmer`.`status`, `trv_farmer`.`land_holdings` FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` WHERE `trv_farmer`.`id` = '36'";}i:3;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:689:"SELECT `trv_farmer`.*, `trv_farmer`.`status`, `trv_farmer`.`land_holdings` FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` WHERE `trv_farmer`.`id` = '36'";}i:4;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:589:"SELECT `trv_farmer`.*, `trv_farmer`.`status`, `trv_farmer`.`land_holdings` FROM `trv_farmer` 
+
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` WHERE `trv_farmer`.`id` = '36'";}i:5;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:589:"SELECT `trv_farmer`.*, `trv_farmer`.`status`, `trv_farmer`.`land_holdings` FROM `trv_farmer` 
+
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` WHERE `trv_farmer`.`id` = '36'";}i:6;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:126:"SELECT `trv_farmer`.*, `trv_farmer`.`status`, `trv_farmer`.`land_holdings` FROM `trv_farmer` 
+ WHERE `trv_farmer`.`id` = '36'";}i:7;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:637:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` 
+WHERE `trv_farmer`.`id` = '36'";}i:8;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:637:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` 
+WHERE `trv_farmer`.`id` = '36'";}i:9;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:549:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+
+WHERE `trv_farmer`.`id` = '36'";}i:10;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:549:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+
+WHERE `trv_farmer`.`id` = '36'";}i:11;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:353:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+
+WHERE `trv_farmer`.`id` = '36'";}i:12;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:353:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+
+WHERE `trv_farmer`.`id` = '36'";}i:13;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:457:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+WHERE `trv_farmer`.`id` = '36'";}i:14;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:457:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat` 
+WHERE `trv_farmer`.`id` = '36'";}i:15;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:546:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat`
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+WHERE `trv_farmer`.`id` = '36'";}i:16;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:546:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat`
+INNER JOIN `trv_taluk_master` ON `trv_taluk_master`.`taluk_code` = `trv_farmer`.`taluk` 
+WHERE `trv_farmer`.`id` = '36'";}i:17;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:546:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat`
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` 
+WHERE `trv_farmer`.`id` = '36'";}i:18;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:10:"trv_farmer";s:8:"sqlquery";s:546:"SELECT trv_farmer.id FROM `trv_farmer` 
+INNER JOIN `trv_district_master` ON `trv_district_master`.`district_code` = `trv_farmer`.`district` 
+INNER JOIN `trv_state_master` ON `trv_state_master`.`state_code` = `trv_farmer`.`state` 
+INNER JOIN `trv_village_master` ON `trv_village_master`.`id` = `trv_farmer`.`village` 
+INNER JOIN `trv_panchayat_master` ON `trv_panchayat_master`.`panchayat_code` = `trv_farmer`.`panchayat`
+INNER JOIN `trv_block_master` ON `trv_block_master`.`block_code` = `trv_farmer`.`block` 
+WHERE `trv_farmer`.`id` = '36'";}i:19;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:16:"trv_taluk_master";s:8:"sqlquery";s:32:"SELECT * FROM `trv_taluk_master`";}i:20;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:16:"trv_taluk_master";s:8:"sqlquery";s:32:"SELECT * FROM `trv_taluk_master`";}i:21;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:16:"trv_taluk_master";s:8:"sqlquery";s:59:"SELECT * FROM `trv_taluk_master` WHERE taluk_code = 2909004";}i:22;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:16:"trv_taluk_master";s:8:"sqlquery";s:59:"SELECT * FROM `trv_taluk_master` WHERE taluk_code = 2909004";}i:23;a:3:{s:2:"db";s:13:"farmbook_prod";s:5:"table";s:16:"trv_taluk_master";s:8:"sqlquery";s:113:"SELECT *  FROM `trv_taluk_master` WHERE `taluk_code` LIKE '%2909%'  
+ORDER BY `trv_taluk_master`.`taluk_code` ASC";}}errors|a:0:{}

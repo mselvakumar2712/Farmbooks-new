@@ -1,0 +1,888 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201908 will be lost/reset.
+# Last config file used to build this data file was /home/farmbooks/tmp/awstats/ssl/awstats.farmbooks.live.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2016                
+POS_TIME 2688                
+POS_VISITOR 10280               
+POS_DAY 18876               
+POS_DOMAIN 3538                
+POS_LOGIN 4067                
+POS_ROBOT 4222                
+POS_WORMS 4853                
+POS_EMAILSENDER 4984                
+POS_EMAILRECEIVER 5127                
+POS_SESSION 19726               
+POS_SIDER 19935               
+POS_FILETYPES 5262                
+POS_DOWNLOADS 5513                
+POS_OS 5561                
+POS_BROWSER 5837                
+POS_SCREENSIZE 6929                
+POS_UNKNOWNREFERER 7003                
+POS_UNKNOWNREFERERBROWSER 7765                
+POS_ORIGIN 8035                
+POS_SEREFERRALS 8177                
+POS_PAGEREFS 8351                
+POS_SEARCHWORDS 8620                
+POS_KEYWORDS 8772                
+POS_MISC 2352                
+POS_ERRORS 8831                
+POS_CLUSTER 3923                
+POS_SIDER_404 8991                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190901002816 1 0 10488339134102
+FirstTime 20190801042145
+LastTime 20190831120219
+LastUpdate 20190901173323 1 0 0 0 0
+TotalVisits 298                 
+TotalUnique 212                 
+MonthHostsKnown 0                   
+MonthHostsUnknown 219                 
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavascriptDisabled 0 0 0
+RealPlayerSupport 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+AddToFavourites 0 0 0
+JavaEnabled 0 0 0
+TotalMisc 0 0 0
+PDFSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 16 41 1402634 12 17 420481
+1 6 6 248302 8 11 160801
+2 8 34 1068777 24 33 694660
+3 11 11 388646 1 1 41349
+4 7 7 248094 5 10 109693
+5 10 10 207908 10 26 610625
+6 98 104 4372412 19 24 740432
+7 45 46 1162885 9 24 839083
+8 14 40 1275730 8 9 219441
+9 28 57 1951346 9 15 279341
+10 138 221 7214887 16 46 1993738
+11 178 431 14260756 30 37 130299
+12 267 621 21013673 34 50 292455
+13 240 501 16570227 47 60 394042
+14 315 605 17341866 44 61 650991
+15 293 791 28762078 97 152 1853012
+16 172 298 7851315 48 63 664801
+17 86 318 11799275 25 28 154884
+18 37 38 789905 11 40 1829020
+19 102 167 4535865 30 39 254688
+20 86 231 8102169 13 24 547932
+21 270 345 9503537 44 61 1328055
+22 47 77 2025160 15 35 1512342
+23 10 10 413490 9 29 1513519
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 22
+in 1562 3500 115496045
+us 807 1320 41438785
+de 28 28 754320
+cn 26 26 1039562
+ca 12 12 404735
+ru 8 8 82698
+sg 8 57 1578464
+fr 6 6 249082
+ua 5 5 41349
+cl 5 5 206745
+cz 2 2 57646
+zz 2 2 11741
+at 2 2 23495
+gb 2 2 82698
+ao 2 28 825096
+au 1 1 0
+sc 1 1 41349
+it 1 1 11731
+jp 1 1 41349
+hu 1 1 41349
+hn 1 1 41349
+es 1 1 41349
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 12
+bingpreview 109 6899157 20190831100625 0
+AhrefsBot/ 87 1385079 20190826011919 9
+Googlebot/ 42 1714982 20190830121132 0
+spider 36 1673528 20190818155727 0
+bingbot/ 34 1910171 20190831100559 0
+DuckDuckGo\-Favicons\-Bot/ 8 171620 20190830095824 0
+bot[\s_+:,\.\;\/\\-] 6 248094 20190830213946 0
+YandexBot/ 4 140344 20190825122725 0
+(firefox/)([0-9]\.|[0-1][0]\.) 4 165396 20190825084807 0
+CFNetwork 2 3112 20190821155914 0
+Googlebot\-Image/ 1 80512 20190820003352 0
+TelegramBot 1 2711 20190812130027 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 9
+html 460 18436920 0 0
+jpg 56 10552512 0 0
+png 1349 2219621 0 0
+js 660 54297301 0 0
+css 461 14113434 0 0
+woff2 114 6853484 0 0
+eot 4 511962 0 0
+Unknown 1898 52099491 0 0
+map 8 3426212 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 15
+Unknown 49 49
+win7 962 581
+macosx12 3 3
+win10 2267 982
+macosx10 1 1
+macosx11 25 25
+ios_iphone 113 10
+winxp 3 3
+linux 104 25
+winnt 2 2
+macosx 176 84
+macosx8 2 2
+linuxandroid 506 106
+win8.1 786 600
+winlong 11 11
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 50
+firefox64.0 3 3
+firefox47.0 25 25
+chrome46.0.2490.76 121 24
+chrome12.0.704.0 1 1
+chrome75.0.3770.142 631 364
+opera62.0.3331.99 119 47
+chrome76.0.3809.100 2094 1323
+edge18 229 80
+firefox62.0 2 2
+firefox61.0 1 1
+chrome67.0.3396.87 29 3
+firefox44.0 1 1
+chrome58.0.3029.110 3 2
+mozilla 28 28
+msie11.0 75 9
+firefox66.0 1 1
+chrome61.0.3163.100 1 1
+safari12.1.1 29 6
+safari12.0 2 2
+chrome26.0.1410.65 2 2
+opera53.0.2907.99 4 4
+msie6.0 1 1
+msie8.0 2 2
+firefox58.0 4 4
+chrome74.0.3729.131 2 2
+chrome76.0.3809.111 270 70
+chrome63.0.3239.132 1 1
+firefox63.0 1 1
+edge17 1 1
+opera54.0.2952.64 2 2
+chrome38.0.1025.166 26 1
+chrome65.0.3400.0 2 2
+chrome70.0.3538.110 28 2
+chrome45.0.2454.94 1 1
+chrome76.0.3809.87 1 1
+chrome67.0.3396.99 2 2
+chrome41.0.2228.0 1 1
+chrome64.0.3282.186 2 2
+chrome66.0.3359.181 122 122
+chrome39.0.2171.95 1 1
+chrome73.0.3683.90 31 5
+chrome76.0.3809.132 13 12
+chrome74.0.3729.169 1 1
+firefox34.0 15 15
+chrome51.0.2704.103 5 5
+Unknown 24 24
+firefox68.0 753 175
+chrome68.0.3440.106 2 2
+safari12.1.2 256 84
+chrome40.0.2214.85 39 13
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 10
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t13rl;__http://researchscan.comsys.rwth-aachen.de) 20190828214339
+python-requests/2.18.4 20190802060903
+python-requests/2.22.0 20190826025736
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12ca;__http://researchscan.comsys.rwth-aachen.de) 20190828220911
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190806122208
+Mozilla/5.0_(compatible;_Dataprovider.com) 20190801064511
+python-requests/2.21.0 20190812123129
+Go-http-client/1.1 20190820084600
+Mozilla/5.0_zgrab/0.x_(compatible;_Researchscan/t12sns;__http://researchscan.comsys.rwth-aachen.de) 20190828104407
+Python/3.7_aiohttp/3.5.4 20190826225126
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+python-requests/2.21.0 20190812123129
+python-requests/2.22.0 20190826025736
+python-requests/2.18.4 20190802060903
+Go-http-client/1.1 20190820084600
+Python/3.7_aiohttp/3.5.4 20190826225126
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 385 465
+From1 0 0
+From2 32 34
+From3 3 3
+From4 2064 4508
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 2
+bing 0 2
+www_google_com 32 32
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+http://cpanel.farmbooks.live/.git/config 1 1
+http://webmail.farmbooks.live/.git/config 1 1
+https://brandnewblogs.com 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 7
+421 47 15134
+307 172 0
+401 13 454
+303 73 0
+500 4 6639
+404 167 188710
+206 36 2630041
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 19
+/wp-content/plugins/dzs-videogallery/class_parts/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/apple-touch-icon-precomposed.png 5 -
+/apple-touch-icon.png 5 -
+/wp-content/plugins/jekyll-exporter/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/sitemap.xml 1 -
+/update.php 1 -
+/robots.txt 52 -
+/sites/all/libraries/mailchimp/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/ads.txt 1 -
+/fpo/dahboard 2 -
+/wp-content/plugins/cloudflare/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/assets/vendor/fontawesome-free/css/all.min.css 2 https://farmbooks.live/fpo/fpo/changepassword/32900004
+/.git/config 3 -
+/admin/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/fpo/login/signout 2 https://farmbooks.live/fpo/crop
+/assets/js/lib/data-table/pdfmake.min.js.map 61 -
+/cms/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+/laravel/vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php 4 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 219
+210.18.181.70 785 1986 70568607 20190830143059
+163.53.204.74 495 732 18725352 20190828164144
+157.50.90.254 286 343 9548639 20190813212837
+157.46.5.99 111 117 4329173 20190816070331
+59.93.12.104 105 177 5549265 20190813170000
+157.51.107.93 91 91 1322836 20190816191154
+59.93.20.140 80 148 5354707 20190812133112
+42.106.89.16 46 121 4013707 20190828223209
+157.51.193.165 39 39 1247604 20190814113100
+157.46.17.58 33 33 549456 20190814212612
+60.191.38.77 25 25 998213 20190826181859
+157.46.127.157 23 88 3299501 20190820194517
+157.51.241.41 19 87 3497495 20190813155537
+42.111.156.173 9 43 1794273 20190827122327
+157.50.219.92 9 38 1248205 20190812174735
+59.185.107.2 9 38 1273257 20190830095335
+182.19.193.11 8 57 1578464 20190826112426
+173.239.53.9 8 8 280688 20190822104200
+104.192.74.243 8 86 2712036 20190824173558
+138.246.253.5 8 8 0 20190829055201
+103.225.125.110 6 34 993604 20190827081345
+167.114.174.95 6 6 223042 20190801064513
+117.215.213.161 5 57 1696747 20190812111047
+183.82.96.132 5 34 1107861 20190813131754
+137.226.113.27 5 5 207785 20190828214339
+34.221.184.21 2 2 82698 20190814165308
+52.43.223.53 2 2 82698 20190824100422
+167.99.55.133 1 1 36688 20190803155157
+54.202.151.202 1 1 41349 20190824002620
+52.88.18.140 2 2 82698 20190809113329
+217.182.16.82 2 2 82698 20190827052227
+66.249.138.164 1 1 41349 20190810101654
+137.226.113.26 3 3 124671 20190828220911
+157.46.21.182 2 28 825096 20190831020223
+54.211.44.62 0 1 3718 
+173.252.95.10 1 4 85106 20190829132308
+34.220.191.235 2 2 82698 20190822100400
+54.188.160.182 1 1 41349 20190827071443
+54.201.148.23 1 1 41349 20190809050904
+54.149.194.146 1 1 41349 20190818082542
+210.18.157.232 2 28 825096 20190826204751
+34.221.119.251 1 1 41349 20190819013640
+68.183.117.200 1 1 41349 20190803182757
+27.62.74.65 3 28 864832 20190801121352
+178.236.248.7 1 1 0 20190806183152
+42.109.158.140 1 1 41349 20190816222057
+34.223.250.47 1 1 41349 20190801102614
+18.234.119.33 1 1 41557 20190829175443
+35.162.69.16 1 1 41349 20190823062632
+52.43.112.169 1 1 41349 20190810041425
+54.245.139.233 2 2 82698 20190817123800
+109.254.131.18 1 1 0 20190806180416
+193.28.177.122 2 2 41349 20190806165426
+52.33.139.67 2 2 82698 20190820100137
+157.44.239.78 2 28 825096 20190804132413
+34.217.97.77 1 1 41349 20190816142144
+173.252.95.4 1 6 294114 20190829132245
+54.68.70.42 2 2 82698 20190823092327
+167.99.114.66 1 1 36676 20190806122208
+54.218.230.85 2 2 82698 20190830065204
+54.200.27.150 1 1 41349 20190806010145
+129.78.110.131 1 1 0 20190804031019
+40.87.87.194 1 1 41349 20190830150120
+167.71.85.69 1 1 36676 20190803111454
+52.10.51.99 1 1 41349 20190822000855
+159.89.121.231 1 1 0 20190829134434
+54.191.120.91 1 1 41349 20190831104136
+95.61.38.203 1 1 41349 20190804191118
+104.140.22.147 3 3 98995 20190823102606
+181.215.64.158 1 1 41349 20190807195233
+54.185.245.108 2 2 82698 20190815002855
+34.211.120.44 1 1 41349 20190825004713
+109.70.100.28 1 1 11745 20190802055247
+45.86.246.52 1 1 41349 20190809084300
+34.221.239.41 1 1 41349 20190819092711
+37.58.58.229 2 2 57646 20190824092600
+193.70.34.209 1 1 11731 20190826123544
+34.220.117.245 2 2 82698 20190815205951
+34.220.0.53 2 2 82698 20190805113021
+91.197.145.102 1 1 0 20190806180134
+38.131.159.146 1 1 41349 20190807033111
+62.210.83.78 1 1 41349 20190830212550
+183.253.80.95 1 1 41349 20190829033521
+52.88.253.203 1 1 41349 20190808072100
+94.124.194.20 1 1 0 20190806171454
+54.213.144.69 1 1 41349 20190821002924
+34.216.137.169 2 2 82698 20190801101434
+37.73.181.107 1 1 0 20190806181415
+51.255.109.164 1 1 41609 20190805195605
+173.252.87.2 1 14 461048 20190816134759
+154.159.106.43 2 28 825096 20190813205544
+13.56.241.167 1 1 41349 20190828084218
+34.221.92.218 1 1 41349 20190811210832
+52.38.87.242 2 2 82698 20190814045749
+52.24.19.249 1 1 41349 20190817064520
+54.244.59.171 3 3 124047 20190819110658
+84.236.87.184 1 1 41349 20190801160512
+54.190.105.153 1 1 41349 20190808033612
+54.250.87.247 1 1 41349 20190816201344
+34.217.33.60 2 2 82698 20190829104326
+18.237.86.239 1 1 41349 20190803094921
+54.202.181.246 1 1 41349 20190830235247
+23.129.64.212 1 1 0 20190802060903
+62.4.14.206 1 1 41609 20190804085452
+54.149.93.63 1 1 41349 20190815131135
+34.223.228.42 2 2 82698 20190831120219
+195.225.160.215 1 1 0 20190806181319
+158.69.241.227 5 5 181693 20190816031515
+42.111.137.85 1 2 41349 20190826203520
+54.184.23.184 2 2 82698 20190811100601
+54.189.176.158 1 1 41349 20190802113457
+106.51.77.102 1 24 546384 20190821171903
+27.62.0.30 1 1 41349 20190802182244
+34.220.241.47 1 1 41349 20190823025931
+54.190.12.16 1 1 41349 20190821095820
+52.34.155.45 2 2 82698 20190826113631
+34.219.7.136 1 1 41349 20190807100106
+34.219.92.38 1 1 41349 20190820071010
+1.38.198.202 3 32 1139345 20190826204829
+181.214.184.104 1 1 41349 20190808105934
+68.183.217.198 1 1 41349 20190805193056
+34.216.221.134 2 2 82698 20190809075604
+23.129.64.194 1 1 11741 20190802055248
+54.184.149.11 2 2 82698 20190827100531
+18.237.227.235 1 1 41349 20190825235936
+157.51.195.238 5 34 1107861 20190812171621
+54.200.170.196 1 1 41349 20190829234722
+104.244.73.126 1 1 11741 20190802055256
+54.189.93.166 1 1 41349 20190807022555
+89.22.101.69 1 1 41349 20190822142303
+173.252.95.26 0 5 73456 
+34.221.246.197 2 2 82698 20190818100824
+185.93.3.114 2 2 57646 20190806115643
+34.217.54.143 1 1 41349 20190827230315
+191.101.213.173 1 1 41349 20190813093846
+185.220.101.60 1 1 0 20190802055246
+167.99.118.252 1 1 41557 20190806114919
+173.252.95.13 0 5 75089 
+52.26.181.40 1 1 41349 20190810235956
+34.222.61.7 1 1 41349 20190817084957
+35.163.93.250 2 2 82698 20190803113501
+188.92.197.249 1 1 0 20190806173834
+34.236.55.223 1 1 41349 20190815235551
+165.231.90.161 1 1 41349 20190808105237
+52.41.18.115 2 2 82698 20190806101408
+34.209.156.182 1 1 41349 20190824071535
+54.201.8.139 1 1 41349 20190803004526
+223.181.217.2 1 1 41349 20190827080602
+34.244.133.254 1 1 41349 20190830001705
+34.221.19.2 1 1 41349 20190825121855
+34.220.248.191 1 1 41349 20190812123129
+109.70.100.29 1 1 11750 20190802055244
+34.216.21.125 2 2 82698 20190828102921
+34.212.210.59 1 1 41349 20190801205821
+71.203.175.70 2 2 82698 20190830220822
+66.102.7.6 0 8 187837 
+35.238.98.15 1 1 41349 20190816025855
+108.62.3.45 2 2 57646 20190830072204
+173.252.87.12 1 14 364048 20190816134802
+34.217.88.24 2 2 82698 20190816115527
+178.187.161.203 2 2 41349 20190806174822
+51.255.109.175 1 1 41609 20190806181720
+45.86.246.74 1 1 41349 20190804041637
+66.102.7.4 1 5 273152 20190826144149
+66.102.7.8 0 13 285391 
+35.165.202.243 1 1 41349 20190817092458
+157.51.115.55 2 27 823540 20190827003336
+54.218.39.83 2 2 82698 20190808110608
+213.159.213.236 1 1 41349 20190826225126
+173.252.95.31 0 5 95680 
+205.237.95.77 1 1 41349 20190804234144
+54.187.49.190 1 1 41349 20190820001833
+35.164.56.14 2 2 82698 20190813000747
+157.51.222.0 1 1 41349 20190821224534
+181.215.75.105 1 1 41349 20190803064457
+34.213.205.81 2 2 82698 20190804100510
+54.244.83.150 2 2 82698 20190810111708
+54.245.181.214 2 2 82698 20190828231537
+18.237.164.108 2 2 82698 20190821113538
+148.251.151.248 1 1 41349 20190821122440
+54.188.240.22 1 1 41349 20190804010241
+54.71.101.149 1 1 41349 20190826095628
+34.211.68.12 1 1 41349 20190829073438
+69.164.111.198 1 1 36688 20190806171800
+52.13.27.104 2 2 82698 20190802121546
+181.214.191.230 1 1 41349 20190814103528
+106.203.87.235 1 2 42905 20190802113136
+173.252.95.8 0 3 201651 
+54.218.228.80 1 1 41349 20190822071633
+62.4.14.198 1 1 41557 20190804081347
+54.149.104.85 1 1 41349 20190816092217
+167.99.116.245 1 1 41349 20190803185618
+167.71.90.130 1 1 41609 20190806115218
+18.237.42.70 1 1 41349 20190810094127
+186.179.37.39 1 1 41349 20190827195012
+34.219.92.191 1 1 41349 20190820084600
+54.213.231.161 1 1 41349 20190827003226
+54.200.178.16 1 1 41349 20190827201112
+205.237.95.26 1 1 41349 20190805212514
+143.137.165.4 1 1 41349 20190827175931
+223.228.132.37 3 11 834707 20190826205920
+167.71.108.107 1 1 36688 20190806114937
+52.13.50.43 1 1 41349 20190815191403
+34.222.23.146 1 1 41349 20190812071841
+54.244.164.105 1 1 41349 20190818041729
+137.226.113.28 4 4 166228 20190821140645
+157.50.20.43 2 28 825096 20190823160933
+34.219.23.246 2 2 82698 20190825115234
+167.71.106.24 1 1 41349 20190806115240
+54.244.56.51 1 1 41349 20190814224441
+52.43.13.207 1 1 41349 20190828070030
+34.221.39.8 2 2 82698 20190807120608
+178.162.216.32 4 4 115292 20190816073301
+52.43.121.108 1 1 41349 20190804071406
+34.221.190.212 2 2 82698 20190812095955
+188.165.192.220 1 1 41349 20190827080419
+54.214.142.68 1 1 41349 20190830092933
+34.222.141.54 1 1 41349 20190805095242
+52.65.15.196 1 1 41349 20190813192341
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 31
+20190801 243 581 18860962 9
+20190802 26 81 2466333 13
+20190803 11 11 445505 9
+20190804 13 39 1239262 11
+20190805 201 298 8723712 8
+20190806 26 26 655528 22
+20190807 26 51 1733983 8
+20190808 10 60 1782203 9
+20190809 7 7 289443 6
+20190810 6 6 248094 5
+20190811 6 6 248510 5
+20190812 346 690 27328437 12
+20190813 571 1031 30505117 15
+20190814 174 463 16154113 9
+20190815 10 10 388646 7
+20190816 224 258 7212840 16
+20190817 60 65 1232927 6
+20190818 7 34 1035559 5
+20190819 9 35 1063844 7
+20190820 88 159 5567214 8
+20190821 101 256 9151652 11
+20190822 97 104 3230155 11
+20190823 18 69 1301930 10
+20190824 16 94 3017984 6
+20190825 7 7 280097 5
+20190826 40 189 6214588 16
+20190827 37 100 3696578 15
+20190828 67 143 4627438 11
+20190829 10 36 1073398 9
+20190830 22 70 1785742 11
+20190831 5 31 949143 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 245
+2mn-5mn 13
+15mn-30mn 6
+5mn-15mn 8
+30mn-1h 11
+1h+ 8
+30s-2mn 7
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 260
+/fpo/dashboard/supportEnquiry 631 142896 0 12
+/ 433 17323678 275 243
+/administrator/login/signout 58 0 12 7
+/fpo/farmer/getDistrictByState/29 54 81270 0 0
+/assets/fonts/fontawesome-webfont.woff2 51 3780840 2 13
+/fpo/dashboard 49 2136112 0 0
+/administrator/Login/getvillages/2908013007 46 35650 0 0
+/administrator/Login/getPanchayat/2908013 42 47754 0 1
+/fpo/farmer/getBlocksByDistrict/2908 39 27690 0 0
+/fpo/farmer/profilelist 35 1918124 0 0
+/fpo/farmer 35 605953 0 0
+/fpo/crop 33 4426149 0 0
+/fpo/fpg 31 1155558 2 0
+/fpo/masterdata/productfpolist 29 1120995 1 1
+/fpo/finance/salesentry 25 2921594 0 0
+/assets/vendor/fontawesome/webfonts/fa-regular-400.woff2 23 285432 0 0
+/assets/vendor/fontawesome/webfonts/fa-solid-900.woff2 23 1561308 0 1
+/home/ 20 826980 1 7
+/home/contactus 20 325940 0 7
+/fpo/user 19 669716 0 0
+/fpo/farmer/farmersByLocation 18 927 0 1
+/assets/vendor/fontawesome/webfonts/fa-brands-400.woff2 17 1225904 0 0
+/fpo/finance/purchaseentry 17 1900207 0 0
+/fpo/updatecrop 15 1214910 0 0
+/fpo/operation 15 731878 0 0
+/fpo/farmer/viewfarmer/2075 1 52022 0 0
+/popi/Login/getvillages/2908013009 2 652 0 0
+/fpo/updatecrop/postharvest 13 484378 0 0
+/popi/fpo/addfpo 2 114402 0 0
+/fpo/market/customerbranches 1 85224 0 0
+/administrator/role 3 94650 0 0
+/administrator/Login/checkusername/9944230407 1 51 0 0
+/popi/fpo/viewfpo/8 1 62949 0 0
+/fpo/fig/figrepresentlist 6 6538 0 0
+/fpo/updatecrop/editexpenses_update/3 1 176311 0 0
+/fpo/operation/viewdirector/1 1 53979 0 0
+/fpo/operation/charteredlist 1 47133 0 0
+/fpo/setting/pricing 2 79794 0 0
+/administrator/Login/getPanchayat/2910001 3 1527 0 0
+/administrator/Login/getvillages/2910005013 1 4542 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css.map 4 2249708 0 0
+/fpo/finance/SalesInvoiceView/SL0004/004/4020501 1 50852 0 0
+/fpo/farmer/landByLocation 5 135 0 0
+/popi/Login/getvillages/2908013002 2 1246 0 0
+/administrator/Login/checkusername/9443720160 1 51 0 0
+/fpo/operation/committeemeetinglist 1 47122 0 0
+/administrator/Login/getPanchayat/2908009 1 1701 0 0
+/administrator/Login/getModuleByCode/fts 1 144 0 0
+/fpo/fig 8 377027 0 0
+/assets/vendor/fontawesome/webfonts/fa-brands-400.eot 1 125320 0 0
+/fpo/role 9 353671 0 0
+/fpo/updatecrop/edit_updatecrop/1 1 247253 0 0
+/fpo/updatecrop/editexpenses_update/8 2 352624 0 0
+/popi/Login/getvillages/2908013003 2 452 0 0
+/popi/Login/getvillages/2908013013 2 834 0 0
+/fpo/operation/training_ceolist 2 94575 0 0
+/fpo/production 9 370114 0 0
+/administrator/Login/getPanchayat/2910004 1 2343 0 0
+/fpo/setting/invoiceprefix 6 239843 0 0
+/fpo/inventory/getstockreport 9 434997 0 0
+/fpo/approver/userlist 3 129231 0 0
+/fpo/role/viewrole/1 1 151934 0 0
+/home 7 289443 0 0
+/administrator/Login/getPanchayat/2910003 2 1642 0 0
+/fpo/finance/getglinfo 4 87206 0 0
+/fpo/production/viewDimension/ 1 39960 0 0
+/fpo/operation/annualmeetinglist 1 47204 0 0
+/fpo/operation/exposurelist 1 47109 0 0
+/fpo/finance/glaccounts/cash 1 45166 0 0
+/administrator/cropmaster 2 76382 0 0
+/administrator/fpo/addfpo 1 60799 0 0
+/administrator/Login/getvillages/2908002009 8 4056 0 0
+/popi/fpo 4 103600 0 0
+/popi/dashboard 4 153089 0 0
+/fpo/updatecrop/varietybycategory/32 1 493 0 0
+/fpo/finance/balanceSheetReports 6 316229 0 0
+/fpo/operation/addincorporate 2 100077 0 0
+/popi/Login/checkusername/9659109514 2 102 0 0
+/administrator/updatecrop/cropharvest 1 32471 0 0
+/fpo/updatecrop/viewexpenses_update/3 1 43399 0 0
+/fpo/fpo/changepassword/32900004 2 44240 0 0
+/popi/Login/getvillages/2908013014 2 2316 0 0
+/fpo/finance/balancesheetdrilldown 6 350343 0 0
+/assets/vendor/fontawesome/webfonts/fa-solid-900.eot 1 186512 0 0
+/fpo/farmer/getLiveStocks/1 1 108 0 0
+/fpo/finance/SalesInvoiceView/SL0001/001/4020502 1 47397 0 0
+/fpo/farmer/land_list 10 19090 0 0
+/administrator/Login/getvillages/2907001022 6 726 0 0
+/administrator/Login/getPanchayat/2910015 1 1684 0 0
+/fpo/updatecrop/cropharvest 12 827597 0 0
+/fpo/updatecrop/land/1410 1 27 0 0
+/fpo/production/dimensionEntry 1 39291 0 0
+/fpo/fig/figrepresentativelist 6 231754 0 0
+/fpo/inventory/checkSupplierInvoiceNo 4 252 0 0
+/popi/fpo/fpolist 3 2463 0 0
+/fpo/finance/SalesInvoiceView/SL0002/002/4020201 1 52212 0 0
+/fpo/inventory/stockreports 3 127551 0 0
+/fpo/updatecrop/pesticide/7 1 1035 0 0
+/fpo/approver 13 559525 0 0
+/fpo/farmer/addfarmer 11 2488121 0 0
+/fpo/fpg/addfpg 7 312263 0 0
+/fpo/finance/glaccounts/bank 1 45177 0 0
+/fpo/finance/postGLcashreports 1 78 0 0
+/administrator/Login/getPanchayat/2908001 1 2313 0 0
+/fpo/finance/profitAndLossReports 8 494863 0 0
+/administrator/popi/addpopi 1 53261 0 0
+/administrator/Login/checkusername/9789551390 1 51 0 0
+/administrator/dashboard 9 385499 0 0
+/fpo/updatecrop/editexpenses_update/90 1 176317 0 0
+/fpo/updatecrop/editpostharvest/2 2 436126 0 0
+/popi/Login/getvillages/2908013010 2 1034 0 0
+/fpo/finance/salesinvoicelist 5 308039 0 0
+/fpo/share 4 1493670 0 0
+/popi/Login/getvillages/2908013006 2 434 0 0
+/fpo/updatecrop/editcropharvest_value/1 1 190262 0 0
+/fpo/finance/glreports 2 146666 0 0
+/fpo/farmer/farmimplementlist 6 332444 0 0
+/fpo/approver/banklist 3 130149 0 0
+/administrator/Login/getvillages/2907001048 1 121 0 0
+/fpo/crop/viewcrop/1 2 439380 0 0
+/administrator/Login/getvillages/2908013014 1 1158 0 0
+/fpo/operation/committeelist 2 94047 0 0
+/fpo/crop/edit_crop/1 1 194322 0 0
+/fpo/production/outstandingWorkOrderEntry 1 0 0 0
+/fpo/updatecrop/varietymaster/1289 2 204 0 0
+/fpo/crop/viewcrop/6 1 219693 0 0
+/fpo/farmer/livestock_list 4 8593 0 0
+/fpo/finance/glaccounts/gl 1 115412 0 0
+/fpo/finance/post_purchase_entry 1 1573 0 0
+/fpo/operation/ceolist 4 189757 0 0
+/fpo/market/salesentry 8 940422 0 0
+/assets/vendor/fontawesome/webfonts/fa-regular-400.eot 1 34388 0 0
+/assets/uploads/farmer/ 1 6443 0 0
+/popi/fpo/getbusiness_type 2 3270 0 0
+/fpo/operation/addreappointment 6 319731 0 0
+/fpo/finance/postGLreports 1 78 0 0
+/administrator/Login/getvillages/2908013006 1 217 0 0
+/fpo/farmer/postfarmer 1 66 0 0
+/fpo/User/checkusername/9080558218 1 51 0 0
+/fpo/market/branchdetail/new_customer 3 87 0 0
+/fpo/masterdata/getproduct 1 6196 0 0
+/fpo/operation/constitutionlist 2 94459 0 0
+/assets/fonts/fontawesome-webfont.eot 1 165742 0 0
+/administrator/administrator/change_password 1 62 0 0
+/fpo/finance/getProductCountByID/2 1 65 0 0
+/fpo/operation/adddirector 1 55110 0 0
+/fpo/approver/customerlist 2 86020 0 0
+/fpo/updatecrop/cropnamebycategory/12 1 162 0 0
+/fpo/operation/addnotice 1 58756 0 0
+/fpo/updatecrop/subcategorybycategory/4 1 578 0 0
+/fpo/operation/baselinelist 2 94212 0 0
+/fpo/masterdata/banklist 7 1408956 1 0
+/fpo/ticket/ticketlist 9 394549 0 0
+/administrator/Login/getlocation/637019 1 2151 0 0
+/fpo/setting 3 166718 0 0
+/administrator/Login/getPanchayat/2908007 1 2730 0 0
+/administrator/Login/getvillages/2909003020 1 220 0 0
+/fpo/finance/glaccounts/customer 1 42553 0 0
+/fpo/user/adduser 6 233654 0 0
+/fpo/updatecrop/expenseslist 14 1539118 0 0
+/fpo/operation/viewceo/1 1 59826 0 0
+/fpo/operation/noticelist 3 147464 0 0
+/fpo/updatecrop/variety_dropdown_value/1027 1 19188 0 0
+/fpo/updatecrop/variety/1027 1 577 0 0
+/administrator/updatecrop 9 239140 0 0
+/fpo/operation/boardmeetinglist 2 95055 0 0
+/fpo/finance/debitnote 1 90582 0 0
+/fpo/fpo/profile/32900008 2 97276 0 0
+/fpo/operation/incorporatelist 3 110592 0 0
+/fpo/updatecrop/index 2 183936 0 0
+/fpo/masterdata/godownlist 5 185770 0 0
+/administrator/Login/getPanchayat/2907001 6 22992 0 0
+/administrator/fpo/getbusiness_type 2 1639 0 0
+/fpo/finance/profitandloss 8 497033 0 0
+/fpo/finance/getChildNodeByCode 13 2386 0 0
+/popi/Login/getvillages/2908013012 2 842 0 0
+/fpo/role/addrole 1 177500 0 0
+/fpo/farmer/getBlocksByDistrict/2909 9 3474 0 0
+/fpo/fig/addfig 2 89754 0 0
+/fpo/finance/postTrialBalance 6 375165 0 0
+/fpo/updatecrop/viewharvest/1 1 204122 0 0
+/fpo/production/costsWorkOrder/ 1 55915 0 0
+/popi/Login/getvillages/2908013004 4 2004 0 0
+/fpo/production/viewWorkOrder/ 4 183944 0 0
+/administrator/Login/getPanchayat/2910002 1 1877 0 0
+/popi/Login/getvillages/2908013008 4 1364 0 0
+/popi/Login/getPanchayat/2908013 2 2274 0 0
+/fpo/market/customers 6 1530035 0 0
+/fpo/crop/addcrop 2 403671 0 0
+/fpo/finance/getProductCountByID/6 3 195 0 0
+/fpo/farmer/getLiveStockVariety/1 1 1167 0 0
+/fpo/inventory/purchaseentry 5 561581 0 0
+/administrator/Login/getvillageById/2909003022/31381 1 125 0 0
+/fpo/operation/meetinglist 3 153882 0 0
+/administrator/Login/getvillages/2908013001 6 2994 0 0
+/fpo/finance/trialbalance 6 350193 0 0
+/fpo/finance/getProductCountByID/3 1 65 0 0
+/administrator/Login/getvillages/2909003022 9 13374 0 0
+/fpo/finance/getProductCountByID/5 1 67 0 0
+/fpo/operation/training_directorslist 1 47105 0 0
+/administrator/updatecrop/updatecroplist 7 256496 0 0
+/fpo/share/sharesvalue 2 101940 0 0
+/fpo/farmer/farmimplement_list 5 13369 0 0
+/popi/Login/getlocation/637405 1 38 0 0
+/popi/Login/getvillages/2908013007 4 3100 0 0
+/fpo/approver/shareAllotedList 1 42341 0 0
+/fpo/approver/receiptlist 1 42975 0 0
+/administrator/popi/popiDropDownList 1 475 0 0
+/fpo/farmer/livestocklist 4 217384 0 0
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map 4 1176504 0 0
+/administrator/popi 3 102345 0 0
+/fpo/updatecrop/land/1027 3 81 0 0
+/fpo/updatecrop/output/10 2 1142 0 0
+/fpo/updatecrop/varietymaster/2058 1 98 0 0
+/fpo/finance/getAllChildNodeByCode 6 1079 0 0
+/fpo/updatecrop/postharvestvariety/82 2 1430 0 0
+/administrator/Login/getlocation/638109 3 6555 0 0
+/.git/config 4 46977 4 4
+/fpo/finance/getProductCountByID/7 1 65 0 0
+/fpo/updatecrop/varietymaster/1325 1 102 0 0
+/fpo/operation/clusterlist 1 47099 0 0
+/fpo/operation/awarenesslist 1 47068 0 0
+/fpo/operation/editremoval 5 262074 0 0
+/administrator/Login/getvillages/2908013005 1 411 0 0
+/administrator/Login/getvillages/2908009011 1 800 0 0
+/popi/Login/getvillages/2908013005 2 822 0 0
+/fpo/fig/addfigrepresent 2 95224 0 0
+/fpo/finance/glaccounts/supplier 1 42553 0 0
+/administrator/crop/croplist 7 325934 0 0
+/fpo/finance/glaccounts 1 53435 0 0
+/fpo/operation/getnoticedetail/32900007 1 78 0 0
+/fpo/dashboard/search 1 37192 0 0
+/administrator/cropmaster/croplist 2 725232 0 0
+/fpo/farmer/getAreaUOM 1 178 0 0
+/administrator/login 1 14161 0 1
+/administrator/updatecrop/cropharvestlist 1 23045 0 0
+/fpo/finance/SalesInvoiceView/SL0031/031/4020201 1 52946 0 0
+/fpo/operation/getLocationByFpo/32900007 1 284 0 0
+/fpo/market/locationdetail/4020501 1 1666 0 0
+/administrator/fpo 2 71329 0 0
+/administrator/Login/getPanchayat/2908002 8 15464 0 0
+/administrator/Login/getPanchayat/2909003 9 25236 0 0
+/popi/Login/getvillages/2908013001 2 998 0 0
+/administrator/Login/getlocation/636810 1 1475 0 0
+/fpo/masterdata/getsubcategory 1 767 0 0
+/fpo/role/editrole/1 2 354542 0 0
+/popi/popi/popi_list 3 2727 0 0
+/administrator/Login/getPanchayatByCode/2909003/2909003022 1 111 0 0
+/fpo/masterdata/getcategory 2 109 0 0
+/administrator/crop 7 217903 0 0
+/administrator/Login/getPanchayat/2910005 1 1769 0 0
+/fpo/operation/company_secretarylist 2 94364 0 0
+/fpo/operation/addboardmeeting 1 73146 0 0
+/fpo/operation/addtraining_ceo 1 57751 0 0
+/fpo/farmer/landlist 10 604394 0 0
+/fpo/farmer/getBlocksByDistrict/2907 6 5538 0 0
+//fpo/finance/salesentry 1 117433 0 0
+/fpo/masterdata/addproductfpo 3 1140828 0 0
+/administrator/Login/getlocation/637405 7 15057 0 0
+/fpo/approver/godownlist 1 43150 0 0
+END_SIDER

@@ -1,0 +1,550 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201903 will be lost/reset.
+# Last config file used to build this data file was /home/farmbooks/tmp/awstats/awstats.farmbooks.live.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2012                
+POS_TIME 2686                
+POS_VISITOR 12550               
+POS_DAY 14207               
+POS_DOMAIN 3411                
+POS_LOGIN 3766                
+POS_ROBOT 3921                
+POS_WORMS 4211                
+POS_EMAILSENDER 4342                
+POS_EMAILRECEIVER 4485                
+POS_SESSION 14399               
+POS_SIDER 14605               
+POS_FILETYPES 4620                
+POS_DOWNLOADS 4906                
+POS_OS 5172                
+POS_BROWSER 5363                
+POS_SCREENSIZE 5768                
+POS_UNKNOWNREFERER 5842                
+POS_UNKNOWNREFERERBROWSER 6188                
+POS_ORIGIN 6455                
+POS_SEREFERRALS 6594                
+POS_PAGEREFS 6738                
+POS_SEARCHWORDS 6886                
+POS_KEYWORDS 7038                
+POS_MISC 2350                
+POS_ERRORS 7097                
+POS_CLUSTER 3622                
+POS_SIDER_404 7248                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190401035136 2 162 10214458621987
+FirstTime 20190303111038
+LastTime 20190307164738
+LastUpdate 20190401173618 2 0 1 0 0
+TotalVisits 69                  
+TotalUnique 37                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+FlashSupport 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+QuickTimeSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+TotalMisc 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 3 4 1823
+1 0 0 0 5 6 2054
+2 0 0 0 6 6 693
+3 2 29 1441163 2 2 462
+4 5 25 94241 2 2 462
+5 7 91 4369176 5 5 1155
+6 24 203 6480538 15 28 18373
+7 47 420 10024164 11 34 61847
+8 8 121 6279063 22 25 15177
+9 11 92 4014622 33 41 426047
+10 50 264 5493712 9 18 248482
+11 76 513 12592836 27 35 16051
+12 149 616 24365060 49 86 167938
+13 37 274 7929127 26 30 28601
+14 54 362 10677262 26 40 335614
+15 27 210 4887608 50 82 42790
+16 42 170 5660228 25 31 9106
+17 16 98 3440849 11 20 214356
+18 11 62 1847196 6 7 1155
+19 0 0 0 2 2 462
+20 0 0 0 4 4 924
+21 2 16 623255 0 0 0
+22 0 0 0 4 4 924
+23 1 1 7132 3 4 1823
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+in 420 2367 68711078
+sg 117 991 32426697
+us 20 113 3839372
+ca 5 32 2327877
+de 2 29 1441163
+ua 2 29 1441163
+gb 1 4 25566
+gr 1 1 7184
+ru 1 1 7132
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 4
+Googlebot/ 2 46563 20190306173338 0
+TelegramBot 1 38682 20190303141445 0
+Googlebot\-Image/ 1 1556 20190306115049 0
+GrapeshotCrawler/ 1 25335 20190303120829 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+js 694 34261682 0 0
+html 208 5865823 0 0
+map 12 3988639 0 0
+php 6 558104 0 0
+woff2 40 3086400 0 0
+Unknown 270 6311105 0 0
+txt 14 1052 0 0
+jpg 358 19459029 0 0
+woff 33 784296 0 0
+png 1391 20732834 0 0
+css 541 15178268 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 3
+/.well-known/pki-validation/2767A99E2044F3EBC39D9A70DDE87879.txt 12 0 924
+/.well-known/pki-validation/5B6830C003C59B57C55F49DB137DB231.txt 1 0 64
+/.well-known/pki-validation/9FE5990354555AEFD4DF32F6FF7419AC.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 9
+win10 2223 342
+macosx12 1 1
+win8 1 1
+Unknown 31 13
+linuxandroid 492 79
+win7 233 20
+win8.1 180 70
+ios_iphone 374 38
+linux 32 5
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 18
+chrome72.0.3626.105 496 78
+safari 65 8
+opera58.0.3135.79 67 10
+firefox40.1 2 2
+netscape5.0 2 1
+chrome58.0.3029.110 1 1
+netscape 1 1
+Unknown 27 9
+safari12.0 309 30
+chrome72.0.3626.121 111 16
+chrome71.0.3578.80 58 4
+chrome71.0.3578.98 1 1
+firefox65.0 560 74
+mozilla 3 3
+firefox58.0 181 71
+chrome63.0.3239.132 2 2
+chrome72.0.3626.119 1365 221
+edge17 316 37
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+COMODO_DCV 20190303113826
+AddThis.com_(http://support.addthis.com/) 20190303115419
+Mozilla/5.0_(compatible;_ips-agent) 20190305063753
+WhatsApp/2.19.53_A 20190304124627
+Go-http-client/1.1 20190306040102
+WhatsApp/2.19.34_A 20190304145024
+Mozilla 20190303183909
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 5
+WhatsApp/2.19.34_A 20190304145024
+WhatsApp/2.19.53_A 20190304124627
+Go-http-client/1.1 20190306040102
+COMODO_DCV 20190303113826
+AddThis.com_(http://support.addthis.com/) 20190303115419
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 198 320
+From1 3 3
+From2 0 0
+From3 0 0
+From4 368 3244
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+303 34 0
+307 54 0
+301 147 32865
+206 34 1222308
+500 14 26740
+404 205 202270
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 104
+/js/jquery.slitslider.js 1 http://farmbooks.live/
+/fpo/login 3 http://farmbooks.live/fpo/popi/fpo/addfpo
+/images/sample/slider/img2.png 1 http://farmbooks.live/
+/fpo/assets/img/home/icon-soil.png 2 http://farmbooks.live/fpo/
+/2015/wp-includes/wlwmanifest.xml 1 -
+/wordpress/wp-includes/wlwmanifest.xml 1 -
+/home/lan 1 -
+/images/portfolio/full/item2.jpg 1 http://farmbooks.live/
+/robots.txt 25 http://www.farmbooks.live/robots.txt
+/css/sl-slide.css 1 http://farmbooks.live/
+/hom 1 -
+/fpo/assets/img/home/icon-hr.png 2 http://farmbooks.live/fpo/
+/fpo/assets/vendor/bootstrap/css/bootstrap.min.css 2 http://farmbooks.live/fpo/
+/fpo/assets/js/main.js 3 http://farmbooks.live/fpo/
+/js/jquery.ba-cond.min.js 1 http://farmbooks.live/
+/js/vendor/bootstrap.min.js 1 http://farmbooks.live/
+/images/sample/clients/client1.png 1 http://farmbooks.live/
+/images/portfolio/thumb/item1.jpg 1 http://farmbooks.live/
+/css/bootstrap.min.css 1 http://farmbooks.live/
+/images/sample/slider/img3.png 1 http://farmbooks.live/
+/fpo/home/landing 3 -
+/fpo/assets/fav.png 1 http://farmbooks.live/home/landing
+/wp/wp-includes/wlwmanifest.xml 1 -
+/images/sample/clients/client3.png 1 http://farmbooks.live/
+/fpo/assets/img/home/icon-m.png 2 http://farmbooks.live/fpo/
+/ho 1 -
+/home/landin 1 -
+/ads.txt 1 -
+/media/wp-includes/wlwmanifest.xml 1 -
+/2018/wp-includes/wlwmanifest.xml 1 -
+/images/sample/clients/client2.png 1 http://farmbooks.live/
+/FPO 1 -
+/fpo/assets/img/home/icon-supplychain.png 2 http://farmbooks.live/fpo/
+/wp1/wp-includes/wlwmanifest.xml 1 -
+/fpo/assets/css/font-awesome.min.css 4 http://farmbooks.live/fpo/
+/home/launch 3 -
+/cms/wp-includes/wlwmanifest.xml 1 -
+/css/main.css 1 http://farmbooks.live/
+/wp2/wp-includes/wlwmanifest.xml 1 -
+/administrator/index.php 10 https://farmbooks.live/administrator/login/signout
+/home/landi 1 -
+/fpo/assets/js/scrolling-nav.js 4 http://farmbooks.live/fpo/
+/fpo/assets//fav.png 1 http://farmbooks.live/
+/fpo/assets/vendor/jquery/jquery.min.js 2 http://farmbooks.live/fpo/
+/fpo/assets/uploads/farmer/null 2 http://farmbooks.live/fpo/administrator/farmer/viewfarmer
+/images/portfolio/thumb/item4.jpg 1 http://farmbooks.live/
+/fpo/administrator/popi 1 http://farmbooks.live/fpo/administrator/dashboard
+/fpo/assets/css/responsive.css 3 http://farmbooks.live/fpo/
+/fpo/assets/img/home/icon-marketting.png 2 http://farmbooks.live/fpo/
+/js/vendor/jquery-1.9.1.min.js 1 http://farmbooks.live/
+/landing 1 -
+/images/portfolio/thumb/item3.jpg 1 http://farmbooks.live/
+/fpo/assets/img/home/icon-h-finance.png 2 http://farmbooks.live/fpo/
+/images/logo.png 2 http://farmbooks.live/
+/home/la 1 -
+/css/font-awesome.min.css 1 http://farmbooks.live/
+/fpo/home/contactus 2 -
+/fpo/assets/img/home/icon-crop.png 2 http://farmbooks.live/fpo/
+/images/portfolio/full/item4.jpg 1 http://farmbooks.live/
+/test/wp-includes/wlwmanifest.xml 1 -
+/fpo/assets/img/home/icon-share.png 2 http://farmbooks.live/fpo/
+/fpo/administrator/login/signout 1 http://farmbooks.live/fpo/fpo/farmer/addfarmer
+/fpo/assets/img/home/icon-ecommerce.png 2 http://farmbooks.live/fpo/
+/src/download.js 2 http://farmbooks.live/
+/website/wp-includes/wlwmanifest.xml 1 -
+/home/land 1 -
+/shop/wp-includes/wlwmanifest.xml 1 -
+/fpoo 1 -
+/2016/wp-includes/wlwmanifest.xml 1 -
+/images/portfolio/full/item1.jpg 1 http://farmbooks.live/
+/fpo/assets/img/home/icon-h-profile.png 2 http://farmbooks.live/fpo/
+/humans.txt 1 -
+/font/fontawesome-webfont.woff 2 http://farmbooks.live/
+/fpo/assets/img/home/slide-img1.jpg 2 http://farmbooks.live/fpo/
+/xmlrpc.php 1 -
+/blog/wp-includes/wlwmanifest.xml 1 -
+/wp-login.php 8 -
+/images/portfolio/full/item3.jpg 1 http://farmbooks.live/
+/fpo/assets/img/home/icon-production.png 2 http://farmbooks.live/fpo/
+/fpo/assets/css/landing-style.css 3 http://farmbooks.live/fpo/
+/2017/wp-includes/wlwmanifest.xml 1 -
+/sito/wp-includes/wlwmanifest.xml 1 -
+/fpo/administrator/login 2 http://farmbooks.live/home/landing
+/fpo/assets/vendor/jquery-easing/jquery.easing.min.js 2 http://farmbooks.live/fpo/
+/images/portfolio/thumb/item2.jpg 1 http://farmbooks.live/
+/web/wp-includes/wlwmanifest.xml 1 -
+/home/launching 2 -
+/fpo/assets/img/home/icon-h-op.png 2 http://farmbooks.live/fpo/
+/admin 4 -
+/site/wp-includes/wlwmanifest.xml 1 -
+/news/wp-includes/wlwmanifest.xml 1 -
+/fpo/assets/vendor/bootstrap/js/bootstrap.bundle.min.js 2 http://farmbooks.live/fpo/
+/font/fontawesome-webfont.ttf 1 http://farmbooks.live/css/font-awesome.min.css
+/admin.php 8 -
+/images/sample/clients/client4.png 1 http://farmbooks.live/
+/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js 1 http://farmbooks.live/
+/wp-admin/ 8 http://farmbooks.live/wp-login.php
+/css/bootstrap-responsive.min.css 1 http://farmbooks.live/
+/fpo/assets/img/home/icon-h-inventory.png 2 http://farmbooks.live/fpo/
+/wp-includes/wlwmanifest.xml 1 -
+/js/main.js 1 http://farmbooks.live/
+/images/sample/slider/img1.png 1 http://farmbooks.live/
+/fpo/assets/img/home/logo.png 2 http://farmbooks.live/fpo/
+/fpo/assets/img/icons/profile.png 1 http://farmbooks.live/
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+49.204.234.188 147 629 16339627 20190306105740
+115.66.229.33 74 559 20807774 20190307164738
+117.239.96.251 70 180 5865367 20190304125415
+106.198.39.218 32 129 5942421 20190304122151
+42.106.92.28 29 98 3502942 20190305164250
+223.181.226.69 29 224 7474251 20190305152356
+183.90.37.126 23 227 6272826 20190304154159
+45.118.33.55 23 264 5821059 20190303115143
+116.88.59.176 17 178 4986322 20190306105734
+117.215.212.158 17 135 4825644 20190306104000
+61.16.140.98 15 200 6762963 20190305084918
+163.53.204.74 14 124 1809384 20190303152540
+106.200.138.76 10 123 2719832 20190304074644
+42.106.95.207 10 58 1679468 20190305175325
+106.203.6.0 7 58 1926295 20190304161851
+103.25.44.58 6 62 2205756 20190304051815
+64.233.173.27 6 48 1848091 20190304154303
+106.197.145.100 5 37 999918 20190304165028
+42.106.91.119 4 6 65940 20190304145056
+69.58.178.56 3 3 86146 20190305063753
+183.90.36.20 3 27 359775 20190305130958
+64.233.173.25 3 28 826629 20190304090443
+192.95.39.46 2 29 2270075 20190305082329
+95.216.18.217 2 29 1441163 20190304032633
+117.215.214.243 2 29 769390 20190305082222
+51.15.191.81 1 1 25335 20190304090026
+54.244.194.19 1 1 7132 20190306040102
+178.128.170.60 1 1 7184 20190305185408
+103.14.121.245 0 11 821 
+52.114.6.38 1 2 8549 20190304124516
+159.89.111.196 1 1 7132 20190305040442
+104.192.74.16 2 2 50670 20190303183909
+8.37.70.109 1 1 25335 20190303115419
+94.19.150.216 1 1 7132 20190305233341
+46.4.120.42 2 29 1441163 20190303175640
+35.163.200.147 1 1 25335 20190304040002
+72.38.143.178 2 2 50670 20190303150053
+64.233.173.26 2 27 961485 20190304141442
+91.199.212.132 0 3 231 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 5
+20190303 129 1193 34092514 14
+20190304 318 1709 55124677 36
+20190305 59 333 11948356 12
+20190306 57 326 8503581 5
+20190307 6 6 558104 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 7
+0s-30s 40
+2mn-5mn 7
+1h+ 5
+30mn-1h 5
+5mn-15mn 2
+15mn-30mn 8
+30s-2mn 2
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 106
+/ 115 2429585 41 21
+/fpo/ 77 2946757 11 8
+/font/fontawesome-webfont.woff 33 784296 1 9
+/home/landing 20 236270 5 4
+/assets/fonts/fontawesome-webfont.woff2 20 1543200 0 7
+/fpo/assets/fonts/fontawesome-webfont.woff2 20 1543200 0 2
+/home/launch 18 709642 0 2
+/fpo/home/contactus 15 216156 3 4
+/fpo/administrator/dashboard 12 435748 1 1
+/fpo/administrator/popi 11 305976 0 1
+/fpo/administrator/farmer/profilelist 10 418239 0 1
+/fpo/popi/fpo/fpolist 8 421 0 0
+/fpo/administrator/login/signout 8 0 1 0
+/fpo/assets/vendor/bootstrap/css/bootstrap.min.css.map 7 2249708 0 1
+/fpo/administrator/Login/getPanchayat/2914010 6 17550 0 0
+/info.php 6 558104 2 2
+/administrator/login/signout 6 0 0 0
+/fpo/administrator/fpo 6 164082 0 0
+/popi/fpo 6 26835 0 0
+/home/contactus 5 72965 1 1
+/popi/dashboard 5 101725 0 0
+/fpo/popi/fpo/addfpo 5 259080 0 0
+/administrator/login 5 57660 3 2
+/fpo/administrator/farmer 5 51437 0 0
+/fpo/popi/popi/popi_list 5 1060 0 0
+/popi/fig 1 21763 0 0
+/fpo/fpo/fpg 3 92016 0 0
+/fpo/fpo/fig/figrepresentativelist 1 32086 0 0
+/administrator/farmer/profilelist 1 41600 0 0
+/contact-us.html 1 10499 0 0
+/fpo/administrator/Login/getvillages/2914010024 1 884 0 0
+/fpo/administrator/popi/popiDropDownList 3 288 0 0
+/administrator/operation 1 32124 0 0
+/fpo/administrator/Login/checkusername/9898989898 1 51 0 0
+/administrator/cropmaster/croplist 1 57993 0 1
+/home 1 39074 0 0
+/fpo/administrator/tax 1 406564 0 0
+/fpo/farmer/getBlocksByDistrict/2914 1 523 0 0
+/fpo/fpo/fpo/profile/32900101 1 41874 0 0
+/fpo/dashboard 1 33792 0 0
+/fpo/administrator/Login/checkusername/9710497104 2 111 0 0
+/administrator/share/fpo_sharelist 1 27672 0 0
+/popi/farmer 2 58 0 0
+/fpo/administrator/Login/getlocation/609114 1 1256 0 0
+/fpo/fpo/farmer/addfarmer 2 450972 0 0
+/fpo/fpg 2 60736 0 0
+/fpo/administrator/Login/getlocation/609107 2 2716 0 0
+/administrator/farmer 1 29 0 0
+/assets/vendor/bootstrap/css/bootstrap.min.css.map 1 562427 0 0
+/fpo/fpo/farmer/getDistrictByState/29 3 4515 0 0
+/fpo/fpo/dashboard 3 101594 0 0
+/fpo/administrator/Popi/viewpopi/1 2 113891 0 0
+/fpo/fpo/operation 1 37986 0 0
+/fpo/administrator/Login/getPanchayat/2914009 3 13419 0 0
+/popi/fig/figrepresentlist 1 35 0 0
+/administrator/share 1 27596 0 0
+/popi/farmer/profilelist 2 76844 0 0
+/fpo/fpo/crop 2 64608 0 0
+/fpo/administrator/farmer/viewfarmer 2 173832 0 0
+/fpo/administrator/fpo/addfpo 4 229672 0 0
+/fpo/administrator/farmer/edit_Farmer/144 2 1608 0 0
+/popi/ 1 22629 0 0
+/administrator/share/addshareapplication 1 37635 0 0
+/fpo/administrator/fpg 1 27179 0 0
+/fpo/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map 3 882378 0 0
+/fpo/fpo/finance/salesentry 1 73263 0 0
+/fpo/fpo/farmer/profilelist 4 188508 0 0
+/fpo/popi/fpo 1 19752 0 0
+/popi/fig/figrepresentativelist 1 23401 0 0
+/popi/fpg 1 21933 0 0
+/fpo/administrator/fpo/getbusiness_type 4 8280 0 0
+/fpo/administrator/fig 1 28275 0 0
+/home/ 2 78148 0 0
+/administrator/Login/getvillages/2914010021 1 585 0 0
+/fpo/administrator/Login/getModuleByCode/fts 1 144 0 0
+/administrator/cropmaster 1 35302 0 0
+/fpo/fpo/updatecrop/subcategorybycategory/3 1 2828 0 0
+/administrator/dashboard 3 116298 0 0
+/fpo/administrator/fig/figrepresentativelist 1 28710 0 0
+/fpo/farmer/profilelist 1 46791 0 0
+/portfolio.html 1 20899 0 0
+/fpo/fpo/share 1 31588 0 0
+/fpo/administrator/Login/getvillages/2914010021 5 2925 0 0
+/fpo/fpo/farmer/getBlocksByDistrict/2914 3 1569 0 0
+/fpo/administrator/fpo/viewfpo/1 2 133712 0 0
+/fpo/farmer/getDistrictByState/29 1 1505 0 0
+/fpo/administrator/popi/popi_list 2 424 0 0
+/fpo/fpo/crop/croplist 2 54 0 0
+/fpo/administrator/Login/getvillages/2914010020 1 602 0 0
+/administrator/popi 2 55366 0 0
+/services.html 1 11967 0 0
+/fpo/administrator/popi/addpopi 1 49743 0 0
+/fpo/farmer 1 149 0 0
+/home/landing/ 5 195889 0 2
+/assets/vendor/bootstrap/js/bootstrap.bundle.min.js.map 1 294126 0 0
+/about-us.html 2 33404 0 0
+/fpo/fpo/farmer 3 447 0 0
+/fpo/home/ 3 116046 0 0
+/fpo/administrator/fpo/postfpo 1 1586 0 0
+/fpo/fpo/setting/sharesvalue 1 36124 0 0
+/fpo/fpo/fig/figrepresentlist 1 35 0 0
+/fpo/administrator/fig/figrepresentlist 1 35 0 0
+/fpo/fpo/crop/addcrop 1 60725 0 0
+/administrator/Login/getPanchayat/2914010 1 2925 0 0
+/fpo/administrator/Login/getvillages/2914010019 2 1034 0 0
+/fpo/home/landing 1 7045 0 0
+END_SIDER
